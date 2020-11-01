@@ -6,7 +6,7 @@
 	- [medical.ipynb](medical.ipynb) - Token analysis for medical domain
 	- [se.ipynb](se.ipynb) - Token analysis for Software Engineering domain
 	- [sg_law.ipynb](sg_law.ipynb) - Token analysis for Law domain
-	- [pair ranker.ipynb](pai%20ranker.ipynb) - Pair Ranker for 3.2
+	- [pair_ranker.ipynb](pair_ranker.ipynb) - Pair Ranker for 3.2
 	- [for 3.3.ipynb](for%203.3.ipynb) - Application for 3.3
 - Custom libraries for Token analysis for medical domain
 	- [data_analysis.py](data_analysis.py)
