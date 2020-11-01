@@ -3,7 +3,7 @@ Domain Specific Text Data Analysis and Processing
 
 
 
-### Readme Notice (See how u want to write)
+### Readme Notice 
 Execution of the programs and all relative links mentioned here requires the change of your current directory to the `SourceCode` folder. Do this with the following command in `command prompt`.
 ```
   $ cd SourceCode
