@@ -19,10 +19,10 @@
 #### Medical folder (./Medical)
 - Raw data for medical
 
-#### Outputs (./Outputs)
+#### Outputs folder (./Outputs)
 - Processed data for medical
 	
-#### Crawlers (./Crawlers)
+#### Crawlers folder (./Crawlers)
 - Crawler scripts
 	- [software_engineering.py](software_engineering.py) - Crawls data for Software Engineering
 	- [statues.py](statues.py) - Crawls data for Law
