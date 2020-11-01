@@ -1,4 +1,3 @@
-# CZ4045---NLP
 CZ4045 Natural Language Processing: Domain Specific Text Data Analysis and Processing
 
 
@@ -101,7 +100,6 @@ Top 20 most frequent words after stemming:
 POS Tagging for 5 random sentences: 
 it looked good but did not fit properly the volume would change without touching the buttons and the vibrate switch was partially covered buy a different bumper they are all much better => [('it', 'PRP'), ('looked', 'VBD'), ('good', 'JJ'), ('but', 'CC'), ('did', 'VBD'), ('not', 'RB'), ('fit', 'VB'), ('properly', 'RB'), ('the', 'DT'), ('volume', 'NN'), ('would', 'MD'), ('change', 'VB'), ('without', 'IN'), ('touching', 'VBG'), ('the', 'DT'), ('buttons', 'NNS'), ('and', 'CC'), ('the', 'DT'), ('vibrate', 'NN'), ('switch', 'NN'), ('was', 'VBD'), ('partially', 'RB'), ('covered', 'VBN'), ('buy', 'VB'), ('a', 'DT'), ('different', 'JJ'), ('bumper', 'NN'), ('they', 'PRP'), ('are', 'VBP'), ('all', 'DT'), ('much', 'RB'), ('better', 'JJR')]
 
-thanks bought  3 different colors  fit like a glove  protects well and looks very nice came fast and we are very very pleased with them thank you => [('thanks', 'NNS'), ('bought', 'VBD'), ('3', 'CD'), ('different', 'JJ'), ('colors', 'NNS'), ('fit', 'VBP'), ('like', 'IN'), ('a', 'DT'), ('glove', 'NN'), ('protects', 'VBZ'), ('well', 'RB'), ('and', 'CC'), ('looks', 'VBZ'), ('very', 'RB'), ('nice', 'JJ'), ('came', 'VBD'), ('fast', 'RB'), ('and', 'CC'), ('we', 'PRP'), ('are', 'VBP'), ('very', 'RB'), ('very', 'RB'), ('pleased', 'JJ'), ('with', 'IN'), ('them', 'PRP'), ('thank', 'VBP'), ('you', 'PRP')]
 ```
 
 In addition, the following shows the graph plot for frequency statistics of sentence segmentation, tokenized word without stemming, and tokenized word with stemming. This graph will be available as `.png` image in the folder [here](SourceCode/results/dataset_analysis/) once the program finish running.
@@ -125,29 +123,4 @@ A trace sample and graph image of the result can be found in the folder [here](S
 The following image shows the actual sample trace and graph output you would see when running the `sentiment word detection` algorithm. The sample trace shows the top 20 positive and negative words along with the calculation of its `adjusted sentiment` value. The graph plot the top 20 positive and negative words by their `adjusted sentiment`.
 
 ![alt text](SourceCode/results/sentiment_word_detection/result.png)
-
-### 4. Application
-
-This tool is written in Java, using Stanford NLP v3.9.1.  
-To run the tool, you will need to have Stanford NLP installed. There are many ways to do this, but the following way is recommended if you (i) don't have Maven, (ii) don't want to use the in-built server and (iii) don't want to extract the source files from the jar file
-
-1. Click on [this download link](http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip) to download Stanford CoreNLP 3.9.2. Although the tool was written with 3.9.1, there shouldn't be any breaking changes. 
-2. Unzip the file.
-3. Place 'NegationDetection.java' into the folder named 'stanford-corenlp-full-2018-10-05' (the exact date might be different depending on the version you installed, just update accordingly)
-4. Compile and run the code by running the following:
-
-For 3.9.1
-```
-javac -cp stanford-corenlp-3.9.1.jar:stanford-corenlp-3.9.1-javadoc.jar:stanford-corenlp-3.9.1-models.jar:stanford-corenlp-3.9.1-sources.jar: NegationDetection.java && java -cp stanford-corenlp-3.9.1.jar:stanford-corenlp-3.9.1-javadoc.jar:stanford-corenlp-3.9.1-models.jar:stanford-corenlp-3.9.1-sources.jar: -Xmx1200m NegationDetection
-```
-
-5. Feel free to modify **testString** to see the different results the tool produce. 
-
-After running the program, a long list of workings will be shown, and the output ends off with a comparison between the original string and the negated string. 
-
-```
-Original String
-I'm sure that there is something that says it will not come pictured, still I was disappointed. The tools helped me get the job done, but they also did not hold up well. The plastic plying tools didn't hold and broke fairly quickly. I can't say that it wasn't user error, but they seemedvery cheap.
-New String
-[i, 'm, sure, that, there, is, something, that, says, it, will, not, no1_come, no1_pictured, no1, no1_still, no1_i, no1_was, no1_disappointed, ., the, tools, helped, me, get, the, job, done, ,, but, they, also, did, not, no1_hold, no1_up, no1_well, ., the, plastic, plying, tools, did, n't, no1_hold, no1, no1_broke, no1_fairly, no1_quickly, ., i, ca, n't, no1_say, no1_that, no1_it, no1_was, no1_n't, no1_user, no1_error, ,, but, they, seemed, very, cheap, .]
-```
+``` 
