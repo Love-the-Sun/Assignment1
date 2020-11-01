@@ -18,18 +18,10 @@
 
 #### Medical folder (./Medical)
 - Raw data for medical
-	- [ai_health_medicine.txt](ai_health_medicine.txt)
- 	- [bladder_cancer.txt](bladder_cancer.txt)
- 	- [cell_therapy_stroke.txt](cell_therapy_stroke.txt)
- 	- [cells_medicine.txt](cells_medicine.txt)
- 	- [dementia_care.txt](dementia_care.txt)
- 	- [dementia_prevention.txt](dementia_prevention.txt)
- 	- [dementia_timely_diagnosis.txt](dementia_timely_diagnosis.txt)
 
 #### Outputs (./Outputs)
 - Processed data for medical
-	- [tokens.txt](tokens.txt)
-	- [Tokens_medical.txt](Tokens_medical.txt)
+	
 #### Crawlers (./Crawlers)
 - Crawler scripts
 	- [software_engineering.py](software_engineering.py) - Crawls data for Software Engineering
@@ -40,25 +32,25 @@
 
 ### Optional Step
 You may want to initialize a python virtual environment first before installing dependencies to run this project.
-```cmd
+```shell
 python -m venv .env
 ```
 Next, you will need to activate this virtual environment.
 For Windows:
-```cmd
+```shell
 .env\Scripts\activate
 ```
 For Unix:
-```cmd
+```shell
 .env\Scripts\activate.sh
 ```
 ### Install dependencies
 We have included a `requirements.txt` which includes the python libraries and their respective versions that is used at this point of writing. You can install them by running:
-```cmd
+```shell
 pip install -r requirements.txt
 ```
 As we also uses `spaCy` we need to download its model before it is usable.
-```cmd
+```shell
 python -m spacy download en_core_web_sm
 ```
 ### Running instruction
