@@ -32,7 +32,7 @@ def get_tokens(data_type):
     final_list = []
 
     for file_name in file_names:
-        file = open("{0}/{1}".format(folder, file_name), "r")
+        file = open("{0}/{1}".format(folder, file_name), "r", encoding='UTF-8')
         text = file.read()
         lines = text.split("\n")
 
@@ -123,7 +123,7 @@ def sentence_segment(data_type):
     final_list = []
 
     for file_name in file_names:
-        file = open("{0}/{1}".format(folder, file_name), "r")
+        file = open("{0}/{1}".format(folder, file_name), "r", encoding='UTF-8')
         text = file.read()
         tokens = nltk.sent_tokenize(text, "english")
 
