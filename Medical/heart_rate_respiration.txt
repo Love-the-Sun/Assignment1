@@ -1,0 +1,1397 @@
+Biological Psychology 34 (1992) 93-130
+Research methods for measurement of heart rate
+and respiration
+Stephen W. Porges and Evan A. Byrne
+UniLwsity of Maryland, College Park, MD, USA
+
+Strategies for heart rate and respiration quantification are dependent upon a knowledge of
+physiology and statistics. To develop appropriate and sensitive psychophysiological measures, it
+is necessary to understand the neural control of the autonomic nervous system and the statistical
+characteristics of physiological data. Moreover, it is proposed that inferences derived from
+physiological measures are dependent upon a statistical interaction between the characteristics
+of the physiological data and the measurement techniques. The steps required to analyze heart
+rate and respiration data are presented, ranging from data acquisition and editing to data
+analysis and physiological inference. A variety of techniques are described and contrasted with
+recommendations for future research.
+Keywords: Heart rate, heart rate variability, respiration, autonomic nervous system, vagus,
+methodology, analysis techniques, time-series analysis, frequency-domain analysis,
+filtering.
+1. Why measure heart rate, heart rate variability and respiration?
+The measurement of cardio-pulmonary variables provides important information
+regarding both metabolic and central nervous system activity. Interest
+in monitoring breathing and cardiac variables has changed historically. Early
+work focused on the use of these variables as indicators of viability. Cessation
+of breathing and heart beat have been used in clinical definitions of death.
+Moreover, medical evaluations of health have always emphasized the quality
+of breathing and the rhythm of the heart beat. For a review of these issues
+see a textbook on medical physiology (e.g. Guyton, 1976).
+Theoretical models based upon systematic observations of these variables
+have related cardio-pulmonary function to energy delivery. Research in areas
+such as exercise physiology and behavioral medicine has resulted in the
+identification of lawful relationships between both pulmonary and cardiac
+variables and metabolic activity (e.g. Obrist, 1981).
+More recently, research has focused on the neural mediation of the
+cardiac responses, how the pulmonary system interacts with cardiac responses,
+and how these variables are influenced by mental states, physiological
+stress, health status and drugs. Clinical monitoring of heart rate and
+respiration variables has been used in critical settings to evaluate both health
+status and response to various medical treatments including anesthesia and
+drugs (e.g. Porges, 19911.
+This paper will focus on heart rate variables. Respiration will be discussed
+as a system which interacts with heart rate. A discussion of cognitive and
+affective influences on autonomic responses, implicitly assumes a direct
+relationship between central nervous system processes and the regulation of
+autonomic function. This leads to the study of the neurophysiological pathways
+regulating autonomic responses. Thus, the study of heart rate patterns,
+regardless of whether the heart rate patterns are physiological indicators of
+metabolic, cognitive, or affective processes, requires an understanding of
+specific central nervous system structures.
+2. Neural control of the heart
+2.1. Historical
+Interest in the role neural modulation of the heart contributes to emotion
+and stress was stated by Darwin (1872).
+. . . when the mind is strongly excited, we might expect that it would
+instantly affect in a direct manner the heart.. . when the heart is
+affected it reacts on the brain; and the state of brain again reacts
+through the pneumo-gastric [vagus] nerve on the heart; so that under
+any excitement there will be much mutual action and reaction between
+these, the two most important organs of the body. (p. 69).
+In this statement Darwin has provided us with both an organizing variable
+and a measurement index. First, he suggested that the nervous system
+mediates the interaction between psychological and physiological phenomena.
+Second, he identified the pneumo-gastric nerve (vagus) as a physiological
+system sensitive to this interaction. Current research on cardiovascular
+reactivity assumes neural modulation via the vagus and sympathetic nerves.
+Similarly, research indexing risk or stress with measures of cardiac vagal tone
+is driven by the assumed relationship between the central nervous system and
+the vagal control of the heart (Porges, 1985al.
+Interest in vagal control as a regulatory mechanism in the expression of
+individual differences in autonomic dysfunction is not new. Eppinger and
+Hess (1915) introduced the concept of vagal tone as an individual difference
+in their monograph entitled Kzgotonia. Eppinger and Hess described a form
+of autonomic dysfunction for which there was no known anatomical basis.
+It is often &satisfactory for the physician.. . to find that he must be
+content to make a diagnosis of “Neurosis”. The symptomatology and
+the impossibility of establishing any anatomical basis for the disease
+always remain the most conspicuous points in formulating the diagnosis
+of a neurosis of an internal organ. (p. 1)
+The objective of their monograph was to identify a physiological substrate
+which could explain this anomaly and thus provide the mechanisms for a
+variety of clinically observed neuroses. Eppinger and Hess, like Darwin,
+speculated “that in the central nervous system there exists some common
+center which controls the antagonistic actions.. . ” of the autonomic nervous
+system. They assumed that this central mechanism was manifested in stable
+individual differences the amplitude of respiratory mediated heart rate
+patterns.
+. . . clinical facts, such as respiratory arrhythmia, habitual bradycardia,
+etc., have furnished the means of drawing our attention to the variations
+in the tonus of the vagal system in man.
+Although Eppinger and Hess were interested in clinical medicine, their
+case studies described a relationship between a problem in the regulation of
+autonomic function that did not have an identifiable morphological correlate.
+Their observations are relevant to our interest in the interface between
+behavior and physiology in clinical medicine for four important reasons:
+(11 they alerted us to the importance of the autonomic nervous system in
+mediating atypical physiological responses;
+(2) they related individual differences in physiology to individual differences
+in psychiatric pathology (i.e. neuroses);
+(3) they recognized the pharmacological sensitivity of the vagal system to
+cholinergic agents, thereby potentially identifying pharmacological treatments;
+(4) they brought to the attention of the medical community the commonality
+of the vagal innervation of various peripheral organs and thus a possible
+common explanation for a number of clinical disorders.
+The history of research and theory on the autonomic nervous system has
+passed through various stages. In earlier physiological research the autonomic
+nervous system has been relegated to a “vegetative” status and
+assumed to be relatively independent of the higher brain processes associated
+with psychological states. This, of course, was not true. Psychophysiology as a
+discipline has evolved in direct response to these faulty assumptions. The
+autonomic nervous system has direct innervation by the cranial nerves. The
+output from cranial nerves is modulated not only by peripheral feedback
+from the viscera, but also from direct cortical and subcortical structures.
+Autonomic processes can be conditioned and are continuously influenced by
+higher brain structures. For example, vagal influences on the heart change
+during psychological processes, including cognitive and affective processes,
+and physiological stress associated with exercise and fever.
+2.2. Feedback loops, cariability and oscillations
+An understanding of how physiological systems function and interact is
+extremely important to psychophysiologists. Before one can attempt to define
+physiological response variables, it is important to understand the topography
+of naturally occurring physiological response patterns as well as the interactive
+relationship between various responses. For example, it is necessary to
+know the latency of a physiological response system before it can be employed
+in specific research paradigms. It is possible, via operational definitions,
+to quantify time periods of a physiological system which will not be
+sensitive to the psychophysiological processes being investigated.
+Since heart rate is neurally mediated, it has been proposed that the
+monitoring of heart rate will provide a sensitive indicator of the central
+nervous system status. Many researchers have proposed that the neurally
+mediated oscillations in the heart rate pattern reflect a variety of mental
+states, including stress, emotion, consciousness or alertness, and attention.
+Thus, the measurement of heart rate patterns may provide a “window to. the
+brain” and may be used as an index of general central nervous system status.
+Autonomic response systems are continuously being regulated via complex
+feedback. Feedback loops typical of many homeostatic processes produce a
+rhythmic pattern characterized by phasic increases and decreases in neural
+efferent output to organs such as the heart. Often, as in the case of heart
+rate, there are numerous feedback influences and, thus, the response is
+composed of the sum of numerous rhythmic components. In many physiological
+systems, efficient neural control is manifest as rhythmic physiological
+variability. Within normal parameters greater amplitude of oscillation is
+associated with health. Thus, the amplitude of rhythmic physiological processes
+may index the status of the individual’s nervous system and capacity to
+respond. In other words, the greater the amplitude of “organized” rhythmic
+physiological variability, the greater the response potential or possible range
+of behavior. Individuals with attenuated physiological variability would then
+exhibit a lack of physiological and behavioral flexibility in response to
+environmental demands.
+Heart rate in the healthy adult is not constant. The pattern of heart rate
+reflects the continuous feedback between the central nervous system and the
+peripheral autonomic receptors. One of the principal objectives in the study
+of heart rate variability (HRV) is to decode the complex pattern into
+measurable and interpretable components. The feedback system between the
+central control of autonomic processes in the medulla and the heart produces
+phasic increases and decreases in neural efferent output via the vagus. In
+most sitnations, like other measures of homeostatic function, the greater the
+range of the phasic increases and decreases, the “healthier” the individual.
+For example, with the aging process or with severe stress, there is an
+attenuation of the range of homeostatic function. Paralleling this process is a
+reduction in HRV (e.g. Lipsitz, Mietus, Moody & Goldberger, 1990, for
+aging).
+The efficiency of neural control may be manifested in rhythmic physiological
+variability and may portray the status of the individual and individual’s
+capacity and range to behave. In terms of heart rate patterns, the greater the
+organized rhythmic physiological variability, the greater the range (and potential
+complexity) of behavior. Individuals with attenuated physiological
+variability, would then exhibit a lack of behavioral flexibility in response to
+environmental demands. Although average heart rate seems to be a relatively
+accurate index of metabolic activity, the topography of the heart rate pattern
+provides additional information regarding the continuous neural feedback
+between the cardiovascular system and the higher central nervous system
+structures.
+HRV is a complex and often ambiguous construct. It has had numerous
+definitions as well as quantification methods. Most of these methods have
+been empirically based descriptive statistics (e.g. standard deviation, mean
+successive difference, range, log variance etc). Interest in statistical assumptions
+and underlying physiological mechanisms has only recently influenced
+the quantification of HRV. Since HRV has numerous mediators, the same
+level of HRV quantified by descriptive statistics could be mediated by a
+variety of combinations of neural and extra-neural influences.
+Heart rate exhibits oscillations in a number of frequencies including
+frequencies associated with respiratory drive and blood pressure regulation.
+Knowledge of these feedback systems with their time constants is a prerequisite
+for the definition of a quantification procedure. Since mean and variance
+statistics are insensitive to rhythmicity, alternative methods of quantification
+and analysis are necessary to describe these relationships accurately.
+Little knowledge of physiology is necessary to understand the rational for
+descriptive measures of respiration (i.e. rate and volume or amplitude) and
+average heart rate. These measures have been intuitively linked to a metabolic
+metaphor in which the heart is viewed as a furnace which requires oxygen via
+respiration. In contrast, HRV is not intuitively understood and requires an
+understanding of both neuro-physiology and statistics. Since HRV is determined
+by complex physiological interactions and feedback systems, an understanding
+of physiology is necessary to design the quantitative methods to
+extract specific neurally mediated components. It is assumed that these
+neurally mediated components will exhibit greater sensitivity to psychological
+phenomena. Moreover, an understanding of statistical assumptions inherent
+in each quantitative method is demanded to insure that faulty inference is
+not made.
+3. Review of existing literature: An overview
+3.1. Heart rate variability and vagal control of heart rate
+The self-perception of heart rate changes in response to psychological
+manipulations or situational contexts has been known since man has been
+able to express himself. Yet, the ability to study these assumed relationships
+has been limited to our ability to quantify physiological data. The study of
+heart rate levels has been clearly linked to metabolic activity in the area of
+exercise physiology. The study of reactivity in heart rate levels in response to
+psychological demands is the focus of much research assessing stress responses
+and cardiovascular vulnerability (Krantz & Manuck, 1984).
+Additional information can be extracted by describing the variability of
+heart rate. HRV is assumed to be reflect regulation via the sympathetics and
+the vagus. The calculation of variance statistics to describe HRV does not
+provide information regarding the component neural sources. A more sensitive
+approach is to partition the variance into periodic components. For
+example, a sensitive index of vagal tone can be derived from the calculation
+of the heart rate rhythmicity associated with the respiratory system (i.e.
+respiratory sinus arrhythmia). For a review of the physiology and a summary
+of research dealing with the validation of respiratory sinus arrhythmia as an
+index of vagal tone see Porges, McCabe and Yongue (1982) and Porges
+(1986).
+With technological advances the measurement of heart rate patterns has
+become more detailed. Early research merely counted the number of heart
+pulses per unit time. The invention of the electrocardiogram (ECG) provided
+a method to determine the electrical manifestation of myocardial function
+and enabled more detailed measurement of the timing between sequential
+heart beats. Instrument tape recorders provided a storage media for the
+ECG. The availability of laboratory computers with advanced statistics now
+allows us to describe complex heart rate patterns. As the technology has
+improved, it is now becoming clear that even small gradations in the heart
+rate pattern provide important information regarding neural modulation. It is
+this emphasis on pattern, as opposed to rate, that has been incorporated in
+the literature on HRV.
+The cardiac vagal tone index (V> is a measure dependent upon knowledge
+of both physiology and statistics (Porges, 1985b, 1986; Porges, McCabe &
+Yongue, 1982). The vagal tone index is one measure of the nervous system
+modulation of heart rate activity via the vagus. The vagal tone index reflects
+rhythmic vagal efferent influences on the pacemaker modulated by respiratory
+processes in the medulla. Heart rate patterns, like behavioral processes,
+are dependent upon the status of the nervous system and the quality of
+neural feedback. Thus, measures of cardiac vagal tone provide an important
+window into the central control of autonomic processes and by inference the
+central processes necessary for organized behavior.
+Vagal tone is reflected in the amplitude of a heart rate rhythm associated
+with frequency of spontaneous breathing. This rhythmic process, respiratory
+sinus arrhythmia (RSA), has been observed and studied for more than a
+century. Speculations regarding the neural mechanisms were reported as
+early as 1910 when a relation between RSA and vagal tone was proposed by
+Hering (1910). Hering clearly stated that, “. . . it is known with breathing that
+a demonstrable lowering of heart rate.. . is indicative of the function of the
+vagi”. Derivations of this method with paced breathing techniques are
+currently used to diagnose peripheral neuropathy in diabetic patients.
+Contemporary research has provided empirical evidence that the amplitude
+of RSA accurately maps the efferent influence of the vagus nerve on the
+heart. Based upon electrophysiological studies of vagal efferents, it has been
+proposed that respiration gates the source nuclei of the vagal cardioinhibitory
+fibers (Lopes & Palmer, 1976).
+If vagal tone is a sensitive index of the functional status of the nervous
+system, then we would predict that individuals with greater vagal tone would
+exhibit a greater range of competent behaviors. We would also expect that
+conditions that compromise the central nervous system (e.g. medical complications,
+anesthesia and illness) would result in an attenuation of vagal tone.
+Consistent with the above predictions, lower vagal tone has been observed in
+samples of high risk versus full-term healthy neonates (Fox & Porges, 1985;
+Porges, 1983, 1988). Moreover, within both healthy and high risk samples
+neonatal vagal tone has been related to motor and mental development
+during the first 2 years of life (Fox & Porges, 1985; Larson, Porges &
+DiPietro, 1990).
+In other studies it has been demonstrated that early “biobehavioral”
+events such as breast feeding have profound influences on the neural control
+of the heart and parallel behavior. Healthy full term neonates whose mothers
+elected to breast feed had higher cardiac vagal tone on the second day
+post-partum and were more behavioral reactive (DiPietro, Larson & Porges,
+1987). These influences, which cannot be accounted for by socio-economic
+status, were still related to individual differences in developmental outcome
+at 15 months of age.
+The vagal system is responsive to the changing needs of the organism.
+Often the vagal system will respond by selectively increasing or decreasing its
+influence on the periphery. This might be observed as a withdrawal of vagal
+tone to increase heart rate to support metabolic demands or an increase in
+vagal tone to regulate digestive polypeptides and gastric motility. The adaptive
+success of the young infant appears to be related to the ability of the
+autonomic nervous system to respond appropriately to environmental and
+interval challenges. For example, during painful medical manipulations, such
+as circumcision, vagal tone is suppressed (Porter, Porges & Marshall, 1988).
+In contrast, during gavage feeding of premature neonates, vagal tone is
+increased (DiPietro & Porges, 1991). If infants exhibited a vagal tone increase
+during gavage feeding and a depression of vagal tone below pre-gavage
+levels following feeding, they were discharged approximately two weeks
+sooner than the infants who did not exhibit this response. These effects were
+independent of birthweight, gestational age at birth and other clinical factors.
+Although pre-gavage vagal tone was not related to the response pattern or
+discharge, it did predict weight gain trajectories. Thus, vagal reactivity
+provides another dimension related to clinical risk.
+Measures of vagal tone provide an important window to central modulation
+of autonomic function. Measures of vagal tone during sleep or non-challenging
+conditions provide an index of normal homeostatic feedback. In
+contrast, measures of vagal reactivity to sensory, visceral, or cognitive challenges
+indicate the adaptive functioning of the nervous system. Thus, both
+low levels of vagal tone and atypical vagal reactivity are associated with
+unhealthy or maladaptive populations.
+From a psychobiological perspective, the selection of a physiological
+marker variable should be theoretically related to the observed behaviors.
+Baseline or pre-task HRV measures have been justified because they reflect
+continuous neural modulation of the heart. It is assumed that the heart rate
+patterns reflect homeostatic mechanisms mediated by the brainstem structures
+and index the organism’s potential to react to stimulation via transitory
+inhibition of homeostatic processes and to self-regulate via the reinstatement
+of homeostasis. However, the specific central structures mediating the pattern
+have been debated.
+Physiological research supports the notion that heart rate patterns are
+predominantly mediated via the vagus (Levy & Martin, 1977). No research
+has demonstrated that the heart rate oscillations reflect sympathetic state or
+limbic activation, independent of secondary interactions with the vagal systern.
+However, slow heart rate oscillations have been proposed to reflect
+vagal modulation of sympathetic tone (Hayano et al., 1990), although the
+amplitude of these oscillations does not provide a reliable index of sympathetic
+tone (Saul, Rea, Eckberg, Berger & Cohen, 1990).
+Limbic activation can influence HRV. The central nucleus of the amygdala,
+a limbic structure, has direct inhibitory pathways to the cells of origin of
+the vagus. Although the sympathetics and the limbic system obviously play a
+role in emotion and perhaps temperament, the measurement of heart rate
+and HRV are not variables of choice to evaluate the limbic-sympathetic
+model. In contrast, research has reliably demonstrated that most HRV is
+mediated via the vagus. Studies employing vagal blockade have demonstrated
+a virtual removal of all HRV (e.g. Dellinger, Taylor & Porges, 1987).
+Vagotonic theories have a long history in psychosomatic medicine. These
+theories speculate that vagal mechanisms are responsible for many physiological
+disorders which may be precipitated by social-emotional stimuli. For
+example, Eppinger and Hess (1915) postulated that a hyper-reactive vagal
+system was responsible for many of the observed “neuroses”. Similarly, vagal
+tone has been speculated as contributing to panic attacks (George et al.,
+1989), asthma (Harm, 1967) and regulatory problems (DeGangi, DiPietro,
+Greenspan & Porges, 1991).
+3.2. Respiration
+Early research investigating the psychophysiological correlates of respiration
+reported shifts in respiratory frequency and amplitude during various
+psychological manipulations. A section in Woodworth’s (1938) classic textbook,
+Experimental Psychology, is dedicated to the measurement of breathing
+records. Three variables are described: rate, amplitude and inspiration-expiration
+ratio. Early research is described relating muscular exercise to
+increases in both respiration rate and amplitude. Woodworth references the
+earlier research by Rehwoldt (1911) who demonstrated that excitement
+produced an increase in respiration.
+In a comprehensive review, Grossman (1983) characterizes respiration rate
+increases occurring during stressful conditions. Consistent with this view,
+increases in respiration rate have been reported for a variety of short-duration
+mental tasks (Allen & Crowell, 1989; Porges & Raskin, 1969). In
+contrast, Miller and Ditto (1988) documented a decrease in respiration rate
+during a 15 min video game task. Lastly, respiration rate was reported to
+decrease across a 25 min period during a serial reaction-time task (Thackray,
+Jones & Touchstone, 1973). The dichotomous pattern of results reported for
+respiration response may be a function of the nature of the mental task or
+stressor employed. Respiration rate increases appear to be correlated with
+stressful attention conditions whereas rate decreases may be indicative of a
+decrease or lapse in attention while on task.
+Although respiration is, perhaps, the most obvious of all physiological
+variables observed in psychophysiological research, there have been difficulties
+in its quantification. The position and type of transducer used, the time
+constant of the amplifier, and the method of quantification will all affect
+measurement. Also, respiration measurements may be contaminated by
+movement and talking. Some methods provide an accurate and physiologitally 
+valid measure of amplitude (i.e. tidal volume), while other methods
+provide only information regarding rate.
+Interest in respiration has been linked to research on metabolic demands.
+Although respiration was commonly monitored in early psychophysiological
+research, much of the current use of the variable is in exercise physiology.
+However, respiratory function does influence neural mediation of heart rate.
+For example, the respiratory process modulates the vagal efferent action to
+the heart. Thus, it rhythmically attenuates the vagal influence producing a
+rhythmic increase and decrease in heart rate at the same frequency as
+respiration.
+3.3. Quantification of heart rate patterns
+Heart rate patterns are complicated and often idiosyncratic time series.
+The beat-to-beat pattern is continuously influenced by the changing neural
+influence from the brainstem to the heart. Although slow shifts in heart rate
+may be influenced by sympathetic and endocrine systems, the rapid oscillations
+reflecting direct neural feedback from the respiratory system are
+mediated only via direct vagal output. Thus, the procedures selected to
+quantify HRV are critical both in extracting physiologically meaningful
+components and in building a plausible biopsychological model relating
+individual differences in physiological activity to behavior.
+There are two basic approaches to the quantification of HRV: (1) the
+unrestricted use of descriptive statistics (i.e. range, standard deviation, variance,
+etc); and (2) the modelling of the heart rate pattern to extract a
+variance component determined by known physiological mechanisms (e.g.
+RSA). While both approaches will produce a final descriptive statistic, the
+unrestricted approach is influenced by the duration of the data sampled, the
+mean level and the complex interactions of sympathetic and parasympathetic
+influences on overall variability.
+More sophisticated descriptive methods have been developed and used by
+researchers in obstetrics and pediatrics (e.g. Cabal, 1987) to study fetal and
+neonatal heart rate patterns. These methods partition HRV into two components
+to emphasize a fast (i.e. short-term variability) and slow (i.e. long-term
+variability) heart rate component. The short-term variability is generally
+calculated as a standard deviation or the mean absolute difference between
+sequential heart beats. Short-term variability is assumed to be associated with
+vagal influences. The long-term variability is generally calculated as the
+maximum minus minimum heart rate (i.e. range). Long-term variability is
+assumed to reflect the “balance” between sympathetic and vagal influences.
+To a limited degree short-term variability has been demonstrated to be
+related to vagal influences; however, long-term variability has not been
+empirically demonstrated to be related to specific sympathetic influences or a
+defined “balance” between the sympathetics and the vagus.
+Approaches which model the heart rate pattern have been successful in
+extracting physiologically valid components from the heart rate pattern.
+Porges (1985) developed a method of extracting an accurate measure of the
+amplitude of RSA as an index of cardiac vagal tone ($1. This method deals
+with some of the nonstationary qualities of the baseline heart rate pattern
+(i.e. a violation of an assumption necessary for spectral analyses and time
+domain filters), the effect of the duration of data sampled, and the interactive
+effects of sympathetic, parasympathetic and endocrine systems on the
+heart. This method has been validated in numerous studies across different
+laboratories (Billman & Dujardin, 1990; Dellinger et. al., 1987; Porges,
+McCabe & Yongue, 1982).
+3.4. Attention and task demands
+A number of studies have evaluated measures of HRV during tasks
+requiring sustained attention. The ability to sustain attention implies an
+ability to focus on relevant information, to suppress the input of irrelevant
+information and to subjugate temporarily the normal homeostatic functions
+and motor activity to information processing demands. In general, vagal tone
+is suppressed during states of sustained attention, mental effort and organized
+autonomic and behavioral responses to stress.
+The suppression of HRV has been associated with enhanced performance
+on reaction-time tasks with adults (Porges, 1972). Similarly, in 3-month-old
+infants the suppression of vagal tone has been associated with better attention
+scores (Huffman, Bryan, Pedersen & Porges, 1989). The degree of vagal
+tone suppression (relative to a baselevel) occurring during the administration
+of the Bayley Scales of Infant Development was significantly related to the
+Mental Development Index in 8- to ll-month-old infants (DeGangi et al.,
+1991). Infants who suppressed their vagal tone more during the administration
+of the test had higher scores. In all the above examples, vagal tone or
+HRV was depressed during states requiring sustained attention, the degree
+of suppression was related to performance, and baselevel vagal tone (or
+HRV) was related to both the degree of suppression and the performance.
+Measures of HRV appear to be sensitive to task demands (e.g. Aasman,
+Mulder & Mulder, 1987; Beh, 1990; Porges, 1972; Porges & Raskin, 1969;
+Walter & Porges, 1976). In some situations it is possible to identify task
+effects with the HRV measures even when average heart rate is not shifting
+(e.g. Lee & Park, 1990). Moreover, the vagal tone measure has been found to
+be sensitive to various drug manipulations including anesthesia, alcohol,
+marihuana, morphine and cocaine (Porges, 1991; Porges & Greenspan, 1991;
+Newlin, Byrne & Porges, 1990). Clinical information regarding central nervous
+system status has been clearly reported with individuals receiving
+neurosurgery (Donchin, Constantini, Szold, Byrne & Porges, 1992). Moreover,
+vagal tone appears to index the outcome of high risk neonates (Porges,
+1983). In these studies, heart rate levels seldom contribute to the prediction.
+3.5. Failure and problems
+Failures in cardio-respiratory psychophysiology can be clustered into two
+categories: (1) lack of specificity; and (2) quantitative anomalies. Many
+psychophysiologists expected cardiovascular and respiratory variables to provide
+accurate and sensitive indices of specific psychological phenomena. The
+Laceys’ intake-rejection hypothesis emphasized the directionality of heart
+rate responses to specific stimuli. Published reports continue to argue about
+the reliability of the phenomenon, the relationship between the heart rate
+responses and performance, and the physiological significance of the response
+(e.g. Obrist, 1981). Similarly, the interest in the intra-cycle effect as a
+more accurate and more rapid manifestation of the intake-rejection model
+has brought mixed results and uncertain interpretation.
+Lack of quantitative standardization is a problem for both heart rate and
+respiratory measures. With heart rate the problems include: rules for detecting
+the onset of the heart beat, accuracy of timing between beats, rules for
+artifact rejection and correction, duration of the time sampling interval (if the
+interval is longer than the time between heart beats it will serve to average
+and reduce variability), duration of the period used to evaluate the treatment
+effect, appropriate baseline conditions, as well as standardized methods to
+describe variability measures. Indeed, the lack of standardized quantification
+procedures for HRV is considered to be the most significant barrier to the
+acceptance of this measure beyond the experimental role in human factors
+psychophysiology (O’Donnell & Eggemeier, 1986). The development of the
+vagal tone index (3) was in response to some of these problems by providing
+the research community with a standardized method of time sampling and
+extracting a measure of RSA. The values from this method have meaning
+when compared across laboratories.
+With respiration variables, although there is an acknowledgement of the
+importance of pulmonary function to survival as well as the sensitivity of the
+system to psychological states, identification of specific dimensions and
+standardized scoring procedures has been lacking. Some research suggests
+that minute ventilation may be sensitive to task demands. Other research by
+Schwartz and his colleagues suggests that respiration wave forms can be
+synchronized and averaged in a manner similar to the electro-cortical evoked
+potential (Lorig & Schwartz, 1990).
+In summary, there are two major problems related to psychophysiological
+measurement. First, the lack of specificity negates the ability to articulate
+detailed psychological interpretation from the physiological response variables.
+Second, the lack of measurement standardization limits the generalizability
+of data reported in one laboratory.
+4. Data collection
+4.1. Heart rate and heart period
+If the researcher is interested in heart rate or HRV measures, the ECG is
+monitored. Since most psychophysiologists are not interested in obtaining a
+clinical ECG, the selection of electrode placement and type is at the service
+of obtaining the cleanest signal with the most detectable beat-by-beat information.
+With actively moving subjects, it is often necessary to put electrodes
+on the chest. However, in most psychophysiological paradigms in the laboratory,
+placing electrodes on the limbs (e.g. both arms, or the non-dominant
+arm and opposite leg) works well.
+From the ECG the time interval between successive beats is calculated.
+Although the heart beat actually starts on the P-wave, because of the
+prominence of the R-wave most researchers quantify heart period and rate
+based upon R-R intervals. For accurate quantification of psychophysiological
+responses, it is imperative to obtain accurate beat-to-beat time intervals.
+The accuracy is dependent upon precise detection of the peak of the R-wave
+and the precision of the timing between R-R intervals. This detection may
+be influenced by amplifier characteristics. For example, if high frequency
+components of the ECG are excessively filtered, the R-wave is attenuated
+and accurate detection of the peak of the R-wave is compromised. Alternatively,
+if low frequency drift in the ECG due to breathing dominates the
+record, it may influence hardware triggers.
+Two approaches have been used to quantify the intervals between heart
+beats (R-R intervals). The first uses a hardware trigger which detects the
+level and/or slope of the R-wave. Level detectors can contribute variance to
+the R-R intervals by detecting R-waves at different points relative to the
+peak. Although this error is usually not great, it may contribute to breath-bybreath
+variations in R-R intervals by the chest wall modulating the ECG
+and, in particular, the amplitude of the R-waves when the ECG is monitored
+with an AC amplifier. The second, more accurate method, uses a software
+trigger based upon detecting the inflection point of the R-wave to the nearest
+millisecond. It is then necessary to time the intervals between the triggered
+events. Although many researchers assume that 4 or 2 ms accuracy is
+sufficient, we recommend 1 ms. In our research we have demonstrated that,
+with high risk populations (e.g. low birthweight premature neonates, heart
+transplant patients), slight differences, within the range of _+ 1-2 ms distinguish
+clinical outcome (DiPietro & Porges, 1991; Zbulit et al, 1988).
+4.2. Respiration
+Woodworth comments in Experimental Psychology: “Since breathing is a
+massive response, there is little trouble in recording it.” This statement does
+not map into the reality of psychophysiological research. There have been
+many chapters and articles devoted to the subject of quantification issues for
+respiratory variables (Lorig & Schwartz, 1990; Stein & Luparello, 1967).
+There are two fundamental ways in which to quantify respiratory variables:
+(1) indirect; (2) direct. Each method and the techniques associated with them
+will be discussed below.
+Methods categorized as indirect are often effective for the quantification
+of relative respiratory parameters. While there are calibration techniques
+available for many of these measures they must be used with care and almost
+constant vigilance. Perhaps the easiest and most well-known method for
+measuring respiration involves the placement of a strain gauge or air-filled
+bellows around the subject’s abdomen. These methods quantify chest wall
+movements. One problem is that they measure only a single “level” of the
+subject’s breathing movements and if subjects switch their mode of breathing
+from the abdomen to the chest or shoulder areas, accuracy is compromised.
+Through the use of two or more strain gauges accuracy can be improved to
+accommodate individual differences in breathing styles. When two belts are
+used, one is usually placed abdominally and the other at the level of the
+chest. Commercial multi-site strain gauge respiration vests are- available.
+When calibrated for volume, these methods are quite accurate and reliable
+for between-subject comparisons of most respiratory parameters. However,
+the calibration of a strain gauge or bellows-based device is accurate only for
+brief periods of time if the subject is moving or shifting position in a chair.
+Following calibration, a strain gauge device will become inaccurate if the
+sensor placement moves as the subject twists and turns underneath. Thus, the
+utility of this form of indirect respiratory measurement is subject to question
+in an environment such as a high performance aircraft where the pilot is: (A)
+shifting in the seat in order to maintain visual contact with an object; (B)
+subjected to any level of G-forces.
+Impedance pneumography is an effective way to obtain relative, withinsubject,
+respiratory parameters. In this method a high frequency (20-30 kHz)
+low voltage current is passed between two electrodes. As respiratory movements
+change the intrathoracic volume, corresponding impedance changes
+occur. The resulting change in voltage as the subject breathes provides a
+measure of respiratory rate and relative volume. One advantage of this
+technique is that measures of respiration can be obtained from the ECG
+electrodes. However, the method has some disadvantages as well. The type
+and size of the electrode as well as the site selection and preparation are
+critical to the effective use of impedance pneumography. Lorig and Schwartz
+(1990) note that there has been limited application of this method in the
+psychophysiological domain.
+A third method which is categorized as indirect is the measurement of
+temperature changes in the airflow around the nose. A thermistor probe is
+an indirect measure because it is measuring a by-product of respiratory
+movements, warm air, and not actual airflow itself. As a result, nasal
+thermistors are best suited for quantifying respiratory rate. Other respiratory
+variables collected with a nasal thermistor are speculative because of thermistor
+sensitivity (e.g. response latency, temperature range, correlation between
+temperature changes and airflow). In addition, thermistor sensitivity
+characteristics preclude its use during many paced breathing or breath-hold
+maneuvers.
+When accurately calibrated and placed correctly using multiple sites (e.g.
+strain gauges), indirect methods of quantifying respiratory variables can be
+effective. However, each of the indirect methods incorporates assumptions
+regarding the direct relevance of chest-wall movement to the respiratory
+process. While most ventilatory processes involve some thoracic or shoulder
+displacement, indirect measures do not lend themselves well to studies
+involving breath-holds or expired gas analysis. Moreover, calibration of
+indirect methods requires a task in which the subject remains stationary.
+Thus, in a moving subject or a paradigm which consists of respiratory
+manipulations, the psychophysiologist must use techniques which quantify
+the amount of air actually entering the subject’s lungs. While direct methods
+are not a panacea, they are more suited to understanding the complex
+associations between cardiovascular and pulmonary regulation.
+When a flowmeter is placed into a subject’s normal airflow loop, direct
+measurements of respiratory variables of interest can be made. Unlike the
+indirect methods which provide information relating to chest-wall movement,
+direct methods of respiration recording quantify airflow entering and exiting
+the lungs. As such, they are quite accurate at determining respiratory
+movements and are nearly insensitive to movements such as shifting of the
+body and muscle contraction.
+Most flowmetric methods use either a mouthpiece with a noseclip or a
+complete face mask covering the nose and mouth. Both of these methods are
+compromises to the methodological utility and psychological well-being of the
+subject. A mouthpiece is often difficult to size and there will be large
+individual differences in subject tolerance to its presence in the mouth. The
+noseclip which is required to ensure accurate airflow measurement is also
+subject to tolerances and it results in an aberrant method of breathing (i.e.
+through the mouth). A face mask on the other hand, is somewhat more
+comfortable for the subject and allows the subject to breath through both the
+mouth and nose. Unfortunately, it too may be difficult to size, there are
+problems with leakage, the amount of dead space is increased, and tight seals
+are difficult to obtain for subjects with facial hair without the use of
+petroleum jelly. Both techniques provide the subject with amplified, multimodal
+sensory feedback concerning ventilatory processes which is not characteristic
+of the “natural” environment.
+Airflow can either be measured mechanically using a flowmeter or
+electro-mechanically using a pneumotach. When using a mechanical flowmeter,
+it should be designed using low-mass impeller technology such that
+reversals in airflow are accurately identified. A water-filled spirometer can be
+used for gross airflow measurement, although its utility for breath-by-breath
+and intra-breath measurement is quite limited. All forms of airflow measurement
+allow the collection or sampling of the expired air so that gas analyses
+can be easily made if the equipment is available. These expired-gas analyses
+require specialized equipment and elaborate calibration procedures and their
+utility in applied environment research can be questioned.
+Direct methods of monitoring respiration are quite accurate but they
+require some subject adaptation to their presence in the airflow. Moreover,
+all methods (with the exception of nasal thermistor or impedance) will
+provide the subject with sensory feedback (either somatic in the case of strain
+gauge or auditory and somatic with flowmeters) which will affect the manner
+in which the subject breaths. As a result, in experimental settings, it is
+recommended that time is allotted for subject accommodation to the measurement
+devices.
+Depending on the technique for recording of the data, the researcher
+should ensure that the amplified respiration signal does not exceed the
+operating limits of the recorder. Consideration should also be given to
+post-processing the respiration signal. With many strain gauges, the beating
+of the heart and gross movement will disturb the transducer resulting in a
+high frequency component on the respiratory record.
+5. Data reduction and artifact control
+5.1. Editing heart period data
+After timing the R-R intervals, the resulting heart period data must be
+processed in order to correct artifacts introduced during either the data
+acquisition or the digitizing process. Artifacts left in the heart period series
+will seriously distort measures of heart period variance. There are two
+primary ways to accomplish the task of editing. The first is to have a trained
+observer view a graph of the heart period data indexed by time. This allows
+for identification of outliers. Once these outliers have been detected, the
+trained observer corrects them based on a set of rules. The second method
+involves artifact detection and correction algorithms performed in an automated
+fashion by a computer (Berntson, Quigley, Jang & Boysen; 1990;
+Cheung, 1981; Rompelman, 1986). Each method has advantages and disadvantages
+and hybrid methods have been recommended to combine the
+advantages of both. One example of a hybrid method would be to delegate
+the detection task to the computer and the correction task to the trained
+observer. The rest of this section will emphasize some of the rules employed
+in manually editing heart period data.
+The purpose of manual editing is to eliminate outliers which may corrupt
+subsequent statistical analyses. Most outliers are generated from either
+movement artifact or an error in digitizing. Occasionally a heart arrythmia
+might contribute to outlier points in a file. Pattern recognition plays an
+important role in manual editing and becomes easier in proportion to the
+amount of data viewed. Thus, when learning this process, the most difficult
+aspect for a novice editor to learn is the differentiation between artifact and
+physiological process.
+One common type of artifact in digitized data is created when there is
+slight amplitude modulation in the R-wave coincident with respiratory movements
+and a threshold detector is being used to identify R-waves. If an
+R-wave is below the detection threshold for the computer, the interval timer
+will continue its timing into the subsequent beat(s) until the R-wave amplitude
+returns to a value above the threshold of the R-wave detector. The
+resulting pattern in the data set would be a beat that is an exact integer
+multiple of two or more beats. For example, if the modal heart period is
+approximately 1000 ms there might be several instances of 2000 or 3000 ms
+values contained in the data set. The true heart periods can be approximated
+by integer division of these points. If larger integers are required for the
+correction, the data should be cautiously interpreted. For example, dividing a
+point of 14 000 ms by 14 is exceedingly damaging when variance measures are
+subsequently extracted. If points are not even multiples of previous heart
+period levels then there is the possibility that either: (1) the artifactual point
+is adjacent to another artifactual point and adding these points together
+before division is required or; (2) the point might be a transient physiological
+phenomenon such as a bradycardia or an arrhythmia.
+Individual differences in the quality of the ECG can also affect the way
+heart periods are generated during the digitizing process. For example, if a
+subject has a large T-wave relative to the R-wave there is the chance, when
+using a threshold detector to identify the heart beat, that both the R- and the
+T-wave will be considered markers that a heart beat has occurred. The result
+will be two intervals generated for each true heart period. In this case, the
+task of editing is to add these intervals together to reconstruct the true heart
+period.
+Movement may produce a series of spikes in the ECG tracing. These
+spikes are often falsely detected as R-waves and may result in a number of
+very short intervals for each true heart period. Again, the task of editing is to
+reconstruct the true heart period by adding together the artifact intervals
+within that time period.
+Identification of artifacts during manual editing can be facilitated using
+the concept of mechanical versus fluid changes in the heart period record.
+Most artifactual points in the record will appear as abrupt angular changes
+away from the “normal” or modal oscillatory pattern. In contrast with the
+spiked appearance of most artifacts, true physiological phenomenon such as
+a bradycardia are more gradual. Characteristically a bradycardia may take
+three or more beats to reach its full magnitude (which is often not an even
+multiple of the previous trend in level), and then follow a similar time course
+returning to the surrounding heart period value. Before concluding that an
+outlier point is an artifact two things must be checked: First, the surrounding
+point values should be evaluated to get a sense of the modal pattern of
+changes in the data segment; Second, the scale of the ordinate axis should be
+checked to be sure that a spiky appearance is not a visual illusion produced
+by a scale which is too small.
+The purpose of visual scanning of the data and hand-editing is to correct
+for errors resulting from movement artifact or digitizing. These types of
+errors result in evenly divisible data points or bursts of short intervals which
+can be added evenly (i.e. dividing 1200 ms by 4 to get a series of 300 ms;
+adding a series consisting of 50, 100, 200, 200 and 50 ms to get a value of 300
+ms). The key to responsible editing is knowing when to stop this process.
+Certainly, if there is a point of 15000 ms in a data segment of only 30 s it
+would not be advisable to edit this point or to interpret this data segment.
+Likewise, if a data point cannot be added to a preceding data point or evenly
+divided, it is probably a real phenomenon (i.e a transient bradycardia or
+arrhythmia). Since most of the analyses discussed in this manuscript consider
+the amount of variance on a beat-to-beat basis it is easy to imagine how
+damaging it would be to over-edit. Good heart period data are those data in
+which no editing is necessary. When presented with a file which requires
+more than the occasional data point added or divided, the question must be
+asked why this is occurring. The answer resides in a number of factors
+including the quality of the ECG, the digitizing process, or an arrythmia
+which is abnormal and might prevent the inclusion of this subject into a
+database of “healthy” subjects.
+There are many issues related to pre-analysis editing. Issues related to
+reliability must be considered when using manual and automated outlier
+correction techniques. The measurement of reliability in the detection and
+correction of outliers should be considered an ongoing process. This will
+ensure that the decision making and pattern recognition tasks are invariant
+both within and between data sets. While the above paragraphs have focused
+primarily on when to edit, editing is a process that should be used prudently.
+Over-editing is equally injurious to subsequent variability analysis as is
+under-editing. It is preferable to correct and prevent artifactual data points
+at the level of electrode site selection and preparation. Above all, it is critical
+that data points are not deleted within the data set analyzed. If there is a
+section that is simply too messy to reconstruct, it is preferable to segment the
+data set into two distinct sets of contiguous data for analysis.
+5.2. Effects of speech on heart rate patterns
+There is some evidence that speaking significantly increases HRV (Mulder,
+1988; Mulder & Mulder, 1987; Sloan, Korten & Myers, 1991). During verbal
+mental arithmetic, HRV is elevated in comparison with a nonverbal mental
+arithmetic condition. Continuous speech is characterized by a decreased
+inspiratory period coupled with an increased expiratory period. On the basis
+of this breathing pattern alone one can hypothesize that the prolongation of
+parasympathetic tone on the heart during expiration will enhance RSA.
+Mulder (1988) suggests that this effect is due to a change in respiratory
+pattern. Thus, before blanket speech correction methods are employed in the
+quantification of heart period variance the full effects of speech on RSA
+amplitude must be known. The proportion of time on-task spent in the
+production of speech needs to be considered in the determination of whether
+it must be accounted for in the measurement of RSA. Unfortunately few
+data exist from which to generate guidelines as nearly all of the investigations
+have used nearly continuous speech conditions (e.g. Sloan et al., 1991). In our
+laboratory, we conducted a demonstration of the effects of three levels of
+speech on RSA. The levels consisted of: (1) a no-speech condition whereby
+the subject was on-task; (2) a “command” condition whereby the subject was
+performing the same task but responded verbally to computer-generated
+requests; (3) a “monologue” condition whereby the subject performed the
+task but continuously verbalized his actions as they were performed. There
+was no difference in RSA amplitude between the no-speech and the command
+conditions. In the monologue condition the RSA amplitude was
+increased in this subject compared with the no-speech and command conditions.
+It appears that there is no simple answer to the question of whether
+speech correction is necessary in the measurement of RSA. If the subjects
+are in an environment where speech is relatively infrequent (l-5 per minute)
+or persists for short durations (i.e. less than 10 s per command), and the
+purpose of the RSA monitoring is to determine the global state of the
+subject, then no correction is necessary. Respiratory patterns resulting from
+verbal participation in a command-driven environment would be indistinct
+from normal spontaneous variations in respiratory depth and rate in a
+non-speech condition. On the other hand, if the speech is chronic and
+persists for long periods, then respiratory patterns are certain to be affected.
+Speech correction would not be necessary for a pilot responding to, or
+making requests of, an air-traffic controller. In contrast, if the workload was
+increased whereby the controller’s speech pattern approached a monologue,
+then some form of correction would be warranted.
+6. Data analysis
+6.1. Heart period or heart rate?
+The statistical advantages and disadvantages of the selection of heart rate
+versus heart period have been debated in a number of articles (Graham,
+1978; Jennings, Stringfellow & Graham, 1974; Khachaturian, Kerr, Kruger &
+Schachter, 1972; Thorne, Engel & Holmblad, 1976). Although these arguments
+have focused on the distributional characteristics of the two variables,
+there are additional issues relevant to the psychophysiologist including differential
+physiological interpretations and the statistical relationship between
+the two measures.
+Statistically, heart rate and heart period reflect monotonic, but not linear,
+transformations of each other. This means that once the data are time
+sampled as rate or period per unit time, it is not possible to transform
+accurately from one variable to the other. Most researchers index heart rate
+or heart period data by time and not event (i.e. beat). In most applications of
+statistical filters, whether in the time domain filters (e.g. band-pass) or in
+frequency domain analyses (e.g. spectral), the data represent sequential
+samples taken at equal time intervals of rate or period data.
+Although heart rate is the most commonly used cardiac metric, the use of
+heart period may be more appealing when attempting to discuss the underlying
+physiological mechanisms determining changes in the heart beat rhythm.
+For example, an increase in cardiac vagal tone delays the onset of the next
+heart beat producing longer heart periods, while a decrease in cardiac vagal
+tone decreases the time to the next heart beat producing shorter heart
+periods. Alternatively, arguments for rate measures would interpret the same
+physiological phenomenon as reflecting a change in the rate generator (i.e.
+pacemaker). Thus, the same physiological event characterized by increased
+delivery of acetylcholine to the pacemaker via the vagus might be interpreted
+as a delay in the period or an change in the rate. However, the rate argument
+fails when discussing the discrete components of the cardiac cycle which may
+only be described in units of time (e.g. T-P or Q-T intervals). The sum of
+the components of the cardiac cycle always equals the heart period. There is
+no alternative method of decomposing the heart cycle via the rate metric.
+Arguments could also be made that heart period variability could be decomposed
+into component variances and covariances of the elements of the
+cardiac cycle. Theoretically, this might provide greater precision for the
+quantification of constructs such vagal tone by removing non-neural sources
+of variance.
+In our research we have selected to transform the cardiac rhythm data
+into heart period. We justify this decision based upon physiological and
+statistical arguments. We interpret the R-R interval as a physiological
+process which is modulated by vagal influences. We interpret R-R interval
+data as time series which potentially can be statistically decomposed into
+component variances and covariances.
+6.2. Quantification of heart rate variability
+As stated earlier there are two basic approaches to quantification of HRV:
+(1) the unrestricted use of descriptive statistics (i.e. range, standard deviation,
+variance, etc); and (2) the modelling of the heart rate pattern to extract a
+variance component determined by known physiological mechanisms (i.e.
+RSA or vagal tone). This section will briefly discuss some of the vulnerabilities
+in the descriptive methods and will focus primarily on the modelling
+approaches.
+The unrestrictive use of descriptive statistics is influenced not only by
+physiological processes, but also by sampling interval and duration. With
+heart rate, a slow sampling interval will remove much of the variance of the
+faster underlying processes and a longer analysis window will increase overall
+variance. Thus, measures of range, standard deviation and variance are
+greatly influenced by the duration of the analysis epoch. Descriptive statistical
+values are not comparable across studies, even under similar experimental
+conditions, unless the analysis epoch durations are identical. Other descriptive
+statistics based upon successive differencing (e.g. mean squared successive
+difference, absolute mean successive difference, etc) have other properties
+which function to attenuate the influence of very low frequency components
+and to amplify high frequency components. Since successive difference
+variables are usually based upon sequential heart beat and not time-sampled
+data, these filtering procedures may not represent the same frequency
+transfer function across subjects or even within the same subject across
+conditions.
+Many physiological processes, by their nature, are events which may be
+characterized as point processes (i.e. events which can be categorized as
+either occurring or not occurring). The beating of the heart may be operationalized
+as a point process detected by the occurrence of the R-wave.
+Although there are methods for performing spectral analysis on the interval
+characteristic of a point process (e.g. Bartlett, 1966), these methods are
+limited in their application to cardiovascular parameters. Since most cardiovascular
+data are indexed by event (i.e. the beating of the heart), the Bartlett
+method precludes the application of time domain filters which require
+sampling at equal time intervals. Time domain filters enable detrending and
+removing nonstationary influences. Thus, trend and aperiodic influences can
+be removed.
+Point processes create statistical problems when attempts are made to
+sample at equal time intervals (e.g. second-by-second). Time series texts (e.g.
+Gottman, 1981) deal virtually exclusively with equal time sampling of continuous
+processes. Although this is not a problem for many physiological
+processes which are recorded as analog signals (e.g. respiration, EEG and
+electrodermal activity), it is a quantitative problem for all cardiovascular
+events which are indexed by the beating of the heart. For example, blood
+pressure changes are time locked to the beating of the heart.
+There are a variety of methods that have been used to generate an
+estimate of a point process at equal time intervals, such as interpolation,
+weighting and sampling (see also De Boer, Karemaker & Strackee, 198.5;
+Mulder, 1988). Each method has its own unique characteristics. An important
+requirement is to make the time window short enough to map into the
+temporal variability of the process. If the time window is longer than the
+heart period, it will smooth the data, removing variance, and will potentially
+alias a component of the variance in the spectral decomposition. In the case
+of heart period, it is necessary to estimate the heart period at sequential
+intervals of approximately one-half the duration of the shortest heart period.
+This sampling procedure will preserve the variance of the original heart
+period process in the transformed data set. However, one often needs to be
+concerned if the time windows are shorter than the heart period; then in the
+statistical analyses, the true degrees of freedom will be over estimated.
+Time-sampled estimates of heart rate or heart period are amenable to
+time-domain detrending and filtering techniques. We employ either weighting
+(see Cheung and Porges, 1977) or sampling (i.e. probing the heart period
+progress) methods to provide an instantaneous estimate. These methods
+provide an estimate which is not offset by a time delay (e.g. tachometer) and
+allow time-indexed comparisons with other physiological response systems
+and between subjects. There are slight differences in the statistical characteristics
+of these two methods. However, as long as only one method is used
+within a study, the two methods result in similar effect sizes with analyses of
+the means and variances. Other methods, such as that proposed by DeBoer,
+Karemaker & Strackee (1985), have many of the same advantages and can be
+justified on other statistical grounds.
+6.3. Periodic processes
+There are three basic statistical problems in the quantification of the
+periodic components of the heart rate pattern. First, heart rate data are often
+nonstationary. Nonstationarity implies that the expected values of the mean
+and variance are not constant throughout the data set. Strictly defined,
+stationarity implies that the expected value of even higher order moments of
+the time series are not dependent upon time. Nonstationarity can be manifested
+in different dimensions. Most frequently it is related to aperiodic
+influences. However, even if there are no trends, a time-dependent variation
+in the amplitude of a specific periodic component would constitute nonstationarity.
+For example, the time series would be nonstationary if the heart
+rate data were to reflect only one periodic process and the amplitude of this
+process were greater at the end of the data set. In our explanations we will
+focus on the removal of the aperiodic trend to foster the measurement of
+potential shifts in amplitude as a function of time. All traditional time-series
+methods for quantifying periodicities assume that the data are stationary.
+When data are nonstationary and aperiodic, these analyses may distort the
+values for frequency and amplitude of the periodicity of interest.
+Second, heart rate periodicities are not perfect sinusoids. Most of the
+methods for describing periodicities assume that the periodic process may be
+fitted to a sine or cosine wave. When periodic activity cannot be fitted to a
+sine or cosine function, the analyses produce harmonic variances at integer
+frequencies of slower activity. This confounds the interpretation of the
+analyses when the frequency of interest resides within a band influenced by
+harmonic variances.
+Third, heart rate data are complex and consist of numerous periodic and
+aperiodic components. The researcher must not only be cognizant of the
+nonstationary component, but when there is more than one periodic component,
+the researcher must also be aware that the nonsinusoidal characteristic
+of slow periodic processes may inflate the estimates of the faster periodic
+activity.
+7. Partitioning and quantification of variance
+7.1. Detrending and filtering
+In most situations the heart period pattern is composed of rhythmic
+activity with representation near the respiratory frequency (i.e. RSA) superimposed
+on slower rhythms and a complex baseline trend. Often the baseline
+trend accounts for most of the variance of the heart period process. While
+the trend line seems to be sensitive to shifts in metabolic activity, the
+rhythmic activity tends to be neurally mediated. The physiological interpretation
+of these rhythms is not simple and may reflect complex interactive
+mediating processes.
+It is difficult to estimate accurately the amplitude of a periodic process
+when it is superimposed on a complex baseline trend. Most statistical
+procedures that have been used to assess amplitude of periodic heart rate
+processes such as sinus arrhythmia include procedures to detrend, filter and
+describe residual variance. The detrending and filtering procedures produce
+a processed signal by removing linear or low-order polynomial trends. The
+high-passed signal may then be decomposed through spectral analysis into
+constituent frequencies. Although these methods are commonly employed,
+most detrending techniques inadequately remove the complex trend and alter
+the amplitude of the periodic process being evaluated. These methods,
+however, function adequately if the periodic signal of interest is large relative
+to the instability of the baseline or the baseline trend has virtually no
+variance in the frequency band of the periodic signal.
+If the baseline trend is a complex function that cannot be mathematically
+described by a linear or a low-order polynomial trend or by a sum of sine
+waves slower than the frequencies characteristic of RSA, the spectral composition
+of the baseline trend will include faster frequency components. The
+higher frequencies associated with the trend will “leak” through the detrending
+techniques and be superimposed on the spectral representation of the
+amplitude of RSA. Since the amplitudes of the faster frequency components
+of the baseline trend are not known a priori and cannot be estimated a
+posteriori from the spectrum because they change over time when the
+baseline is not constant (i.e. the data are nonstationary), most high-pass
+filters do not eliminate all the variance associated with baseline trend. The
+traditional high-pass filters cannot discriminate between the high frequency
+component of the trend and the frequency of interest associated with RSA.
+Further confounding may occur when slower periodic activity is not
+sinusoidal and produces variance at integer harmonics. In spectral analysis
+procedures this problem is similar that of seasonality. For example, there arc
+oscillations in heart rate associated with blood pressure control which occur
+at approximately 0.08 Hz. These oscillations are not perfect sine waves and
+therefore the spectral decomposition of these waves would result in spectral
+densities at integer harmonics. In this example, the first integer harmonic
+would occur at 0.16 Hz, which frequently is the frequency associated with
+spontaneous breathing. Thus, spectral analyses conducted on heart rate data
+which include the 0.08 Hz wave might contribute to an overestimate of the
+spectral densities associated with RSA.
+7.2. Moving polynomial and nonstationarity
+The above points articulate many of the problems in accurately quantifying
+the amplitude of periodic heart rate patterns. In some situations it may
+be possible to minimize the impact of a complex baseline trend on the
+on the assumption that a complex trend may be approximated by a series of
+adjacent low-order trends. Although on a local level any complex trend can
+be decomposed into a series of low-order polynomials, the method is often
+not effective as practised. The problem resides with the duration of data
+required for the analyses. Analyses in the frequency domain, independent of
+low-order polynomial detrending, require large numbers of data points and
+the duration of these time series often includes complex trends. We have
+developed an alternative approach which builds on the ability of a series of
+local low-order polynomials to fit complex patterns (see Porges, 1985; Bohrer
+& Porges, 1982). Our method employs short-duration polynomials which are
+stepped through the data set. The moving polynomial procedure smooths the
+data set by conforming to the shifting levels of the baseline. When the
+smoothed baseline is subtracted from the raw data, the residual time series is
+free from the influence of the baseline. Adaptations of this method using
+different duration and order polynomials can be used not only to remove the
+influence of baseline, but also to remove the influence of slow periodic
+processes.
+The moving polynomial method works well in most cases, if a set of
+guidelines are followed (see Porges & Bohrer, 1990). The method will not be
+effective in removing the influence of trend when there is an abrupt level
+shift within the time period of the oscillation of interest. For example, a short
+latency tachycardia due to an abrupt posture shift will cause a peak acceleration
+within 2 or 3 s followed by a return to base level. The moving polynomial
+cannot adjust this overestimate of RSA because of frequency-dependent
+characteristics of the filter. Other methods such as spectral and peak-totrough
+will also result in overestimates under the same conditions.
+There will be situations in which the contribution to nonstationarity is not
+a level shift, but a shift in the amplitude of the periodicity of interest. The
+moving polynomial does not influence this nonstationarity. However, short
+analysis durations with the moving polynomial technique will enable the
+investigation of these influences. For a more detailed descriptions of problems
+and potential solutions in the analysis of periodic processes and the
+application of time series analyses to heart rate data see Porges (1986)
+Bohrer and Porges (1982) and Porges and Bohrer (1990).
+7.3. Peak-to-trough method
+One of the most common methods used to quantify the amplitude of
+periodic heart rate rhythms is the peak-to-trough or peak-valley method
+(Fouad, Tarazi, Ferrario, Fighaly & Alicandri, 1984; Grossman & Svebak,
+1987; Hirsch & Bishop, 1981; Katona & Jih, 1975; Schechtman, Kluge &
+Harper, 1988). Although this method has been very successful in physiological
+studies demonstrating systematic changes in the amplitude and frequency
+of RSA due to breathing maneuvers and vagal manipulations, the method
+presents quantitative vulnerabilities. The quantitative problems for this
+method have been presented in detail elsewhere using simulation modelling
+(see Byrne & Porges, in press; Porges & Bohrer, 1990). In this section the
+major points raised by these simulations will be presented.
+When employing the peak-to-trough method to quantify RSA, the researcher
+measures the difference between a maximum and a minimum point
+associated with a specific respiratory cycle. Or, the researcher may employ a
+trough-to-peak method. In this case the change is evaluated during the
+“up-phase” of the cycle rather than during the “down-phase” of the cycle. If
+the total variability of the heart period activity were determined by RSA,
+measures of either the up-phase or down-phase would provide an extremely
+accurate estimate of RSA. However, RSA is usually superimposed on a
+complex trend and other periodic processes that are not perfect sine waves
+(e.g. blood pressure feedback on heart rate).
+There are three quantitative problems associated with the peak-to-trough
+method of describing both average and instantaneous amplitude of RSA.
+First, the impact of nonstationarity associated with the complex trends will
+stretch and compress the peak-to-trough method, amplifying and attenuating
+the estimate when the amplitude of the underlying process is not changing.
+Second, the impact of slow periodic processes that are not perfect sine waves
+will result in different durations in which the peak-to-trough estimate will be
+stretched and compressed. Thus, the trend and slower periodic processes
+would contribute variance to the peak-to-trough estimate even if the underlying
+RSA signal were constant. Third, some methods of peak-to-trough
+quantification assume that a clearly defined peak to trough must be observed
+time locked to a clearly measurable respiratory cycle. This implies that RSA
+is not quantifiable without measurable mechanical breathing in contradiction
+to the numerous observations of RSA during breath holding (e.g. Hirsch &
+Bishop, 1981). Moreover, it assumes that the phase relationship between
+respiration and heart rate remains constant and disregards the observations
+that temporary cessation of respiration may result in a large, but temporary,
+phase shift between heart rate and respiration. Simple laboratory demonstrations
+reveal that the heart rate acceleration, which normally parallels inhalation,
+shifts when the subject inhales and holds breath. During the breath
+holding the heart rate will start to decelerate, and when exhalation occurs the
+heart rate will start to accelerate. The heart rate oscillations reflect the
+brainstem respiratory drive being temporarily dissociated from the feedback
+from the stretch receptors in the lungs.
+Simulations of the peak-to-trough method of RSA estimation have identified
+the filter characteristics of the method (see Byrne & Porges, in press).
+The transfer function of the peak-to-trough method, unlike other time
+domain filters, cannot be defined using signal frequency alone. Rather, the
+accuracy of the peak-to-trough method is determined by the interaction of
+the frequency of the signal component and the ratio between the signal and
+trend amplitudes. Combinations of these factors result in a distortion of the
+amplitude and a shift in phase. Since the respiratory rhythm in heart rate is
+superimposed on the complex trend and slower oscillations, low amplitude
+RSA may not be detectable with the peak-to-trough method when the slope
+of the trend is great relative to the slope of the signal.
+The peak-to-trough method, as commonly used, is a pooled estimate
+computed over an extended period of data. Thus, like the spectral methods it
+does not convey instantaneous shifts. It has been proposed that the peak-totrough
+method could provide instantaneous information on a breath-by-breath
+basis. Because of the potential influence of trend and the dependence on a
+clearly definable respiratory cycle this is an overly optimistic view. Short
+epochs (i.e. less than 3-5 min) are more likely to produce the conditions
+which may lead to increased measurement error with this method. Variants
+of the method which assign a zero score to the RSA when no local
+minima/maxima can be located within a prescribed event window are in
+apparent contrast with physiological phenomena and may lead to increased
+measurement error.
+The peak-to-trough method is not inherently a poor technique. It is
+accurate when applied to a time series consisting of a single oscillatory
+process and the vulnerabilities we describe produce minuscule error when
+the RSA is large relative to the underlying trend. Moreover, data exist which
+demonstrate that it correlates well with other signal processing techniques for
+data of 5 min duration (Grossman, van Beek & Wientjes, 1990). However,
+high correlations among various methods of measuring HRV do not confirm
+that the estimates behave the same. For example, in our research we
+investigated the influence of sleep state on measures of HRV in healthy
+full-term neonates. The amplitude of RSA derived from the moving polynomial
+filter (i.e. vagal tone index) was highly correlated with the standard
+deviation of the heart period during quiet sleep (r = 0.88) and active sleep
+(r = 0.78). However, the measures behaved differently across the sleep states.
+During active sleep the overall heart period variability was higher than
+during quiet sleep. In contrast, the amplitude of RSA derived from the
+moving polynomial filter reflected the hypothesized increase in parasympathetic
+tone associated with quiet sleep relative to active sleep.
+The useful range of applications for the peak-to-trough method of RSA
+estimation can be extended if data are appropriately filtered prior to its
+application (see Porges & Bohrer, 1990). When the complex trends and
+slower periodic activity are removed, the method will provide an extremely
+accurate estimate of average or even instantaneous amplitude of the periodic
+process. This greatly increases its utility in those applications which emphasize
+RSA measurement during transitional states. Similar to the spectral
+technology described below, the problem with the peak-to-trough method is
+not with the method, but with the inappropriate application of the method to
+complex time series.
+8. Time series methods of heart rate quantification
+8. I. Spectral methods
+Applications of spectral methods consist of a number of operations. Heart
+rate data are not merely processed with a Fourier transform, rather the data
+need to be transformed and filtered prior to analysis.
+First, it is necessary to time sample the data at equal time intervals. To
+preclude aliasing, the interval selected is dependent upon the frequency of
+the normally occurring process. For example, with heart period, it is necessary
+to structure a time interval shorter than the naturally occurring heart
+periods. As described in a previous section, this preserves the variance of the
+heart period process and ensures that components of the variance will not be
+aliased on slower frequencies. Note that there are methods to calculate the
+spectrum of time series of point processes (i.e. sequences of interval values)
+without time sampling, these methods preclude the application of filters and
+detrending methods which assume equal interval time sampling. Methods for
+analyzing point processes are discussed by Cox and Lewis (1966).
+Second, since heart rate data are not stationary it is necessary to remove
+trend. Although many psychophysiologists do not remove trend, statisticians
+(e.g. Chatfield, 197.5) argue that trend can confound the interpretation of the
+spectrum.
+Third, since periodic influences are never perfect sine waves (except with
+simulations), spectral decomposition will always identify sources of variance
+at integer harmonics of these periodic influences. In time series texts this is
+often referred to as the influence of seasonal variation. Seasonal influences
+are certainly periodic, but are seldom fitted by a single sine wave. Thus, the
+spectral decomposition of the seasonal influence produces spectral densities
+at integer harmonics of the seasonal frequency. In heart rate research this is
+seen as the influence of the harmonics from the slow heart rate processes
+such as circadian rhythms or the Traube-Hering-Mayer wave (i.e. Mayer
+wave sinus arrhythmia) influencing the spectral densities associated with
+physiological processes at higher frequencies (e.g. RSA).
+The impact of these effects is a function of the ratio of the harmonics to
+the amplitude of true signal (i.e. signal-to-noise ratio). In many cases the
+effect of harmonics from slower periodic processes will be trivial relative to
+the true amplitude of the process being studied. However, harmonics may
+play a role in confounding the data with various pathophysiological conditions,
+when higher frequency heart rate oscillations (i.e. RSA) are greatly
+attenuated relative to the slower activity.
+We remove the trend and slow periodic processes (e.g. seasonality) with
+the moving polynomial procedure. Information regarding this procedure is
+described above. A more detailed explanation of how this method influences
+the spectral decomposition of psychophysiological data is described by Porges
+and Bohrer (19901. Other researchers have used a variety of model fitting
+regression and filter techniques to deal with these problems.
+Fourth, the detrended and filtered time series is decomposed into frequency
+components with Fourier analysis. There are numerous Fourier
+methods. The two most common are the fast Fourier transform (FIT) and
+the discrete Fourier transform (DFT). The FFT requires fewer arithmetic
+operations with large data sets and, thus, is computationally much faster.
+These two methods differ on two other dimensions: (1) the number of data
+points; (2) the preferable methods of windowing.
+The FFT requires that the data points be in powers of 2. The DFT does
+not make have this restriction. Following the spectral analysis decomposition
+various manipulations are necessary to produce a consistent estimate of the
+spectral density function. The procedures attempt to reduce variance and
+bias of the estimators. This is accomplished by smoothing the spectrum with
+a spectral window. The spectral window is a weight function expressing the
+contribution of the spectral density function at each frequency. The nature of
+the DFT and FIT calculations also influence the selection of window
+techniques. For example, the Tukey-Hamming or Daniel windows are commonly
+used with DFT data. While the Bartlett window is more commonly
+used with FFT data.
+In concluding, spectral analyses is merely another method of calculating
+and partitioning variance. The accuracy of the method in describing the
+variance in a specific frequency band is dependent upon the treatment of the
+data prior to the frequency domain transformation. Statisticians have been
+aware of this issue and have noted that with nonstationary data the final
+results depend more on the method chosen to remove trend than on any
+other factor (see Chatfield, 1975).
+A major issue often neglected by those applying spectral technologies is
+the relationship between a statistical and physiological decomposition.
+Clearly, the spectral decomposition theorem works and decomposes any time
+series into constituent frequencies of measurable amplitudes. However, the
+relationship between the definable peaks with associated spectral densities
+and the underlying physiological process is not necessarily isomorphic. For
+example, psychophysiologists may define physiological processes such as RSA
+and Mayer wave sinus arrhythmia (or Traube-Hering-Mayer waves) from
+the heart rate spectrum. Often these definitions are stated in terms of a peak
+or dominant frequency and the associated spectral densities. If the data are
+not appropriately detrended or filtered, the definitions may be inaccurate.
+This is clearly evident when slower periodic activity or trend influence the
+spectral densities used to define RSA. At times, even with a constant RSA,
+the peak and amplitude of the RSA component of the spectrum will shift to
+lower frequencies and higher amplitudes. The identified peak no longer
+represents the dominant frequency or amplitude of RSA, but rather the peak
+represents the sum of harmonic variance from the slower activity and the
+true RSA. The statistical definitions from the spectral peaks are further
+confounded by the windowing procedure which has smoothed adjacent frequcncy
+bands. Examples of these problems and how they may be remedied by
+the moving polynomial filter are described by Porges and Bohrer (1990).
+8.2. Time domain equivalent of spectral analysis
+In time series analysis there is a general axiom that time domain and
+frequency domain techniques are equivalent. Although mathematically correct,
+certain types of time series seem to fit better with one or the other
+method. Thus, there are inherent biases in the selection of method. The
+relationship between time domain band-pass filtering and spectral analysis
+provides a useful example.
+Time domain band-pass filtering is equivalent to the integral of spectral
+densities within the defined frequency band of the band-pass. If we were
+interested in identifying what frequencies are represented in a time series
+without any prior knowledge of the potential frequencies, spectral analysis
+would be our choice. Alternatively, if we knew the frequency band in which
+the signal of interest existed, we could use a band-pass filter and track the
+energy (e.g. amplitude) of the signal in the time domain. Our choice has
+other implications for our ability to extract information from the data. The
+time domain band-pass filter, although extremely sensitive to rapid changes
+in amplitude within the band, precludes the study of slight frequency modulations
+within the band or the study of amplitude when the frequency is outside
+the band. The spectral method allows precise measurement of frequency
+shifts and amplitudes across all frequency bands, yet because of the requirement
+of large data sets, precludes the study of rapid shifts in amplitude or
+frequency. Compromise methods have been developed. For example, a
+number of narrow band-pass filters whose center frequencies are equally
+spaced across the entire spectrum can be used to reflect the spectrum in the
+time domain. These types of filters are often called comb filters. Equalizers
+in audio systems reflect this technique. In psychophysiology, this method has
+been used to describe EEG activity in biofeedback systems. Also, a method
+of spectral analysis, complex demodulation, has been developed to study the
+behavior of a time series within a relatively narrow frequency band.
+Another method is to link or cascade a sequence of either time or
+frequency domain methods. For example, time domain filters such as the
+moving polynomial filter can be used to pre-process the data which will
+subsequently be analyzed by spectral analyses. This would enable the detailed
+frequency-amplitude description of the passed signal. This method
+would also foster the study of the linkage or coherence between two signals
+with cross-spectral analysis methods. This method is described by Porges and
+Bohrer (1990).
+As stated above, we often have knowledge regarding the frequency of a
+physiological event or we can reliably identify a priori the band of frequencies
+in which a physiological process will occur. RSA is an example of such a
+process. RSA may be defined as HRV within a band of frequencies. Since
+spontaneous respiration occurs within a known band of frequencies, it is
+possible to use band-pass technologies in the quantification of RSA. Bandpass
+techniques may be used in either the frequency or the time domain to
+quantify RSA. For example, band-pass techniques within the frequency
+domain are used when the sum of spectral densities within a band of
+frequencies are used to quantity RSA. An equivalent time domain analysis
+would be to calculate the variance of the output of a time domain band-pass
+filter.
+In our research we sequentially use two filters to quantify RSA. In the
+time domain we employ the moving polynomial filter and input the output of
+this filter to a band-pass filter. The variance of the output of the band-pass
+filter is then calculated and the natural log of this value used as a measure of
+RSA, our index of vagal tone 04. Mathematically equivalent values may be
+generated by applying spectral analysis to the output of the moving polynomial
+filter. Thus, we have been able to calculate the vagal tone index with
+either the two time domain filters (moving polynomial plus band-pass) or a
+time domain filter (moving polynomial) and a frequency domain filter (the
+integral of spectral densities across a frequency band). By keeping the
+analyses in the time domain we are able to provide estimates of the vagal
+tone over relatively short epochs. However, if we use the spectral analysis to
+calculate variance across a band of frequencies, we can detail the exact
+frequency of the process. If we were interested in minor shifts in the
+dominant frequency of RSA we could use the moving polynomial with
+complex demodulation.
+9. Quantification of respiration
+Since respiration is often measured from an analog signal representing
+chest circumference changes or continuous ventilatory flow, it is easily
+quantified and analyzed with spectral analysis. The analog signal is sampled
+at equal time intervals usually between 100 and 500 ms. The critical sampling
+interval being determined by the range of actual respiration. In general, to
+avoid aliasing, the signal should be sampled at least twice as frequently as the
+periodic process being studied (i.e. respiration). The problem of trend and
+slower periodic influences is less acute with respiratory data. However,
+detrending and filtering may still enhance the signal when there are long
+time constants in the respiration amplifiers.
+As with heart rate data, the spectral decomposition of respiration distributes
+the variance of the respiratory signal into constituent frequency
+bands. Moreover, just as there are ambiguities and difficulties in interpreting
+the heart rate spectrum, there are problems with the respiration spectrum.
+Recall that the dominant frequency or peak of the spectrum indicates which
+frequency accounts for the most variance in the time series. The spectral
+analysis assumes that the data are stationary and that the periodic process
+being quantified reflects a relatively stable amplitude over time. If an
+individual takes one very slow deep breath and usually breaths with a rapid
+and shallow pattern, it is possible that the spectrum may reflect a larger peak
+at the frequency band representing the slow breath than at the frequency
+band representing the modal rapid breaths. In this case there may be two
+peaks in the spectrum. However, if there are a few slightly deeper and
+slightly slower than modal breaths, there would be one peak in the spectrum
+and it would reflect a breathing pattern that is slower and deeper than the
+normal pattern. Thus, since the spectrum actually represents breathing
+frequency weighted by breathing amplitude, it may not be possible to extract
+an accurate measure of breathing frequency from the spectrum. Often we
+find this discrepancy when we investigate the relationship between the heart
+rate and the respiratory spectra. Since the heart rate oscillations are more
+likely to be dependent upon respiratory frequency than amplitude, the peaks
+of the two spectra are often different. There are alternative methods to deal
+with some of these issues. To remove the possible confound from respiratory
+depth, the data could be quantified in binary form. Or the analyses could be
+placed in the time domain and calculated in terms of cycle periods or
+peak-to-trough intervals. To summarize, the quantification of many respiratory
+variables from a continuous recording (e.g. chest circumference) suffers
+from many of the problems discussed above for heart period. Subtle position
+changes in the transducer will produce a trend which will have superimposed
+upon it the variability of the’respiratory movements. Moreover, a single deep
+breath may corrupt a spectral analysis estimate of the respiratory rate.
+Rudimentary techniques for determining respiratory rate are often the most
+impervious to these artifacts. One example is through visual inspection of the
+data in order to count the respiratory cycles per unit time to determine rate.
+The research question will govern the technique being used. lnterbreath
+interval variability may be of interest in studies focusing on discrete stimulus-response
+pairings and as a result, an averaged measure of rate is not
+appropriate. In contrast, determination of a breath-by-breath respiratory rate
+is not necessary if the goal of the research is to evaluate state changes over
+minutes or hours.
+The reader is referred to an excellent discussion of the pulmonary system
+which contains flow-charts to aid in the determination of measurement and
+quantification strategies (Lorig & Schwartz, 1990). One of the first psychophysiological
+measures which was extracted from respiratory movements
+was the inspiration/expiration ratio (I/E ratio). Different permutations of
+this ratio have been developed including the I ratio which is the inspiratory
+duration divided by the total respiratory period. The I ratio is thought to be
+more attractive statistically because the values can fall between 0 and 1
+(theoretically). This ratio has been shown in some studies to be sensitive to
+emotional stress. Characteristically, respiration rate has been considered a
+sensitive measure of psychological stress. With more efficient computer
+processing techniques, additional variables of interest have been extracted as
+potentially useful in the evaluation of stress. For example, respiratory activity
+is not a continuous process leading from inspiration to expiration. The
+duration of the respiratory pause (i.e. the interval of zero airflow) has been
+demonstrated to be quite sensitive to psychological and physical stressors.
+This measure has been found to be more sensitive than respiration rate,
+inspiratory/expiratory flow and tidal volume.
+10. Problems
+There are a number of processes which may influence interpretation of
+heart rate data. For example, speech may influence the rhythmicity of data. If
+verbal responses are time locked, the task itself may generate a rhythmic
+heart rate pattern. It is, however, possible to quantify and to measure heart
+rate patterns including RSA during speech. Given our system of measurement,
+values recorded during speech do not seem to vary greatly from values
+during non-speech episodes. However, one should be cautious in interpreting
+heart rate patterns during speech because they may reflect mental effort
+demands as well as the physiological demands associated with speech.
+Movement and physical exertion change cardiovascular activity. Knowledge
+of the experimental context as well as the continuous time line of
+behavior is helpful in interpreting heart rate parameters. With movement
+and physical activity, the major problem is with a degrading of the ECG
+signal. Careful preparation of the skin and the use of appropriate electrodes
+and amplifiers can reduce electrical artifacts in the ECG generated by
+movement or physical activity.
+Missing data are critical since most of the analyses we have discussed
+require continuous data. If there are missing data, analyses must be conducted
+over shorter epochs of continuous data.
+11. Recommendations on what to use where
+It is clear that a number of procedures need to be followed. First, clean
+ECG and valid respiratory parameters need to be recorded. Second, the
+behavior of the subject in the experimental condition needs to be monitored.
+Third, a decision needs to be made regarding the level of information desired
+to be extracted from the data. If global measures of heart rate and HRV are
+selected, there may be a loss of information regarding underlying physiological
+processes. Our recommendation is to look at two processes in the heart
+rate pattern: (1) Mayer wave sinus arrhythmia (i.e. THM wave or 0.1 Hz
+wave); and (2) RSA. Fourth, the data have to be corrected for artifact.
+Artifact reflected in non-physiological determination of very short or very
+long heart periods needs to be corrected to reflect the true physiological
+process. If not attended to, the artifact will greatly influence high frequency
+aspects of the heart rate pattern. Fifth, the data need to be time sampled.
+Sixth, the data need to be detrended and/or filtered to conform to the time
+series analyses being conducted. Decisions regarding time domain or frequency
+have been discussed above and reflect the researchers’ specific
+questions.
+In conducting psychophysiological research in the field, the most critical
+point is to get clean data. If the data are confounded via electrical interference,
+loose electrodes, motor movement, or equipment malfunction, the
+information derived from the analyses will be greatly compromised. Since in
+many situations it may be difficult to obtain clean measurements of respiration,
+it is possible to derive a relatively accurate measure of respiratory
+frequency from the periodicity of the RSA. We believe that this periodicity
+reflects the brainstem inspiratory drive which is modulated by blood gas
+composition and by voluntary breathing.
+12. Future directions
+The heart rate pattern is rich with information regarding the homeostatic
+status of the individual. Data over the past 20 years has clearly demonstrated
+that HRV provides information that is unique and important. Moreover, this
+information is not conveyed in average heart rate. During the past decade
+there has been an abundance of research demonstrating the utility of the
+RSA measure and the relationship between RSA and the parasympathetic
+nervous system. There is now clear documentation of the importance of
+monitoring RSA as an index of vagal tone in flight-related scenarios (e.g.
+Dellinger, Taylor& Porges, 1987). We believe that further information will
+be obtained through detailed investigation of Mayer wave sinus arrhythmia.
+There are a number of important issues that need to be investigated. For
+example, the respiratory parameters which impinge on RSA and other heart
+period oscillations need to be investigated further. Among the issues which
+have yet to be adequately investigated are: (1) the relationship between
+respiratory resistance and RSA; (2) the influence of various inhaled gas
+combinations (e.g. pure oxygen, nitrogen-oxygen mixes, etc.) on RSA. The
+influence of environmental factors and the impact of stress on HRV also
+needs to be investigated. Some of these areas include investigating: (1) the
+influence of heat stress; (2) the influence of G-forces; (3) the influence of
+motion and space sickness. After articulating these physiological relationships
+we need to focus on the evaluation of the influence of cognitive
+workloads in combination with the above points.

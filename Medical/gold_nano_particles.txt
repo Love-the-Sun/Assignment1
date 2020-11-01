@@ -1,0 +1,491 @@
+Gold nanoparticles for cancer detection and treatment: The role of adhesion
+Y. Oni,1,2 K. Hao,3 S. Dozie-Nwachukwu,4,5 J. D. Obayemi,4 O. S. Odusanya,4,5
+N. Anuku,2,6 and W. O. Soboyejo1,2,4
+1Princeton Institute for Science and Technology of Materials (PRISM), Princeton University,
+70 Prospect Street, Princeton, New Jersey 08544, USA
+2Department of Mechanical and Aerospace Engineering, Princeton University, Princeton, New Jersey 08544,
+USA
+3Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, Cambridge,
+Massachusetts 02139, USA
+4African University of Science and Technology (AUST), Kilometer 10, Airport Road, Abuja,
+Federal Capital Territory, Nigeria
+5Sheda Science and Technology Complex (SHESTCO), Gwagwalada, Abuja, Federal Capital Territory,
+Nigeria
+6Department of Chemistry and Chemical Technology, Bronx Community College, New York, New York 10453, USA
+(Received 8 September 2013; accepted 1 January 2014; published online 26 February 2014)
+This paper presents the results of an experimental study of the effects of adhesion between gold
+nanoparticles and surfaces that are relevant to the potential applications in cancer detection and
+treatment. Adhesion is measured using a dip coating/atomic force microscopy (DC/AFM)
+technique. The adhesion forces are obtained for dip-coated gold nanoparticles that interact
+with peptide or antibody-based molecular recognition units (MRUs) that attach specifically
+to breast cancer cells. They include MRUs that attach specifically to receptors on breast
+cancer cells. Adhesion forces between anti-cancer drugs such as paclitaxel, and the constituents of
+MRU-conjugated Au nanoparticle clusters, are measured using force microscopy techniques. The
+implications of the results are then discussed for the design of robust gold nanoparticle clusters and
+for potential applications in localized drug delivery and hyperthermia. VC 2014 AIP Publishing LLC.
+I. INTRODUCTION
+Cancer is currently the second leading cause of death in
+the world.1 In most cases, the major challenge is the detection
+of cancer before metastasis.1,2 Hence, the diagnosis is
+often too late to administer the current treatments that are
+available.3,4 Consequently, more than 550 000 Americans
+and more than 7.5 x 106 worldwide die of cancer each year.5
+Furthermore, for the patients that undergo bulk systemic cancer
+treatment, the treatment is often painful, with significant
+short and long term side effects arising from common treatment
+methods that include: chemotherapy, radiotherapy,
+hyperthermia, and surgery.3,4
+In an effort to reduce the potential side effects of bulk
+systemic cancer treatment, our previous work6 explored the
+potential of an implantable anti-cancer treatment device that
+can locally deliver drugs and heat to the site of a tumor.
+Such a device can be used, following surgery to remove cancer
+tissue, to treat cancer by the localized chemotherapy and
+hyperthermia. The combination of heat and drug was
+selected because of the potential of engineering synergy
+through the combined use of localized chemotherapy and
+hyperthermia.7
+However, the above device requires surgery for its insertion
+into the body. Furthermore, it may not treat metastatic
+cells that have escaped into the blood stream and other
+organs. There is, therefore, a need for novel approaches for
+the detection and treatment of cancer cells before and after
+metastases.1 This has stimulated our recent efforts to use
+nanoparticles to facilitate the early detection and treatment
+of cancer.8–11 The nanoparticles can be injected into the
+blood stream, where they can also diffuse through the capillaries
+and pores, until they reach receptors on cancer cells
+that can bind specifically to MRUs (such as antibodies and
+peptides) that are attached to them.8
+Upon attachment, the nanoparticles can be used to
+facilitate the imaging8–11 and treatment8–11 of cancer. For
+example, magnetic nanoparticles may be used to facilitate
+the magnetic resonance imaging (MRI) of cancer cells/
+tissue, while gold nanoparticles may be used to enhance
+laser therapy through interactions that occur between gold
+nanoparticles and laser beams.8 Similarly, anti-cancer drugs
+that are tethered to gold nanoparticles may be used to treat
+targeted cancer cells/tissue and metastatic cancer cells in
+the blood stream.8,11 Designer nanoparticles, therefore,
+have the potential for localized detection and treatment of
+cancer.
+Gold nanoparticles are particularly attractive in cancer
+treatment because of their strong absorption of light in the
+visible and near-infra red (NIR) electromagnetic regions.
+This optical absorption is strongly dependent on the shape
+and size of the gold nanoparticle.8 Furthermore, it has been
+shown that the cell uptake of spherical gold nanoparticles is
+dependent on their size, with 50 nm being the optimal diameter.
+12 Also, because smaller nanoparticles are expected to
+have a better chance of passing through tumor vasculature,
+they can attach to tumor tissue and then pass through the
+body prior to egestion and excretion. This prevents their long
+term accumulation in the body, while providing the basis for
+cancer detection and treatment during their attachment to
+specific cancer cells.
+Since the interactions between nanoparticles and cancer
+cells can provide a basis for cancer detection and treatment,
+significant efforts have been made to design gold nanoclusters
+that can improve our ability to detect and treat
+cancer.8,11,13–21 In general, such nanoclusters consist of:
+• an imaging core, such as gold that can undergo plasmon
+resonance under illumination with a laser;
+• encapsulated anti-cancer drugs, such as paclitaxel;
+• molecular recognition units, such as antibodies and peptides
+that bind specifically to receptors on cancer cells,
+ligand chemistry, and protective coatings that limit the
+interaction of the nanoparticles with surrounding tissue
+and blood during transport to target organs (Figure 1).
+During transport in the body, the nanoclusters are subjected
+to hydrodynamic and shear forces that can cause them
+to fragment into smaller pieces. They must, therefore, be
+bound by significant adhesive and cohesive forces that cannot
+be overcome by the forces encountered during nanoparticle
+transport in the body. There is, therefore, a need to
+quantify the adhesion forces between the constituents of
+nanoclusters that are relevant to cancer detection and treatment.
+This can be done using Force Microscopy during
+Atomic Force Microscopy (AFM).22–24 This is a technique
+that can be used to study bi-material pairs25 that simulate
+pair-wise interactions between interacting nanoparticles.26 It
+is the basis for force spectroscopy and the measurement of
+nano/molecular scale adhesion.27,28
+This paper presents the results of an experimental study
+of the adhesion between the constituents of gold nanoclusters
+that are relevant to cancer detection and treatment. In the
+case of cancer detection, the adhesive interactions between
+gold nanoparticles and molecular recognition units (such as
+luteinizing hormone releasing hormone and a breast specific
+antibody) are measured using force microscopy. The adhesion
+between gold nanoparticles and paclitaxel (a anti-cancer
+drug) is also measured along with the effects of thiols that
+are often used to improve the adhesion between gold and a
+number of organic materials.29 The implications of the
+results are then discussed for the development of gold
+nanoclusters for future applications in cancer detection and
+treatment.
+II. THEORY
+The force microscopy method involves bringing AFM tips
+close enough for adhesive interactions to occur (Figure 2(a)).
+This ultimately causes them to jump into contact (Figure 2(b)).
+The tips then undergo elasticity as they are displaced further in
+the same direction (Figure 2(c)). Upon their retraction, the displacements
+are reversed, as the loads are reduced to zero
+(Figure 2(d)). However, the tips do not detach at zero load, due
+to the effects of adhesion. Consequently, the retraction has to
+be continued until the adhesive interactions are overcome by
+the applied forces. This results in the pull-off of the AFM tips
+from the substrates (Figure 2(e)). The resulting pull-off force,
+F, is a measure of the adhesion. It is given by Hooke’s law
+F ¼ kd; (1)
+where k is the stiffness of the AFM cantilever and d is the
+displacement of the AFM tip at the onset of pull-off (represented
+as the length, EA in Figure 2(a)). Measurements of
+such pull-off forces have been applied in biology.30–33 They
+have been shown to be sufficient to detect the differences
+between breast cancer cells and normal breast cells in recent
+work by Meng et al.,25 who studied the adhesive interactions
+between the breast specific EphA2 antibodies and receptors
+on breast cancer or normal breast cells. Meng et al.25 also
+studied the adhesion between luteinizing hormone releasing
+hormone (LHRH) peptides and their receptors on breast cancer
+and normal breast cells. Their results show that the pulloff
+forces associated with breast cancer cells and
+LHRH/EphA2, which are over-expressed in breast cancer
+cells,34,35 are about five times the adhesion to normal breast
+cells.25
+It is important to note here that although the above
+results suggest that force microscopy can be used to measure
+the adhesive forces between the constituents of nanoclusters,
+there have been no prior efforts to use force microscopy to
+measure the adhesion between gold nanoparticles and the
+constituents of nanoclusters that are being designed for the
+specific detection and treatment of cancer via localized
+chemotherapy and hyperthermia. This will be explored in
+this study using a model nanocomposite system (Figure 1)
+that can deliver the anti-cancer drug, paclitaxel, while providing
+the basis for thermo-chemotherapy, by localized
+hyperthermia via plasmon resonance with optically tunable
+gold nanoparticle cores.
+FIG. 1. Possible schematics of a nanoparticle-based drug delivery/detection system.
+III. MATERIALS AND METHODS
+A. Materials
+The gold nanoparticles were purchased from Nanopartz
+Inc. (Loveland, CO), while the uncoated AFM tips were procured
+from Veeco (Memphis, TN). Paclitaxel was obtained
+from Parenta Pharmaceuticals (West Colombia, SC), while
+LHRH was purchased from Thermo Scientific (Waltham,
+MA). The Breast Specific Antibody (BSA) and thiols were
+obtained from Sigma-Aldrich (St. Louis, MO).
+B. AFM experiments
+1. AFM tip and substrate coating/characterization
+A simple dip-coating method25 was used to coat the
+AFM tips. The bare AFM tips were dip-coated with either
+gold nanoparticles, LHRH or BSA. This was done by
+immersing them into their respective solutions for about 10 s
+to maximize the AFM tip surface contact with the solution.
+The tips were then air-dried for less than a minute, after
+which they were dipped for a second time, again for 10 s.
+This procedure was repeated 3–5 times to complete the coating
+process. The nanoparticle concentrations in solution
+ranged from 22 to 46 ppm. These were used in the asreceived
+condition. Similarly, the BSA, thiols and LHRH
+solutions were used, as provided by the vendors, at a concentration
+of 0.5 mg/ml.
+Subsequently, the coated AFM tips were air-dried for a
+minimum of 24 h. They were then observed under a scanning
+electron microscope. The paclitaxel, LHRH, and BSA substrates
+were prepared by spreading each of the solutions on
+glass sheets to form thin layers. These were then allowed to
+dry in air for a minimum of 24 h. The surface morphologies
+of the coated substrates and the uncoated glass substrates
+(control surfaces)36 were then characterized using a
+Dimension 3100 Atomic Force Microscope (AFM) that was
+operated in the tapping mode (Dimension 3100, Bruker
+Instruments, Woodbury, NY, USA).
+In order to confirm that the AFM tip samples were
+coated with gold nanoparticles, the coated and bare tips were
+imaged under a Phillips Model FEI XL30 field emission gun
+scanning electron microscope (SEM) (Phillips Electronics
+N.V., Eindhoven, The Netherlands). The images were
+obtained using secondary electron imaging. The images of
+the coated AFM tips were obtained before and after the
+AFM experiments. In this way, possible detachment or
+delamination of the coatings was observed on the coated
+AFM tips.
+Hence, since pull-off forces were only accepted for
+cases in which the coatings were still present after the pulloff
+experiments, the measured pull-off forces were confirmed
+to be due to the intended bi-material pairs. The spring
+constants of the coated and uncoated tips were measured
+using the thermal tune method.37,38 This was measured
+because the actual spring constants are needed to obtain the
+true adhesion forces from Eq. (1). This also accounts for
+batch-to-batch variations in the spring constants, as well as
+the effects of coatings on the cantilever stiffness.25,36 The
+pull-off measurements were obtained under ambient conditions
+(room temperature of 22–23 oC and a relative humidity
+of 40–45%).
+2. AFM force-displacement measurements
+The interactions between the gold nanoparticle-coated
+AFM tips and the cell substrates or between the components
+of the drug delivery systems were measured using a
+Multimode Dimension DI Nanoscope IIIa Atomic Force
+Microscope (Bruker Instruments, Woodbury, NY, USA).
+The measurements were obtained under ambient conditions
+and relative humidity (40–45%). The photodetector sensitivity
+was calibrated on a stiff quartz surface before force microscopy
+measurements.39 The Veeco probes were made
+from uncoated phosphorus (n)-doped silicon. They have a tip
+radius of curvature of 30 nm. For each pair of interactions,
+150 adhesion measurements were obtained from 3 AFM tips
+with 50 measurements obtained for each tip at 5 different
+positions on the substrate.
+Table I shows the different pairs used.
+TABLE I. Substrates and coated tips used in AFM study.
+IV. RESULTS AND DISCUSSION
+A. AFM tip and substrate characterization
+Back-scattered SEM images of the uncoated and
+dip-coated AFM tips are presented in Figures 3(a)–3(g). The
+images show tips before and after the AFM adhesion
+measurements. A typical uncoated AFM tip is shown in
+Figure 3(a). This shows that the bare tip is evenly smooth
+along the corners and surfaces of the tip. However, in the
+case of the coated tips, corners and apexes are covered with
+coatings that disrupt the smoothness of the surfaces.
+Typical AFM images of the dip-coated AFM tips are
+presented in Figures 3(b)–3(f). These show the surface
+morphologies of AFM tips that are coated with nanoscale
+layers of gold (Figure 3(b)), LHRH (Figure 3(c)), EphA2
+breast specific antibody (Figure 3(d)). Furthermore, no evidence
+of coating delamination was observed on the surfaces
+of the coated AFM tips that were used in the pull-off
+experiments. Hence, the measured pull-off forces are due
+to interactions between the coated AFM tips and the
+substrates.
+FIG. 3. Sample SEM Images of the AFM tips: (a) Bare AFM tip; (b) Gold
+nanoparticles-coated AFM tip before adhesion measurement; (c) Gold
+nanoparticles-coated AFM tip after adhesion measurement; (d) LHRH-coated
+AFM tip before adhesion measurement; (e) LHRH-coated AFM tip after adhesion
+measurement; (f) BSA-coated AFM tip before adhesion measurement;
+(g) BSA-coated AFM tip after adhesion measurement. Boxes show coating on
+apex tip and side edges.
+B. Adhesion forces
+Figure 4 shows a typical force-displacement plot for the
+adhesion between gold nanoparticles and LHRH. This plot
+has characteristics similar to the idealization presented in
+Figure 2. By multiplying the pull-off deflections with the tip
+stiffness shown in Table II, the pull-off forces were obtained.
+There were no measurable forces for the control samples.
+The adhesive force interactions between the different
+components of the designer drug delivery system (shown in
+Figure 1) are presented in Figure 5. The adhesion forces
+between the gold nanoparticles and LHRH and between gold
+nanoparticles and BSA are comparable and stronger than
+those obtained for paclitaxel-gold, paclitaxel-antibody or
+paclitaxel-LHRH complexes.
+The weakest adhesive interactions within the drug nanocomposite
+systems (Figure 5) are with the drug (paclitaxel).
+These interactions result in pull-off forces of about 10 nN,
+compared to those without the drug (F~58 nN). This suggests
+that the robustness of such systems will depend highly
+on the drug-component interactions.
+These above adhesion forces are generally related to
+Van der Waal’s forces, with relatively large and short range
+interactions between the different components. Also, it can
+be observed that similar adhesion forces were obtained for
+the LHRH and BSA coated tips when measured against the
+same substrate (60 nN against gold and 10 nN against
+paclitaxel). This may be due to the amino acid sequence
+present in the peptide and polypeptide structures in the
+LHRH and BSA, respectively. The overall adhesion forces
+would, therefore, depend on the charge distributions and
+positions of the amino acid residues in the peptide and polypeptide
+structures of the LHRH and BSA structures.
+The AFM force microscopy results (Figure 5) also show
+that gold nanoparticles are strongly attracted to biological
+compounds. The pull-off forces for gold-LHRH and gold-
+AB pairs are 6063 nN and 5763 nN, respectively. These
+forces are presented in Table III.
+These are far greater than those between gold and paclitaxel,
+which is 1260.6 nN. In contrast, there are weak adhesive
+interactions between paclitaxel and the molecular
+recognition units, LHRH and Antibody. The adhesive forces
+obtained for these interactions are 1061 nN and 961 nN,
+respectively. The results are shown in Table IV.
+The adhesion forces between taxol and gold, as well as
+taxol and thiol are generally less than the other interactions
+within the nanocomposite drug delivery system. Hence, the
+current results show that the drug is the weak link in the
+nanocomposite system. Careful nanocluster engineering
+must, therefore, be carried out to prevent the inadvertent
+release of the drug, paclitaxel, before it is delivered to the tumor
+sites for controlled release and the treatment of cancer
+cells/tumor tissue.
+Furthermore, the results show that the presence of thiols
+plays an important role in the overall robustness of the system.
+Figures 6–8 reflect increased adhesion forces, when
+compared with those with gold. In Figure 6, the thiolantibody
+couple has an adhesion force of 320640 nN,
+which is about three times the adhesion force between gold
+and the breast specific antibody. These results are summarized
+in Table V.
+FIG. 4. Typical AFM force-displacement behavior for coated tips on substrates.
+TABLE II. Spring constants of the bare and coated tips.
+FIG. 5. Adhesion interactions of components in a drug delivery system.
+TABLE III. Comparison of adhesion interactions for LHRH with and without
+thiols.
+TABLE IV. Comparison of adhesion interactions for paclitaxel (taxol) with
+antibody, gold or LHRH.
+FIG. 6. Comparison of adhesion interactions for Gold with and without
+thiols.
+TABLE V. Comparison of adhesion interactions for Gold with and without
+thiols.
+Also, the adhesion force between thiol and gold is found
+to be almost double that between the gold and the BSA.
+These results clearly indicate a significant increase in the adhesive
+interactions when thiol is introduced between the gold
+and BSA. The increased adhesion forces between gold and
+thiol can be attributed to covalent bonds. Gold is known to
+form stable complexes with ligands which have “soft” or
+polarizable electron donating atoms such as phosphorus or
+sulfur.40 Similarly, the stronger adhesive forces between
+BSA and thiol may be attributed to amine-thiol interactions.
+Similar results were obtained for LHRH interactions.
+These resulted in a three-fold increase in the adhesion forces
+of gold-thiol structures, when compared with those of
+uncoated gold structures (Figure 7). Furthermore, the adhesion
+forces between gold and paclitaxel are about six times
+greater when thiols are present (Figure 8). The current
+results, therefore, confirm that thiols can improve the robustness
+of gold nanoparticle clusters, as is expected from prior
+work reported in the literature.41,42 The current results are
+also presented in Table VI.
+The above results suggest that, with the exception of
+thiol-taxol interactions, the interactions between thiol and
+the other chemical species (LHRH, EphA2 and gold) generally
+result in increased adhesion. These results are shown in
+Table VII.
+The observed increase in adhesion forces (in the presence
+of thiols) is attributed to the effects of secondary bonds
+(Van der Waals forces or hydrogen bonds). Furthermore, the
+statistical variations in the measured adhesion forces seem to
+be less in the cases where the number of molecular species
+on the AFM tips are fewer. However, in cases with increased
+numbers of available molecular species on the AFM tips
+(taxol and LHRH), the variabilities in the measured adhesion
+forces may depend on the coverage of the AFM tips and the
+orientations of the molecules on the AFM tips and the substrates.
+Further work is clearly needed to explore the effects
+of molecular orientation and AFM tip coverage on the measured
+adhesion forces. These are clearly some of the challenges
+for future work.
+The reasons for the variations in error ranges in the adhesion
+force measurements are not fully understood at the
+moment. We also note that the adhesive interactions between
+relatively large antibodies and gold nanoparticles result in
+smaller statistical variations, while those between organic
+structures with many possible sites of interactions result in
+larger variations in adhesive force.
+Finally in this section, Figure 9 provides a comparison
+of the forces obtained for the different component pairs with
+thiols. As reported previously,43 proteins have the strongest
+affinity to thiols due to the possible disulfide intermolecular
+interactions.
+Covalent bonds between gold and thiols40 may be responsible
+for these strong adhesive interactions. Furthermore, the
+paclitaxel-thiol bi-material pair results in the smallest pull-off
+forces, suggesting the presence weak Van der Waal’s
+interactions.
+FIG. 7. Comparison of adhesion interactions for LHRH with and without
+thiols.
+FIG. 8. Comparison of adhesion interactions for Paclitaxel (taxol) with and
+without thiols.
+TABLE VI. Comparison of adhesion interactions for LHRH with and without
+thiols.
+TABLE VII. Comparison of adhesion interactions of the nanocomposite
+components with thiols.
+FIG. 9. Comparison of adhesion interactions of the nanocomposite components
+with thiols.
+V. IMPLICATIONS
+The implications of the current work are quite significant.
+They suggest that nanoparticles, peptides and antibodies
+can be coated on micro-cantilever tips and used to
+measure adhesion interactions that are relevant to drug delivery
+systems. Hence, the pairwise adhesive interactions
+between the drug components can be measured using force
+microscopy techniques. However, there is a need for further
+work to explore the extent to which the AFM adhesion measurements
+may vary due to interactions with liquids and different
+solvents that are relevant to in-vitro and in-vivo
+environments. In-vitro and in-vivo studies are also needed to
+understand the level to which the AFM adhesion measurements
+can be related to nanoparticle-drug component interactions
+and binding under experimental and clinical
+conditions. These are clearly some of the challenges for
+future work.
+Based on the sizes of the rounded AFM tips with tip
+radii of about 30 nm, we estimate a total hemi-spherical volume
+of about 5656 nm2 is available for the adhesive interactions
+with the substrates. Hence, in the case of the EphA2
+antibodies, if we estimate the surface areas of the molecules
+to be approximately 1000 nm2, then we would expect to
+have about 5.7 molecules interacting with the substrates.
+Consequently, partial coverage of the tip rounded AFM tips
+should result in about 3–5 molecules per rounded AFM tip.
+In the case of the smaller LHRH peptides, with surface areas
+of about 36 nm2, about 157 LHRH peptides can be attached
+to the rounded AFM tip, if it is fully covered. Similarly, the
+interactions with the taxol drug molecule with a surface area
+of 100 nm2 could result in about 57 taxol molecules on the
+rounded AFM tip.
+Furthermore, it is also clear that the adhesion methods
+that were used in this study can be used to screen the effectiveness
+of potential binding chemistry and coated nanoparticle
+targets before conducting expensive in-vitro and in-vivo
+studies that are needed for clinical use. However, the relatively
+weak bonds between the anti-cancer drugs (paclitaxel)
+suggest that nanocluster fragmentation may occur during
+transportation in the bloodstream to the target organs. Since
+such fragmentation may result in premature drug release
+from the nanoparticle clusters (before they reach the
+intended tumor tissue/target organs), there is a need for further
+experimental and computational work to study the resistance
+of the nanoparticle clusters to fragmentation under
+in-vitro and in-vivo conditions. Nevertheless, the results of
+the current study show clearly that thiols improve the adhesion
+between the constituents of nanoclusters that are
+relevant to early cancer detection and the localized treatment
+of cancer via hyperthermia and localized drug release.
+VI. CONCLUSIONS
+This paper presents the results of an experimental study
+of the adhesion forces between components of a model
+generic drug delivery/system that includes gold nanoparticles,
+paclitaxel, thiols, LHRH and as breast-specific antibody,
+BSA. The results confirm that the robustness of such
+systems depends on the adhesion to paclitaxel, which is the
+weak link. In such cases, it is important to design nanoparticle
+clusters in which adhesion to the drug is increased to
+prevent premature release. The results suggest that the force
+microscopy technique can be used to rank the adhesion
+between different species in drug nanocomposites that are
+being developed to treat breast cancer and other forms of
+cancer. They also show that the presence of thiols can significantly
+increase the adhesive forces between gold and the
+molecular recognition units or the drugs in these systems.
+Furthermore, the current work provides a tool for fast screening
+of potential binding chemistry for ligand conjugated
+nanoparticles that can also be used for cancer detection and
+treatment. Further work is clearly needed to measure the adhesion
+forces in biological environments and clinical
+settings.
+ACKNOWLEDGMENTS
+This work was supported by the National Science
+Foundation (Grant No DMR 0231418), the Princeton Grand
+Challenges Program, the World Bank STEP B Program, the
+World Bank African Centers of Excellence Program and the
+African Development Bank. The authors are grateful to these
+agencies for their financial support and encouragement. We
+would also like to extend our appreciation to Wali Akande,
+Rose Ndong and Tiffany Tong for their assistance in the
+AFM measurements.

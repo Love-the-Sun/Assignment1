@@ -1,0 +1,1643 @@
+Founder’s Award, 25th Annual Meeting of the Society for
+Biomaterials, Providence, RI, April 28–May 2, 1999
+Tissue Heart Valves: Current Challenges and Future
+Research Perspectives
+Frederick J. Schoen,1 Robert J. Levy2
+1Department of Pathology, Brigham and Women’s Hospital and Harvard Medical School, 75 Francis Street,
+Boston, Massachusetts 02115
+2Abramson Pediatric Research Center, The Children’s Hospital of Philadelphia, University of Pennsylvania,
+Philadelphia, Pennsylvania 19104
+
+Abstract: Substitute heart valves composed of human or
+animal tissues have been used since the early 1960s, when
+aortic valves obtained fresh from human cadavers were
+transplanted to other individuals as allografts. Today, tissue
+valves are used in 40% or more of valve replacements worldwide,
+predominantly as stented porcine aortic valves (PAV)
+and bovine pericardial valves (BPV) preserved by glutaraldehyde
+(GLUT) (collectively termed bioprostheses). The
+principal disadvantage of tissue valves is progressive calcific
+and noncalcific deterioration, limiting durability. Native
+heart valves (typified by the aortic valve) are cellular and
+layered, with regional specializations of the extracellular
+matrix (ECM). These elements facilitate marked repetitive
+changes in shape and dimension throughout the cardiac
+cycle, effective stress transfer to the adjacent aortic wall, and
+ongoing repair of injury incurred during normal function.
+Although GLUT bioprostheses mimic natural aortic valve
+structure (a) their cells are nonviable and thereby incapable
+of normal turnover or remodeling ECM proteins; (b) their
+cuspal microstructure is locked into a configuration which is
+at best characteristic of one phase of the cardiac cycle (usually
+diastole); and (c) their mechanical properties are markedly
+different from those of natural aortic valve cusps. Consequently,
+tissue valves suffer a high rate of progressive and
+age-dependent structural valve deterioration resulting in
+stenosis or regurgitation (>50% of PAV overall fail within
+10–15 years; the failure rate is nearly 100% in 5 years in those
+<35 years old but only 10% in 10 years in those >65). Two
+distinct processes—intrinsic calcification and noncalcific
+degradation of the ECM—account for structural valve deterioration.
+Calcification is a direct consequence of the inability
+of the nonviable cells of the GLUT-preserved tissue to
+maintain normally low intracellular calcium. Consequently,
+nucleation of calcium-phosphate crystals occurs at the phospholipid-
+rich membranes and their remnants. Collagen and
+elastin also calcify. Tissue valve mineralization has complex
+host, implant, and mechanical determinants. Noncalcific
+degradation in the absence of physiological repair mechanisms
+of the valvular structural matrix is increasingly being
+appreciated as a critical yet independent mechanism of
+valve deterioration. These degradation mechanisms are
+largely rationalized on the basis of the changes to natural
+valves when they are fabricated into a tissue valve (mentioned
+above), and the subsequent interactions with the
+physiologic environment that are induced following implantation.
+The “Holy Grail” is a nonobstructive, nonthrombogenic
+tissue valve which will last the lifetime of the patient
+(and potentially grow in maturing recipients). There is considerable
+activity in basic research, industrial development,
+and clinical investigation to improve tissue valves. Particularly
+exciting in concept, yet early in practice is tissue engineering,
+a technique in which an anatomically appropriate
+construct containing cells seeded on a resorbable scaffold is
+fabricated in vitro, then implanted. Remodeling in vivo,
+stimulated and guided by appropriate biological signals incorporated
+into the construct, is intended to recapitulate
+normal functional architecture. © 1999 John Wiley & Sons,
+Inc. J Biomed Mater Res, 47, 439–465, 1999.
+
+In the past 4 decades, countless models of substitute
+heart valves have been developed and investigated,
+and the technology of their design and manufacture
+has progressively improved. Nevertheless, an ideal
+valve replacement device has not been achieved. The
+desirable characteristics of a heart valve substitute,
+originally enumerated by Harken1 as the “Ten Commandments
+of Satisfactory Prosthetic Aortic Valves,”
+are summarized in modified form in Table I.
+Heart valve substitutes are of two principal types:
+mechanical prosthetic valves with components manufactured
+of nonbiologic material (e.g., polymer, metal,
+carbon) or tissue valves which are constructed, at least
+in part, of either human or animal tissue.2–6 At least
+60,000 substitute valves are implanted in the United
+States and 170,000 worldwide each year, of which we
+presently estimate that approximately 60% are mechanical
+and 40% are tissue, suggesting a shift toward
+increasingly greater usage of tissue valves over the
+past several years.7
+Tissue valves have been used since the early 1960s,
+when aortic valves obtained fresh from human cadavers
+were transplanted to other individuals.8,9 Less
+than a decade later, chemically preserved stentmounted
+tissue bioprosthetic valves (termed “bioprostheses”)
+were first implanted.10 (The term “bioprosthesis”
+is usually used to denote a valve which is
+chemically treated, mounted on a stent, or both.) Today,
+stented glutaraldehyde-preserved porcine aortic
+valves and bovine pericardial bioprosthetic valves are
+used extensively; stentless valves (to be discussed
+later) may be used more widely in the future. Although
+tissue valve substitutes have certain advantages
+over mechanical valves (see below), their durability
+is limited.2–7 Our objective in this review is to
+summarize and critically evaluate the current and future
+challenges and directions in research and development
+of tissue heart valves, emphasizing key evolving
+concepts, emerging scientific data, and new technology
+particularly related to the quality of the tissue
+itself.
+TABLE I
+Desirable Characteristics of a Heart Valve Substitute
+Nonobstructive
+Closure is prompt and complete
+Nonthrombogenic
+Infection resistant
+Chemically inert and nonhemolytic (does not damage blood
+elements)
+Durable for extended intervals
+Easily and permanently inserted into an appropriate
+physiologic site, preferably orthotopic
+Interface between prosthesis and patient heals appropriately
+Not annoying to the patient (noise free)
+ADVANTAGES AND DISADVANTAGES OF
+MECHANICAL AND TISSUE VALVES
+Within 10 years postoperatively, prosthesisassociated
+problems necessitate reoperation or cause
+death in at least 50–60% of patients with substitute
+valves.11,12 The rate of problems overall is similar for
+mechanical prostheses and bioprostheses. Four categories
+of valve-related complications predominate:
+(a) thromboembolism, thrombosis, and anticoagulation-
+related hemorrhage; (b) prosthetic valve endocarditis
+(infection); (c) structural dysfunction (i.e., failure
+or degeneration of the prosthesis biomaterials; and (d)
+nonstructural dysfunction (i.e., a diverse array of complications
+which includes tissue overgrowth, paravalvular
+leak, hemolysis, and other extrinsic interactions
+of host tissues with a valve).2–7,11–14
+Although composite rates of valve-related complications
+are similar for mechanical prostheses and bioprostheses,
+the frequency and nature of specific valverelated
+complications can vary with the prosthesis
+type, model, site of implantation, and patient characteristics
+(such as age and activity level).4,13,14 In particular,
+mechanical and tissue valves differ in their
+major causes of failure.
+Specifically, mechanical prosthetic valves are associated
+with substantial risk of systemic thromboemboli
+and thrombotic occlusion, largely owing to nonphysiologic
+surfaces and flow abnormalities created
+by one or more rigid occluders.2–7,11–13,15 To minimize
+this risk, chronic anticoagulation therapy is required
+in all mechanical valve recipients. However, systemic
+anticoagulation renders patients vulnerable to potentially
+serious hemorrhagic complications.15 Thus, the
+combined risk of thromboembolic complications and
+hemorrhage constitutes the principal disadvantage of
+mechanical prosthetic valves. Nevertheless, contemporary
+mechanical prostheses typically have high
+structural reliability.
+In contrast to mechanical valves, tissue valves maintain
+a low rate of thromboembolism without anticoagulation.
+2–7,11–13 Their central pattern of flow approximates
+that of the natural heart valves and their
+cusps are composed of valvular or nonvalvular animal
+or human tissue, which is typically more thromboresistant
+than synthetic materials. Indeed, tissue valve
+recipients (who are generally not anticoagulated) suffer
+thromboembolism at approximately the same rate
+as fully anticoagulated mechanical valve recipients.2
+However, valve failure with structural dysfunction
+owing to progressive tissue deterioration (including
+calcification and noncalcific damage) is a serious disadvantage
+which undermines the attractiveness of tissue
+valve substitutes.2–7,11–13 Other important complications,
+including valve infection (prosthetic valve endocarditis)
+and nonstructural dysfunction, affect both
+tissue and mechanical valves nearly equally.
+CONTEMPORARY TISSUE VALVES
+Most commercially produced tissue valves are
+mounted on and supported by a metal or plastic stent,
+typically with three posts (called struts) and surrounded
+by a sewing cuff at the base. Stents vary in
+structural design, flexibility, and composition among
+models. Both stent and sewing cuff facilitate surgical
+implantation with secure fixation and permit valve
+use in either the semilunar (aortic/pulmonary) or
+atrioventricular (mitral/tricuspid) valve sites. In contrast,
+nonstented porcine aortic valves, aortic (or pulmonary)
+valve allografts and pulmonary autografts
+(each discussed later) are sewn directly into the surgically
+prepared aortic valve site; each is more difficult
+to insert than a stented valve and each configuration
+does not readily permit mitral (or tricuspid) valve replacement.
+Thus, bioprostheses are hybrid structures,
+partly biologic (i.e., the cuspal tissue) and partly synthetic
+[i.e., the stent (often covered by fabric) and sewing
+ring].
+The chemical, mechanical, and morphologic features
+before and after insertion, and the clinical success
+and specific failure modes of cardiac valvular tissue
+grafts depend primarily on the type, source, preservation,
+and handling of the tissue, and the method
+of tissue attachment and support. The immunological
+relationship between donor and recipient tissue varies.
+Valvular tissue can be transplanted (a) across species
+(xenografts, also called heterografts and including
+bioprostheses derived from porcine aortic valve or bovine
+pericardium), (b) between persons [allografts,
+also called homografts and including aortic (or pulmonary)
+valves with associated aorta (or pulmonary
+artery)], or (c) from one site to another within an individual
+(autograft, composed of pericardium, or the
+patient’s pulmonary valve transplanted to the aortic
+root). Other diverse tissues including human fascia
+lata16 and dura mater17 have been used to fabricate
+valves. Clinically used xenograft tissue is usually preserved
+by chemical crosslinking with aldehydes. Allografts
+are used either fresh, with or without antibiotic
+treatment, or cryopreserved (see later). Generic
+tissue valve types in wide clinical use are summarized
+in Table II.
+The most frequently used generic tissue valve is the
+glutaraldehyde-preserved pig aortic valve mounted
+on a cloth-covered stent (porcine aortic bioprosthetic
+valve). Two commercially available products dominate;
+they differ in configuration, glutaraldehyde pretreatment
+concentration [0.2% for the Hancockt
+(Medtronic Heart Valves, Santa Ana, CA) valve and
+0.6% for the Carpentier-Edwards (Baxter Cardiovascular,
+Santa Ana, CA)], and stent composition [polyacetal
+(Delrin), and Elgiloy metal alloy, respectively].
+The aortic valve of a normal pig (and some other animals
+but not human) has an extension of cardiac
+muscle from the ventricular septum into the right
+coronary cusp. This excess tissue can inhibit cuspal
+mobility and valve opening as well as become the site
+of calcific deposits. Design modifications have attempted
+to negate this effect.18
+TABLE II
+Generic Tissue Heart Valves Widely Used and/or
+Currently Approved by the U.S. FDA
+Xenograft/heterograft
+Glutaraldehyde-pretreated stented porcine aortic valve
+Glutaraldehyde-pretreated nonstented porcine aortic valve
+Glutaraldehyde-pretreated bovine pericardial valve
+Allograft/homograft
+Cryopreserved aortic allograft valve
+Autograft
+Pulmonary valve to aortic valve transplant (Ross
+procedure)
+STRUCTURE–FUNCTION CORRELATIONS IN
+TISSUE VALVES
+Natural heart valves are remarkably adapted to allow
+unidirectional and nonobstructed passage of
+blood without regurgitation, trauma to molecular or
+formed blood elements, thromboembolism, or excessive
+stress concentrations in the cuspal/leaflet or supporting
+tissue. Healthy valves are biologically dynamic
+structures, capable of considerable functional
+remodeling and repair of injury caused by large repetitive
+deformations.
+Sophisticated prospective development of tissue
+valve substitutes depends on an understanding of the
+fundamental mechanisms limiting the durability of
+previous and current tissue valves. This in turn necessitates
+an understanding of the functional structure of
+the natural aortic valve (“gold standard”), the biology
+of its cells and extracellular matrix, and the changes
+which occur in tissue during fabrication and following
+implantation of a prosthesis. Key aspects are described
+below; future progress necessitates that these crucial
+areas are subjects of ongoing research.
+The natural aortic valve
+Most extensively studied, most frequently diseased,
+and most widely transplanted, the aortic valve provides
+a useful paradigm by which to illustrate the key
+concepts which describe the functional adaptation of
+normal valvular architecture. Aortic valve cusps open
+against the aortic wall during ventricular systole; they
+close rapidly and completely under minimal reverse
+pressure, stretching to maintain full competency
+throughout diastole. During these movements, the
+cusps routinely withstand large cyclical deformations
+(with changes in area as high as 50%). Moreover, despite
+the pressure differential across the closed valve
+which induces a large load on the cusps, cuspal prolapse
+is prevented by substantial coaptation (i.e., contact
+of adjacent cusps, up to 40% of their surfaces).
+The structural and biomechanical features of the
+aortic valve are illustrated in Figure 1. Heart valves
+have a layered, complex architecture and highly specialized,
+functionally adapted cells and extracellular
+matrix (ECM).19–24 These elements accommodate extraordinary
+and repetitive changes in shape and dimension
+throughout the cardiac cycle, provide effective
+stress transfer to the annulus and adjacent aortic
+wall, and mediate ongoing repair and remodeling.
+Two general types of cells (and likely subsets of each)
+are present: a covering layer of endothelium (as lines
+the entire cardiovascular system) and interstitial cells
+with features of both smooth-muscle cells and fibroblasts.
+Interstitial (and perhaps endothelial) cells synthesize,
+remodel, and replenish the local connective
+tissue matrix.23,25–28 Each of the three well-defined tissue
+layers is enriched in a different and specific ECM
+component (Table III): (a) the ventricularis, below the
+inflow surface, predominantly collagenous with radially
+aligned elastic fibers; (b) the centrally located
+spongiosa, composed of loosely arranged collagen and
+abundant glycosoaminoglycans (GAGs); and (c) the
+fibrosa, below the outflow surface, composed predominantly
+of circumferentially aligned, macroscopically
+crimped, densely packed collagen fibers, largely
+arranged parallel to the cuspal free edge. Blood vessels
+are sparse beyond the most proximal portions of normal
+aortic valve cusps, since the thin cusps are adequately
+perfused by the blood bathing them.
+Within these cuspal layers, the architectural elements
+are arranged in a nonrandom orientation, leading
+to properties which are highly anisotropic (i.e., not
+the same in all directions). Moreover, several structural
+features enable cusps to be extremely soft and
+pliable when unloaded (i.e., contracted) but virtually
+inextensible when back pressure is applied (i.e.,
+stretched). These include: (a) gross corrugations of the
+fibrosa, which produce a visible surface rippling in
+systole but disappear during diastole; (b) an array of
+collagen cords in the fibrosa which radiate primarily
+from the commissures and confer strength; and (c)
+crimp (pleats) of the collagen fibers.23,24 The fiber architecture,
+which confers a much higher tissue compliance
+in the radial direction (perpendicular to the
+free cuspal edge) than that in the circumferential direction,
+is quite complex. This specialized and fractal
+collagenous structure of the aortic valve can be predicted
+quite accurately through the use of a computational
+technique which uses the hemodynamic stress
+state as input data.29 During closure, corrugations and
+crimp expand perpendicular to the cuspal free margin
+(i.e., radial direction); these rearrangements are accomplished
+by fiber rearrangements, and permit initial
+increase in dimension with minimal stress. As emphasized 
+by the biomechanical model in Figure 1(C),
+the stiffening induced by fully extended collagen
+crimp, flattened corrugations, and taut collagen cords
+prevents exaggerated sag of the cusp centers when the
+valve is shut, thereby preserving maximum coaptation
+(i.e., preventing cuspal prolapse). The elastin of the
+ventricularis expands when the cusps stretch to enlarge
+the coaptation area, but recoils to make the cusp
+smaller in the open phase.23,30,31 Shear stresses caused
+by the differential movement of the layers and the
+shock of valve closure are dissipated in the spongiosa,
+whose hydrophilic GAGs readily absorb water, swell
+to form a gel and resist compression forces.
+Figure 1. Structural and biomechanical features of the aortic
+valve. (A) Histologic cross section of porcine valve cusp
+showing the three major layers and nondistended configuration.
+approximately lower one-third ventricularis; approximately
+middle third spongiosa; approximately top
+third fibrosa; el = elastin; outflow surface at top. (B) Schematic
+representation of cuspal configuration and architecture
+of collagen and elastin in systole and diastole. (C) Schematic
+representation of biomechanical cooperativity between
+elastin and collagen during valve motion. During
+opening, elastin extends at minimal load during extension of
+collagen crimp and corrugations. Near full closure, when the
+collagen has fully unfolded, the load-bearing element shifts
+from elastin to collagen, and stress rises steadily while coaptation
+is maintained. In systole, elastin restores the contracted
+configuration of the cusp. (A) Verhoff van Giesen
+stain for elastin, original magnification. (B) Modified by permission
+from Schoen FJ. In: Silver MD, editor. Cardiovascular
+pathology, 2nd ed. Churchill Livingstone; 1991. p 1547–
+1605. (A–C) Reproduced by permission from Schoen FJ. J
+Heart Valve Dis 1997;6:1–6.
+TABLE III
+Extracellular Matrix Heterogeneity in Layers of the Aortic Valve
+Tissue changes induced by preservation,
+fabrication, and following implantation of
+a bioprosthesis
+The changes induced by preservation, manufacture,
+and following implantation of a bioprosthesis are
+summarized in Table IV. Although bioprostheses
+mimic some features typical of aortic valve structure,
+the cusps and configurations of a contemporary bioprosthesis
+following chemical pretreatment and manipulation
+during manufacture differ in many respects
+from those of a native valve.21,23,24 Indeed, the
+pathologic changes in bioprosthetic valves are to a
+large extent rationalized on the basis of these differences.
+Several alterations of the tissue which occur
+during valve fabrication and manufacture underly the
+pathological changes which occur following implantation
+and which may lead to failure: (a) The cusp–
+blood interface is subendothelial connective tissue devoid
+of endothelial cells. (b) The microstructure is
+fixed or locked in a static geometry characteristic of
+one phase of the cardiac cycle, with altered mechanical
+properties; the normal functional cyclical rearrangements
+cannot occur. (c) The interstitial cells are made
+nonviable by crosslinking; without viable interstitial
+cells, bioprostheses have no synthetic or renewal
+mechanism to replace collagen and other matrix components
+degraded by mechanical damage proteolysis.
+(d) Crosslinked cellular debris, collagen, and elastin
+can serve as foci for calcification; natural inhibitors to
+mineralization may be diminished or unavailable.
+These and other chemical, mechanical, and structural
+changes which accrue from valve fabrication and subsequent
+function are summarized in Figure 2 and discussed
+in detail below and in following sections.
+Chemical considerations
+Preservation by chemical crosslinking inhibits autolysis,
+enhances material stability, allows a prolonged
+shelf-life, and permits a surgeon to have valves of
+various sizes readily available for implantation. Preservation
+also diminishes antigenicity while maintaining
+both thromboresistance and antimicrobial sterility.
+TABLE IV
+Changes in Bioprosthetic Tissue which can be Induced
+by Fixation, Fabrication, and Implantation
+Following fixation and fabrication
+Crosslinking of proteins
+Locking of structure at one phase of cardiac cycle
+Loss of endothelium (porcine valve) or mesothelium
+(pericardium)
+Loss of interstitial cell viability
+Interstitial cell degeneration, with fragmentation of cell
+membranes, vacuolization and cytoplasmic disruption
+Loss of collagen waviness
+Loosening of collagen bundles
+Loss of amorphous extracellular matrix
+Loss of compliance (with resultant stiffening)
+Following implantation
+Deposition of platelets and fibrin
+Superficial or deep mononuclear inflammatory cells
+Endothelialization (incomplete)
+Pannus overgrowth
+Fluid insudation
+Superficial collagen bundle fragmentation
+Generalized architectural homogenization and loss of
+staining
+Delamination
+Mechanical fatigue damage
+Abrasion
+Calcification
+Cuspal stretching/sagging
+Intracuspal hematomas
+Infiltration of lipid and amyloid
+Colonization by infectious organisms
+Cuspal destruction by infection
+Figure 2. Critical porcine valve structural alterations induced by preservation and fabrication into a bioprosthesis. Scanning
+electron microscopy (SEM) appearance of (A) fresh porcine valve and (B) porcine bioprosthesis before implantation. Confluent
+endothelial layer present in fresh porcine aortic valve is entirely lost in the fabricated valve. The higher-power
+photomicrograph of the surface of the fabricated valve shown in (B) illustrates the rough fibrillar basement membrane
+forming the blood-contacting surface of a commercially produced valve. (A) Original magnification ×1000; (B) original
+magnification ×3800; bar in (A) = 10 mm; bar in (B) = 5 mm. (C,D) Transmission electron microscopy (TEM) of deep portions
+of valve illustrating degrees of cellular preservation and collagen waviness. (C) Freshly fixed porcine aortic valve, with
+morphologically normal cell, wavy collagen, and close apposition of cell to fibrillar and amorphous extracellular matrix.
+Fabricated valve (high pressure–fixed) has cellular autolysis and empty space between cells and collagen. Moreover, the
+collagen is flat in the high pressure–fixed valve illustrated in (D) but wavy in the fresh aortic valve shown in (C). (C,D)
+Original magnification ×8000; bars in (C,D) = 1 mm. Reproduced by permission from Flomenbaum MA, Schoen FJ. J Thorac
+Cardiovasc Surg 1993;105:154–164.
+Techniques for preservation of tissue valves have included
+fixation with aldehydes and other chemical
+preservation [b-propriolactone, ethylene oxide, glycerine,
+and photooxidation (see later)], b-irradiation,
+and lyophilization.4,5,13,17,32
+Glutaraldehyde (1,5-pentanedialdehyde;
+CHO[CH2]3CHO) is the most frequently used chemical
+preservative for bioprosthetic tissue.33,34 Forming
+complex, degradation-resistant, Schiff base– and pyridinium
+salt–derived crosslinks between protein molecules
+of many types, glutaraldehyde efficiently
+crosslinks collagen, the most abundant structural protein
+of valves. In contrast, the monoaldehyde formaldehyde
+induces less stable methylene-based protein
+crosslinks. Consequently, formaldehyde-pretreated
+bioprostheses used in the early days of tissue valve
+replacement frequently developed premature material
+failure.35,36 The antibacterial and antifungal efficacy of
+low concentrations of glutaraldehyde is poor (especially
+against spores, as exemplified by a cohort of
+tissue valves over a decade ago which were contaminated
+with Myobacterium chelonei).37 Therefore, adjunctive
+sterilization procedures are necessary (e.g., alcoholic
+glutaraldehyde solutions).
+Mechanical considerations
+The functional/mechanical characteristics of porcine
+aortic valve and other tissues used in bioprostheses
+are modified by glutaraldehyde crosslinking procedures,
+and the stent constrains cuspal dynamics.
+Fixation prevents the dynamic microstructural rearrangements
+that accommodate normal valve function,
+and glutaraldehyde-fixed aortic valve cusps are less
+compliant than fresh tissue.23,24,38–40 However, the
+specific changes are dependent on the fixation techniques
+employed, particularly related to the transvalvular
+pressure gradient present during crosslinking.
+23,24,38–43 When the aortic valve is preloaded by a
+back pressure during crosslinking (the normal diastolic
+pressure of 80 mm Hg was used in first-generation
+porcine valves), the collagen crimp and corrugations
+are preloaded, elongated, and locked into a geometric
+configuration similar to that of a closed valve (see Fig.
+6F,G). Functional stresses must be absorbed by the
+noncompliant collagen fibers.23,24,38,44 Moreover, the
+inability to accommodate the natural tendency for the
+fibrosa to undergo compression during opening may
+induce buckling in a fixed valve. Thus, porcine valve
+cusps fixed under load and bovine pericardial cusps
+are relatively stiff and inflexible; they do not open
+smoothly, but rather bend in a series of kinks. Subsequent
+cycles induce substantial and repetitive localized
+mechanical stresses, thereby accentuating tissue
+fatigue (see later).44–46
+Some bioprostheses are prepared using a lowpressure
+fixation technique in which there is a reduced
+gradient across the valve during fixation. However,
+fixation pressure as low as 2–4 mm Hg is sufficient to
+straighten corrugations and crimp and reduce radial
+and circumferential compliance.24,38,40–43 Some data
+suggest that the mechanical properties of cusps are
+improved when fixation occurs without any back
+pressure at all (i.e., “zero pressure” differential fixation),
+thereby retaining full corrugation and crimp geometry.
+However, although the compliance of cusps
+fixed at zero pressure as measured in vitro is improved,
+47,48 a resultant effect on valve durability in
+vivo has not yet been demonstrated. Glutaraldehyde
+pretreatment done while the valve undergoes cycles of
+opening and closing (“dynamic” fixation) also yields
+superior in vitro mechanical properties,49 but such
+valves have not been studied in vivo.
+Structural considerations
+Detailed descriptions of the microscopic architecture
+and the tissue histology of porcine aortic valve
+and bovine pericardial bioprostheses are available.
+13,21,50–52
+Owing to autolysis, chemical treatment, and physical
+changes incurred during fabrication, bioprosthetic
+valves show several histologic differences from
+healthy native tissue comprising valve or pericardium.
+These include (at the light-microscopic level),
+flattening of the cuspal corrugations, and loss of
+surface endothelium or mesothelium (aortic valve or
+pericardial bioprostheses, respectively), autolytic
+disruption of porcine or bovine interstitial cells,
+collagen bundle loosening, and possibly loss of
+GAGs.21,23,41–43,51 Moreover, and very importantly, the
+valvular interstitial cells lose their viability during glutaraldehyde
+pretreatment. The quality of their structural
+preservation is especially poor, as revealed by
+transmission electron microscopy, reflecting an interval
+between harvest and glutaraldehyde pretreatment
+of typically at least 24–36 h.21,42
+Following implantation, pathologic changes occur
+in all types of bioprostheses to a variable degree. The
+cuspal surfaces become variably covered by fibrin,
+platelets, monocytes/macrophages, and occasionally
+multinucleated giant cells.21,51–53 Proteins with other
+constituents of plasma and often erythrocytes penetrate
+into the cusps (fluid insudation and cuspal hematoma,
+respectively). As we will discuss later, both
+the imbibed fluid mass and products secreted by the
+inflammatory cells may damage the collagenous valve
+skeleton. Moreover, especially large accumulations of
+blood can stiffen the cusps and possibly provide
+nucleation sites for mineralization.54
+Valve function in vivo also gradually results in generalized
+architectural homogenization with connective
+tissue disruption, loss of staining of interstitial cell nuclei,
+and lipid accumulation.21,51,52,55 These changes
+are accentuated near cuspal tears and other defects.
+Although mineralization, collagen degeneration, and
+possibly GAG depletion contribute to valve failure
+(see later), to what extent the other nonspecific pathologic
+processes mentioned above contribute to late
+failure modes is uncertain.
+The valve sewing cuff and basal regions of the cusps
+become variably covered by a fibrous sheath of host
+origin (pannus), which, when excessive, can lead to
+orifice obstruction or cusp immobilization. Reendothelialization
+of bioprosthetic valves is highly variable
+and remains incomplete and limited to the basal attachments,
+even years after implantation.56 The prolonged
+cytotoxicity of glutaraldehyde-fixed tissue has
+been suggested as a factor inhibiting coverage by endothelium.
+57 Neutralization of reactive glutaraldehyde
+in bioprosthetic tissues by treatment with Lglutamic
+acid or other amino compounds reduces calcification
+and cytotoxicity and enhances in vitro
+endothelialization.58–60 Although it is reasonable to
+hypothesize that endothelialization of a bioprosthetic
+valve might decrease its propensity toward thrombosis,
+infection, fluid or blood insudation, or calcific or
+noncalcific degeneration, we are unaware of evidence
+that pre- or postimplantation endothelialization benefits
+performance.
+Comparison of porcine aortic and bovine
+pericardial valves
+Pericardial bioprosthetic valves have cusps composed
+of glutaraldehyde-treated parietal pericardium
+(usually of bovine origin) attached to a frame. Without
+inherent anatomic constraints, innovative designs are
+feasible, and both unicuspid and bicuspid pericardial
+valves have been investigated.61,62
+The structure and composition of bovine pericardium
+and porcine aortic valve cusp are different.51
+Pericardial tissue collagen is not as compact as that of
+porcine valve fibrosa. Bovine pericardial collagen is
+almost entirely type I,63 whereas porcine valve contains
+a mixture of type I and type III collagens.64 Parietal
+pericardium has (a) a smooth serosal layer, originally
+covered by mesothelial cells; (b) fibrosa (almost
+the entire thickness), which contains collagen, elastic
+fibers, nerves, blood vessels, and lymphatics; and (c)
+rough epipericardial connective tissue, having loosely
+arranged collagen and elastic fibers.65,66 Thus, one surface
+of valve pericardium is smooth (that which previously
+faced the pericardial space). The other is the
+rough external surface from which blood and fat were
+dissected away. Pericardial valves are typically fabricated
+with the rough side toward the inflow, to keep
+this surface well washed and thereby minimize the
+possibility of thrombosis.
+With collagen fibrils variably oriented in the tissue
+plane, pericardium has a structure which is not naturally
+adapted to valve function.51 In contrast to the
+complex, highly oriented connective tissue array of an
+aortic valve which facilitates stress transfer from the
+cusps to the aortic wall, the pericardium concentrates
+cuspal stresses at the commissures of a pericardial bioprosthetic
+valve.
+Thus, bovine pericardial bioprostheses differ from
+porcine bioprostheses in several important respects.51
+First, as indicated above, pericardial tissue and aortic
+valve cusps differ in both architecture and properties.
+Moreover, in contrast to porcine aortic valve cusps
+whose natural attachments to the supporting aortic
+wall are preserved, pericardial bioprosthetic valve
+cusps are composed of pieces of tissue that are artificially
+trimmed and attached to a stent. Finally, the
+collagen bundles at the previously dissected and cut
+surfaces (i.e., inflow surface and free cuspal edge) generated
+during pericardial tissue procurement, dissection,
+and valve fabrication tend to splay during function,
+allowing host cells and fluid to readily enter the
+tissue.
+CAUSES AND MECHANISMS OF TISSUE
+VALVE FAILURE
+The major disadvantage of tissue valves is progressive
+structural valve deterioration eventuating in stenosis
+or regurgitation.2–7,13,51 Usually necessitating reoperation,
+valve failure can ultimately become fatal if
+not expeditiously managed. The challenges are well
+illustrated by detailed examination of the calcific and
+noncalcific failure modes and mechanisms of porcine
+aortic and bovine pericardial valves.
+Porcine aortic valves
+The degradation mechanisms of bioprosthetic
+valves are progressive and the rate of failure is highly
+time dependent.4,5,11–13,51,52,55,67–69 Less than 1% of
+porcine aortic valve bioprostheses implanted #5 years
+in adults suffer structural dysfunction. However, 20–
+30% become dysfunctional within 10 years and more
+than 50% fail owing to degeneration within 12–15
+years postoperatively.11–13,51,67–69 The risk of structural
+failure is strongly age dependent, with individuals
+<35 years of age and especially children and adolescents
+having the highest rate.67–69 Nearly uniform
+failure occurs by 5 years in those <35 years old but
+only 10% fail in 10 years in those >65. Thus, bioprosthetic
+valves are attractive in the elderly, who have an
+especially high risk of anticoagulant-related hemorrhage.
+70 The failure rate is identical for Hancock and
+Carpentier-Edwards porcine valves.71 Interestingly,
+porcine valves in the mitral position do not fare as
+well as aortic replacement valves, a discrepancy usually
+considered a result of the higher closing pressure
+in the mitral position.67–69
+Calcification makes a major contribution to failure4,5,13,51,52,55,72–
+74 (Fig. 3). The extent of calcification
+of surgically removed failed bioprosthetic valves varies
+widely among patients after long-term implantation;
+for 32 excised porcine bioprostheses functioning
+for 36 to 156 months (mean 87), we measured mean
+113 mg/mg calcium, maximal approximately 200–
+250.72 Inexplicably, some (but an unknown fraction of)
+bioprostheses accumulate minimal or no calcific deposits
+after implantation for 10 years or longer.
+Approximately three fourths of porcine valve degenerative
+failures manifest as regurgitation through
+tears in calcified cusps; pure stenosis due to calcific
+cuspal stiffening and cuspal tears or perforations unrelated
+to calcification occur less frequently (approximately
+10–15% each).13,51,73,74 Rarely, calcific deposits
+in bioprosthetic valves fragment and embolize. Valvular
+insufficiency in porcine valves may also be caused
+by commissural region dehiscence,76 in which the aortic
+wall and associated commissure separate from the
+strut and collapse toward the center of the valve orifice.
+Bovine pericardial valves
+Pericardial bioprostheses also fail by calcific and
+noncalcific deterioration.4,5,13,51,77–82 Design considerations
+ations appear to be critical in noncalcific failure. With
+first-generation bovine pericardial bioprostheses,
+which had tissue mounted on the outside of the stent
+(Ionescu-Shiley, Mitroflow, and Hancock), failure was
+most frequently caused by noncalcific cuspal perforations
+and tears. The tears in pericardial valves most
+frequently occur along the attachment points of cusps
+and are frequently related to specific features of valve
+design, especially the mechanism of retaining pieces
+of tissue closely apposed at a commissure.77–82 The continuous
+trauma of tissue against bare Dacron cloth on
+the supports or frame can cause abrasion, manifested
+as focal roughening or regional tapering of the tissue
+cross section with attrition of collagen bundles.79,82 In
+the original Ionescu-Shiley design, cuspal perforations
+and tears were frequently associated with a commissural
+suture (“alignment stitch”), which held cusps in
+apposition near their free edge and adjacent to the
+stent post.77,78,82
+Contemporary pericardial valve designs have the
+tissue suspended from the inside of a flexible, lowprofile
+stent. These valves (e.g., Carpentier-Edwards
+Perimountt, Baxter Healthcare Corporation, Edwards
+Cardiovascular Division, Santa Ana, CA) appear to
+have performance and durability superior to those of
+previous pericardial valves,83–85 but their ultimate
+mode of failure is similar to that of earlier pericardial
+valves (Jack Butany, personal communication). A
+similar design but using tissue processed by a novel
+preservation technique (Carbomedics PhotoFixt, Sulzer
+Carbomedics, Austin, TX) suffered a high rate of
+abrasion-related failure, apparently resulting from different
+mechanical properties (i.e., higher compliance)
+of the tissue.86
+Figure 3. Clinical bioprosthetic valve failure. (A) Calcium concentration of several cohorts of removed porcine valves,
+measured by atomic absorption spectroscopy, plotted against duration of function. Short-term, n = 5; nondeteriorated, n = 14;
+calcific degeneration, n = 31; accompanying failed valve, n = 2. Primary tissue failure of bioprostheses. (B) Gross photograph
+of explanted porcine bioprosthetic valve which failed by calcification and cuspal tearing. (C) Radiograph of valve specimen
+illustrated in (B). (A) Reproduced by permission from Schoen FJ, et al. Circulation 1987;76:1061–1066. (B,C) Reproduced by
+permission from Schoen FJ, Hobson CE. Hum Pathol 1985;16:549–559.
+Pathology and pathobiology of tissue heart valve
+deterioration: Calcification and matrix deterioration
+The major cause of bioprosthetic valve dysfunction is
+deterioration of the cuspal tissue.
+Two distinct yet potentially synergistic processes are
+causal: (a) calcification and (b) noncalcific degradation
+with ultimate failure of the connective tissue matrix
+(Fig. 4). To a large extent, these processes are believed
+to be potentiated by the functional effects of the critical
+structural changes which occur on fabrication of a
+bioprosthesis from a porcine aortic valve (discussed in
+a previous section), and their in vivo consequences
+(Table V).
+Calcification
+Calcification typically begins deep within the
+substance of the cusps (intrinsic mineralization).
+13,51,73–75,88,89 Calcific deposits predominate at the
+commissural tissue adjacent to the stent posts and
+basal attachment margins (areas of leaflet flexion
+where deformations are maximal). Calcification can
+also occur in adherent thrombi or infective vegetations
+(extrinsic mineralization).13,51,73–75,88,89
+Implicit in our work over the years has been the
+hypothesis that calcification in experimental models
+and clinical bioprostheses share common pathophysiology
+independent of implant site, and that the pathology,
+pathophysiology, and prevention of bioprosthetic
+tissue calcification can be investigated using
+experimental models.51,63,74,75,89–92 Orthotopic mitral
+and conduit-mounted valves in calves and sheep
+and subcutaneous implantation in rodents are most
+widely used. Bioprosthetic tissue calcifies progressively
+and rapidly in immature animals, analogous to
+the accelerated rate of calcification in young patients
+discussed previously, with morphology similar to that
+observed in clinical specimens. Calcification of a degree
+similar to that encountered in clinical specimens
+is achieved in 3 weeks (approximately 80–120 mg/mg
+calcium) in tissue implanted subcutaneously in
+3-week-old weanling rats; maximal levels (200–250
+mg/mg calcium) occur in approximately 8 weeks.63,90,91
+Sheep mitral valve implants accumulate similar levels
+of mineral in 3–5 months.92 In these models, the morphology,
+kinetics, and chemistry of calcification in
+porcine valve and bovine pericardial tissue are identical.
+In vitro models of calcification have been reported;
+their use to elucidate mechanisms or test anticalcification
+strategies has been minimal.93–96
+Mineralization of bioprosthetic valves has host, implant,
+and mechanical determinants.4,5,74,75,90,91 It is
+widely accepted that mechanical stress stimulates calcification.
+Figure 4. Unified model for structural dysfuction of bioprosthetic heart valves, relating isolated tissue processes of mineralization
+(pathway 1) and noncalcific degradation (pathway 2) to gross clinical failures. Such failures have calcification with
+cuspal stiffening, cuspal defects without calcific deposits, or cuspal tears associated with mineralization. Calcification and
+noncalcific deterioration may occur independently of one another, or they may be synergistic. Implant and host factors
+interact to induce the collagen-oriented calcific deposits noted ultrastructurally. The deposits predominate at flexion points
+such as the commissures (pathway 1). Stress causes disruption of collagen fibers, which may eventuate in gross cuspal defects
+(pathway 2). Although dynamic mechanical activity is not a prerequisite for calcification, stress may enhance calcification
+through unknown mechanisms. Moreover, calcific deposits induce stress concentrations. Reproduced by permission from
+Schoen FJ, Levy RJ. Cardiol Clin 1984;2:717–739.
+TABLE V
+In Vivo Effects of Fabrication-Induced Changes in Bioprostheses Constructed from Porcine Aortic Valves
+Nevertheless, subcutaneous implants
+do calcify with a morphology and extent
+observed in clinical and experimental circulatory implants
+despite the absence of both dynamic mechanical
+activity and blood contact characteristic of the circulatory
+environment. This strongly suggests that
+mineralization requires only exposure of a susceptible
+substrate to extracellular fluid. Glutaraldehyde cross
+linking potentiates mineral deposition,98–100 suggesting
+that the fundamental mechanisms of tissue mineralization
+depend on specific biochemical modifications
+to implant microstructural components induced
+by aldehyde or other pretreatment. However, the acceleration
+of mineralization observed in younger patients
+emphasizes the effect of environmental factors.
+The progression, morphologic characteristics, and a
+schematic model of experimental bioprosthetic valve
+calcification are illustrated in Figure 5.63,75,91 Histologic
+and ultrastructural examination of explants from
+humans and both large and small experimental animals
+shows that early deposits are predominantly localized
+to transplanted connective tissue cells but also
+involve extracellular collagen fibers [Fig. 5(A–
+D)].51,63,74,75,88,90–92,101 With increasing duration of implantation,
+cell-associated deposits increase in size
+and number, obliterating cells and dissecting among
+the collagen bundles. Proliferation of nucleation sites
+and crystal growth result in progressive confluence of
+diffusely distributed microcrystals with macroscopic
+nodules, which focally obliterate implant architecture
+and ulcerate through the cuspal surface [Fig. 5(B)].
+The process of calcification has two major phases:
+nucleation (or initiation) and propagation of crystals.
+102 The critical event in the nucleation of intrinsic
+bioprosthetic tissue mineralization is most likely to be
+the reaction of calcium derived from plasma with organic
+phosphorus obtained from the crosslinked, nonviable
+residual cells.13,51,63,90,91 This is hypothesized to
+occur as follows13,51,63: Normal cells have an approximately
+ten-thousandfold gradient of calcium from
+outside to inside (10−3 vs. 10−7M); the low intracellular
+calcium concentrations are maintained by energydependent
+pumps at the cell membranes. In cells rendered
+nonviable by glutaraldehyde fixation (or injured
+by autolysis, ischemia, or trauma in tissue that is
+not chemically preserved), energy is unavailable,
+membranes are disrupted, and calcium extrusion from
+cells is impaired. This allows high concentrations of
+calcium in the fluid bathing the tissue to nucleate calcific
+crystals by reacting with phosphorus (as phospholipids
+in the cell membranes, nucleus, and other
+organelles such as mitochondria). Propagation of crystal
+formation depends on the available concentrations
+of Ca2+ and PO4
+3− and the balance of calcification inhibitors
+and accelerators.
+Calcification of collagen103 and elastin104 occur by
+independent yet poorly understood mechanisms.
+However, an important difference in the calcification
+of these two important ECM proteins is that mineralization
+within elastin fibers occurs whether or not the
+protein is crosslinked while that of collagen requires
+alteration such as aldehyde crosslinking.104 Calcification
+of the aortic wall portion of glutaraldehydepretreated
+porcine aortic valve has been noted in clinical
+and experimental explants (see later).105–108 Mineral
+deposition occurs throughout the vascular cross
+section but is accentuated in the dense bands at the
+inner and outer media; cells and elastin are the major
+sites.
+Like pathologic calcification in general, bioprosthetic
+tissue mineralization resembles physiological
+musculoskeletal mineralization.13,51,63,90,91,109 In both,
+crystal formation is largely associated with cell membranes.
+In bone, the membranous elements in which
+calcification begins are known as matrix vesicles; in
+pathological calcification, a similar role is played by
+membranes and their fragments derived from degenerate,
+aging, injured, or dead cells. In both physiological
+and pathological calcification, the deposits are
+crystalline calcium phosphate, chemically related to
+hydroxyapatite, and in both, extracellular matrix calcification
+also occurs.63,90,91,109,110
+Recent evidence suggests that both physiologic and
+pathologic (arterial) calcification are genetically controlled
+by inhibitory molecules,111–114 and that calcification
+occurs passively when inhibitors are absent. In
+normal bone calcification, the growth of apatite crystals
+is regulated by several noncollagenous matrix
+proteins, including: (a) osteopontin, an acidic calciumbinding
+phosphoprotein with high affinity to hydroxyapatite
+that is abundant in foci of cardiovascular
+calcification115,116, (b) osteonectin, also known as secreted
+protein acidic rich in cysteine (SPARC); and (c)
+osteocalcin, and other g-carboxyglutamic acid (GLA)–
+containing proteins, such as matrix GLA protein
+(MGP).117,118 Transgenic mice lacking MGP exhibit inappropriate
+calcification of cartilage and die as a result
+of arterial calcification and blood vessel rupture.113
+Osteopontin has been clearly shown to inhibit calcification
+of vascular smooth muscle cell cultures,114 and
+has been demonstrated in calcified bioprosthetic and
+native heart valves removed from patients,119,120 consistent
+with its regulatory role in vitro.
+Noncalcific valvular deterioration
+There is considerable evidence that degradation of
+the valvular structural matrix independent of calcification
+is a major mechanism of porcine and pericardial
+bioprosthetic valve structural degradation.51 It is hypothesized
+that clinical bioprosthetic valve failure
+manifested as tearing is due to localized cuspal damage
+at stressed regions, such as valvular commissures
+and points of maximal cuspal flexion where cuspal
+motions are unphysiologic (perhaps causing buckling).
+44,45 Noncalcific damage to the valvular structural
+matrix could accrue through a combination of
+factors which include abnormal valve motion, inhibition
+of the structural rearrangements which occur during
+normal valve function, loss of cell-mediated remodeling
+and replenishment of the valvular extracellular
+matrix, and damage both due to chemical and
+possibly molecular determinants (see below).
+Chemical pretreatment obviates the dynamic structural
+rearrangements that optimize natural valve function.
+23,24 This causes increased flexural stresses that
+can induce damage to cuspal collagen fibers, particularly
+in regions subjected to compressive
+stresses.121,122 The patterns of structural damage are
+consistent in vitro and in vivo123–125 (Fig. 6). In vitro
+accelerated testing yields a consistent pattern of collagen
+deterioration. The regions affected are located
+near the nodulus of Arantii and extending down toward
+the basal attachments, as noted by small-angle
+light scattering (SALS); these structural changes are
+accompanied by a dramatic loss of flexural stiffness
+(Ivan Vesely, personal communication).124,126 In human
+explanted bioprosthetic heart valves, regions of
+structural damage not corresponding to areas of calcification
+are also noted by SALS in a band extending
+from the nodulus through the belly to the aortic attachments,
+nearly identical to but more heterogeneous
+than that in in vitro fatigued bioprosthetic heart valves,
+with evidence of interlayer shearing in the damaged
+regions.125 The damage includes delamination, fracture,
+and frank loss of fibers. Other investigators have
+described an approximately 50% reduction in strength
+in bioprosthetic valves after 48 months in humans.127
+Molecular and biochemical changes in collagen may
+also contribute to progressive damage and the propensity
+to calcify. Increased levels of extracellular matrix
+degrading activity, including matrix metalloproteinases
+(MMPs), are noted in clinically explanted bioprostheses.
+124,129 Changes occur in the molecular
+conformation of collagen, which are currently under
+further investigation.128 Progressive and marked
+depletion of GAGs follows in vitro or in vivo valve
+function.124,130 Since GAGs are largely responsible for
+tissue viscoelasticity and accommodation of the dynamic
+relationship between fibrous cuspal layers, removal
+of GAGs may be important in mechanically
+mediated valve deterioration.
+Calcific and noncalcific damage could be synergistic.
+51 Collagen disruption could expose or produce
+new calcium nucleation sites, create internal spaces
+which facilitate calcific crystal growth, or promote
+fluid insudation. Conversely, mechanical damage
+could result from calcification-induced structural disruption
+or stress concentrations within the cusp.
+Clearly, maintenance of tissue structural integrity is
+critical to extending durability of tissue heart valves,
+through prevention of calcific and noncalcific mechanisms
+of deterioration. Moreover, GAGs may also
+play a role as physiologic inhibitors of calcification,
+but this is controversial.
+Figure 5. Experimental calcification of porcine bioprosthetic aortic heart valves and pericardium, as tissue implanted
+subcutaneously in 3-week-old rats. (A) Twenty-one-day subcutaneous implant demonstrating discrete deposits and early
+nodule formation (arrow). (B) Eighty-four-day subcutaneous implant demonstrating ulceration of calcific nodule through
+cuspal surface (arrow). (C) Ultrastructure of calcific deposits in cell (arrow). Bar = 1 mm. (D) Ultrastructure of collagen
+calcification. Bar = 1 mm. (A,B) von Kossa stain (calcium phosphate black). (A) Original magnification ×200; (B) approximately
+×100. Ultrathin sections stained with uranyl acetate and lead citrate. (E) Progression of calcification (as determined by calcium
+and phosphorus assay) in glutaraldehyde-pretreated porcine aortic valve and bovine pericardium implanted subcutaneously
+in rats. (F) Schematic model for calcification of clinical bioprosthetic heart valves based on clinical and experimental data.
+(A–D,F) Reproduced by permission from Schoen FJ, et al. Onset and progression of experimental bioprosthetic heart valve
+calcification. Lab Invest 1985;52:523–532. (E) Reproduced by permission from Schoen FJ, Levy RJ. Pathophysiology of bioprosthetic
+heart valve calcification. In: Bodnar E, Yacoub MH, editors. Biological and bioprosthetic valves. New York: Yorke;
+1986. p 418.
+Figure 6. Noncalcific valve deterioration associated with functional cuspal movements, in vitro and in vivo (A,B) Visualization
+of damage by small-angle light scattering (SALS). Damage is depicted as black and hatched regions, and is similar in
+explanted clinical valve and valve cycled in vitro. (A) Cusp from explanted clinical valve showing pronounced matrix
+structural damage in the belly region of the cusp. Calcification in this valve was mild and limited to commissures and basal
+attachments (in collaboration with Dr. Michael Sacks, University of Pittsburgh). (B) Cusp from valve which has undergone
+in vitro accelerated testing. (C) Transmission electron photomicrograph of cusp from in vitro fatigued valve showing area of
+disrupted collagen [compare with Fig. 2(D)]. Bar = 1 mm. (D–G) Light microscopic morphology of noncalcific degeneration
+in clinical explants. (D) Photomicrograph of hematoxylin and eosin-stained histologic section, demonstrating loss of architectural
+demarcations, loss of staining of the original valvular cellularity, as well as focal delaminations of the collagenous
+skeleton. (E) Photomicrograph of histologic section from clinical explant stained with Picrosirius red technique and examined
+under polarized light, demonstrating disruption of cuspal collagen and valve thickening due to insudation of plasma.
+Compare with (F), section of standard porcine aortic valve bioprosthesis (fixed at 80-mm Hg gradient across cusps) and (G),
+section of porcine aortic valve fixed at zero transmural pressure, both prepared and photographed similarly to (E). (D–G)
+Original magnification ×40.
+Immunologic/inflammatory processes
+No causal immunologic basis has been demonstrated
+for bioprosthetic valve failure. To what extent,
+if any, immunologic processes contribute to calcific or
+noncalcific tissue valve deterioration is uncertain and
+highly controversial. It is well appreciated that (a)
+crosslinking reduces but does not eliminate the antigenicity
+of bioprosthetic material, (b) experimental
+animals can be sensitized to both fresh and crosslinked
+bioprosthetic valve tissues,132,133 (c) antibodies
+to valve components can be detected in some patients
+following valve dysfunction,134 and (d) failed tissue
+valves occasionally have mononuclear inflammation.
+However, neither nonspecific inflammation nor specific
+immunologic responses appear to mediate experimental
+bioprosthetic tissue calcification, and neither
+mineral deposition nor resorption is associated with
+inflammation. The extent and morphology of mineralization
+are not altered by enclosure of valve cusps in
+filter chambers that prevent host cell contact with tissue
+but allow free diffusion of extracellular fluid,90 or
+implantation of valve tissue in congenitally athymic
+(“nude”) mice, who have essentially no T-cell function.
+135 Moreover, clinical data show that second bioprosthetic
+valve replacements fail no sooner than initial
+replacements,136 and clinical and experimental
+data detecting antibodies to valve tissue probably reflect
+a secondary response to valve damage and resultant
+exposure of new antigenic determinants due to
+failure, rather than its cause.
+Indeed, recent experimental evidence suggests that
+valvular endothelium may uniquely resist immunological
+reactivity. When pig hearts are transplanted
+into baboons, they undergo rapid rejection, of which
+severe endothelial cell-leukocyte adhesion in the vasculature
+and massive myocardial hemorrhage are
+characteristic features. However, in these same hearts,
+the aortic valve surfaces are remarkably free of inflammatory
+cells (Raymond Chan, David Adams, Richard
+Mitchell, unpublished research). These findings support
+our previous hypothesis that either the regional
+hemodynamics or the intrinsic endothelial cell properties
+(or both) prevent leukocyte adhesion to transplanted
+aortic and perhaps other cardiac valves.137
+This hypothesis is reinforced by data that show that
+endothelial cells from various vascular beds can respond
+to and have different responses to the immunologic,
+chemical, and hemodynamic signals.138,139
+RECENT TECHNOLOGICAL DEVELOPMENTS
+Anticalcification
+Since calcification has been the major identifiable
+pathologic process contributory to valve failure, efforts
+toward preventing this process have been active.
+Three strategies have been considered: (a) systemic
+therapy with anticalcification agents; (b) local therapy
+with implantable drug delivery devices; and (c) biomaterial
+modifications, whether by removal of a calcifiable
+component, addition of an exogenous agent,
+or chemical alteration.4,140
+Calcification of bioprosthetic tissue implanted subcutaneously
+in rats can be prevented by adequate
+doses of systemic agents used to treat clinical metabolic
+bone disease [e.g., diphosphonates such as
+ethane hydroxybisphonate (EHBP)].141 However, such
+drugs interfere with physiologic calcification (i.e.,
+bone growth), and animals receiving doses sufficient
+to prevent bioprosthetic tissue calcification have
+stunted growth. Thus, systemic therapy is not likely to
+be generally useful to prevent tissue valve calcification.
+Controlled-release drug delivery in the vicinity of
+the valve limits effective drug levels to the needed site
+while preventing systemic side effects.142 Studies incorporating
+EHBP in ethylene-vinyl acetate (EVA),
+other polymers, and reservoirs have shown the effectiveness
+of this strategy in animal models.143–145
+The approach most likely to rapidly yield improved
+clinical valves involves modification of the substrate,
+whether by removing or altering a calcifiable component
+or binding an inhibitor.4,140 Several agents studied
+have demonstrated efficacy, specific mechanisms,
+lack of adverse effects, and potential clinical utility
+(Table VI). Several are discussed below. Synergism
+may also be provided by multiple anticalcification
+agents and approaches used simultaneously. Proof of
+a role for inhibitors in vivo, such as osteopontin or
+GAGs discussed above, might represent a therapeutic
+opportunity, whereby appropriate substances could
+be added to the tissue valve environment.
+Diphosphonates
+Ethane hydroxybisphonate (discussed above) has
+been approved by the U.S. Food and Drug Administration
+(FDA) for human use to inhibit pathologic calcification
+and to treat hypercalcemia of malignancy.
+Compounds of this type probably inhibit calcification
+by poisoning the growth of calcific crystals. Tissue
+pretreatment with diphosphonate compounds, or systemic
+or local therapy of the host with diphosphonates
+inhibits experimental calcification.
+TABLE VI
+Mechanism-Based Anticalcification Agents:
+Established Prototypes
+Trivalent metal ions
+Pretreatment with iron and aluminum (e.g., FeCl3
+and AlCl3) inhibits calcification of glutaraldehydepretreated
+porcine cusps or pericardium implanted
+subdermally.146,147 These cations are hypothesized to
+act through complexing phosphate and preventing
+calcium phosphate formation and are also active when
+released from polymeric controlled-release implants.
+Interestingly, AlCl3-pretreated elastin resists calcification.
+104 The effect of aluminum chloride appears to be
+due to several factors. For example, AlCl3 also changes
+the structure of the elastin molecule, rendering purified
+elastin implants resistant to calcification. Aluminum
+binding to purified elastin restricts parts of the
+molecule from calcium phosphate crystal deposition,
+and causes an irreversible loss of helicity, with reduction
+in the extent of beta-sheet structure.
+Amino-oleic acid
+Two-alpha-amino-oleic acid (AOAt; Biomedical
+Design, Atlanta, GA) bonds covalently to bioprosthetic
+tissue through an amino linkage to residual aldehyde
+functions and inhibits calcium flux through
+bioprosthetic cusps.107,148 AOA is effective in mitigating
+cusp but not aortic wall calcification in rat subdermal
+and cardiovascular implants.107,148,149
+Surfactants
+The treatment of bioprosthetic tissue with sodium
+dodecyl sulfate (SDS) and other detergents extracts the
+majority of acidic phospholipids.4,150 This is associated
+with reduced mineralization, probably resulting
+from suppression of the initial cell membrane–
+oriented calcification.
+Ethanol
+Ethanol preincubation of glutaraldehyde-cross
+linked porcine aortic valve bioprostheses prevents calcification
+of valve cusps in both rat subdermal implants
+and sheep mitral valve replacements.151,152 Pretreatment
+with 80% ethanol (a) extracts almost all
+phospholipids and cholesterol from glutaraldehydecrosslinked
+cusps, (b) causes a permanent alteration in
+collagen conformation as assessed by attenuated total
+reflectance-Fourier transform infrared spectroscopy
+(ATR-FTIR), (c) affects cuspal interactions with water
+and lipids, and (d) enhances cuspal resistance to collagenase.
+151,152
+Decellularization
+Since the initial mineralization starts within the devitalized
+connective cells of bioprosthetic tissue, attempts
+have been made to extract these cells from the
+tissue, with the intent of making the bioprosthetic matrix
+less prone to calcification.153–155
+Tissue fixatives other than glutaraldehyde and
+modification of glutaraldehyde fixation
+Since previous studies have demonstrated that glutaraldehyde
+fixation is conducive to calcification of
+bioprosthetic tissue, several studies have investigated
+modifications of and alternatives to conventional glutaraldehyde
+pretreatment. For example, residual glutaraldehyde
+residues can be neutralized in bioprosthetic
+tissue by treatment with amino acids (e.g.,
+lysine); this inhibits calcification of subdermal implants.
+58,60,156 Crosslinking of bioprosthetic tissue with
+epoxides, carbodiimides, acylazides, and other compounds
+reduces their calcification in rat subdermal
+implant studies.140,157–160 Photooxidative preservation
+inhibits experimental calcification, possibly owing to
+the formation of unique calcification-resistant crosslinks.
+161
+Investigators of an anticalcification strategy must
+demonstrate not only effectiveness of a therapy, but
+also the absence of adverse effects.4,140,162 Adverse effects
+in this setting could include systemic or local
+toxicity, tendency toward thrombosis or infection, induction
+of immunological effects, or structural degradation,
+with either immediate loss of mechanical
+properties or premature deterioration and failure. The
+treatment should not impede normal valve performance,
+such as hemodynamics and durability. A rational
+approach for preventing bioprosthetic calcification
+must interface safety and efficacy considerations
+with the scientific basis for inhibition of calcium phosphate
+crystal formation, of necessity involving the
+steps summarized in Table VII.
+Stentless porcine aortic valve bioprostheses
+Nonstented (stentless) porcine aortic valve bioprostheses
+comprise glutaraldehyde-pretreated pig aortic
+root and valve cusps that have no supporting stent.
+Two such models were approved by the U.S. FDA in
+1997 for insertion into the aortic site [St. Jude Medical
+Toronto SPVt (St. Jude Medical, St. Paul, MN) and
+Medtronic Freestylet (Medtronic Heart Valves, Santa
+Ana, CA) bioprostheses].163,164 They differ slightly in
+overall configuration (particularly the amount of aortic
+wall included), details of glutaraldehyde pretreatment
+conditions and further fabrication, and whether
+anticalcification technology is used. Both have at least
+a partial Dacron cloth covering over the proximal edge
+of the prosthesis that contains the porcine right coronary
+cuspal muscle shelf and cusps fixed at zeropressure
+differential. The Freestylet valve is treated
+with AOA. Other variants of this concept are also in
+clinical trials.165 The principal advantage of a stentless
+porcine aortic valve is that it allows for the implantation
+of a larger bioprosthesis (than stented) in any
+given aortic root, which may enhance hemodynamics,
+ventricular remodeling, and patient survival.
+TABLE VII
+Requisite Steps in Development of Clinical
+Anticalcification Agent
+Identification of agents targeted to specific pathogenetic
+events of calcification
+Determination of mechanisms by pertinent in vitro and in
+vivo tests
+Documentation of lack of adverse effects on tissue
+morphology
+In vitro accelerated durability tests and hemodynamic studies
+Evaluation of efficacy and safety in large animal model
+studies in device configuration
+Appropriate clinical trials
+The potential and observed complications with nonstented
+bioprostheses are comparable to those of
+stented valves, including thromboembolism, endocarditis,
+and structural dysfunction. However, nonstented
+porcine aortic valves have greater portions of
+aortic wall exposed to blood than in currently used
+stented valves, and calcification of the aortic wall is
+potentially deleterious105–108 (Fig. 7). Indeed, allograft
+valved conduits frequently fail because of calcific stenosis,
+with prominent deposits in the wall.137,167 Calcification
+of the wall portion of a stentless valve could
+stiffen the root, altering hemodynamic efficiency,
+cause nodular calcific obstruction or wall rupture,
+or provide a nidus for emboli. Important in this respect
+is the observation that some anticalcification
+agents (see later), including AOA and ethanol, prevent
+experimental cuspal but not aortic wall calcification.
+107,140,148,149 Additional consequences of an increased
+amount of xenograft tissue in contact with the
+recipient’s tissue are possible, such as immunological
+reactivity and adherence, leading to difficulty in reoperation.
+Moreover, host tissue overgrowth (pannus)
+beyond the suture lines, closer to the valve cusps than
+with stented valves, could be more often a problem
+than with a stented valve. Stentless porcine mitral
+valves are also being investigated.
+Figure 7. Experimental calcification of stentless porcine
+valve aortic wall. (A) Gross photographs and (B) radiograph
+of removed nonstented porcine valve implanted as apicoaortic
+shunt in a sheep for 5 months. Calcification of aortic
+wall is prominent, predominating along the margins of the
+sinuses of Valsalva [arrow in (B)]. (C) Photomicrograph of
+removed nonstented porcine valve aortic wall. Calcification
+is diffuse, involving the entire cross section, most predominantly
+in the innermost and outermost 20% of the media.
+Stained with von Kossa’s reagent (calcium phosphates
+black). Original magnification approximately ×50. Reproduced
+by permission from Gott JP, et al. Ann Thorac Surg
+1977;64:50–58.
+Valvular allografts/homografts
+Human aortic valve allografts (also called homografts)
+are obtained from cadavers (although previously
+also from diseased hearts removed at transplantation),
+and cryopreserved (without chemical
+crosslinking) by freezing with protection from crystallization
+by dimethyl sulfoxide, followed by storage at
+−196°C in the vapor over liquid nitrogen. They are
+implanted directly into the aortic root without a stent
+as an isolated valve or root inclusion prosthesis, or as
+a full root replacement. Aortic or pulmonary valve
+allografts have exceptionally good hemodynamic profiles
+and a low incidence of thromboembolic complications
+without chronic anticoagulation.169–172 Such
+valves are especially efficacious for replacing those
+excised because of endocarditis.173 Cryopreservation
+permits long shelf-life with development of a banking
+system and potential commercialization. The quality
+of cryopreserved valvular tissue depends on details of
+freezing and thawing protocols, the interval from
+death to harvest, and additional warm and cold ischemic
+intervals.
+Contemporary cryopreserved allograft valves are
+free of degeneration and/or replacement for periods
+equal to or slightly better than those of conventional
+porcine bioprosthetic valves (approximately 50–90%
+valve survival at 10–15 years for allografts compared
+with 40–60% for bioprostheses).32,85 Nevertheless, progressive
+degeneration limits their long-term success.
+32,85,137,167 The mode of failure of these valves
+when inserted on the left side of the heart is most
+frequently incompetence caused by cusp rupture, distortion
+with retraction, or perforations. In contrast,
+right-sided valves in children who have right ventricle
+to pulmonary artery conduits usually stenose as a result
+of somatic growth of the recipient, with or without
+calcification of the cusps or distal vascular wall.
+The most critical and controversial issues in the pathology
+of valvular allografts relate to viability of the
+transplanted endothelial and interstitial cells, extracellular
+matrix integrity, and mechanisms of deterioration,
+including the role of immune responses. We recently
+studied cryopreserved human allograft heart
+valves explanted to 9 years postoperatively, and aortic
+valves removed from allograft heart transplants, in
+situ up to 4 years.137 There was progressive loss of
+normal structural complexity and cellularity of the
+cusps beginning early after implantation, including
+endothelium and deep connective tissue cells. Minimal
+inflammatory cells were found at all postoperative
+intervals. Long-term cryopreserved allografts (>1
+year) had flattened and thinned cusps with obliteration
+of the usual corrugations, indistinct layers, and no
+stainable interstitial or endothelial cells. Cuspal calcification
+was usually absent or only focal, despite extensive
+wall calcification in some explants, especially
+in stenosed right ventricular-pulmonary artery conduits
+from children. In our study, transmission electron
+microscopy of long-term allograft valves revealed
+no viable cells, focal calcification centered around
+dead cell remnants, and distorted but largely preserved
+collagen, strikingly similar to that of glutaraldehyde-
+pretreated porcine bioprosthetic heart valves.
+The lack of viable cells in cryopreserved human allograft
+valves, noted early following implantation, is
+primarily attributable to damage related to ischemia
+associated with harvest, cryopreservation, and surgery,
+and may occur through apoptosis, a distinct
+form of cell death.174 Nevertheless, some workers report
+long-term survival of certain cellular elements in
+both experimental systems and explanted allografts
+from human recipients.169,175 However, an occasional
+viable cell will neither be able to repopulate the entire
+valve nor materially contribute to matrix remodeling.
+Our study indicates that cryopreserved allografts
+are unable to grow, remodel, or exhibit active metabolic
+functions and their usual degeneration cannot be
+attributed to immunologic responses.137 Moreover,
+cryopreserved allograft valve durability must depend
+predominantly on the quality of the collagenous skeleton.
+Indeed, degeneration of the extracellular matrix
+likely accounts for the modest rate of progressive dysfunction
+in the aortic site in adults. In contrast, we
+found that aortic valves from transplanted hearts have
+remarkable structural preservation, including endothelium
+and abundant deep connective tissue cells;
+inflammatory infiltrates are generally mild and of no
+apparent deleterious consequence, including valves
+from patients who died of acute myocardial parenchymal
+rejection or graft coronary arteriosclerosis.137 Our
+results further support the hypothesis that (a) valves
+are uniquely resistant to immunological attack, and
+(b) the structural basis of valve performance is the
+quality of the original collagenous skeleton, since
+these valves are without viable cellular elements.
+Pulmonary autograft replacement of the aortic
+valve (Ross procedure) and other autograft tissues
+Since the original description by Ross in 1968, replacement
+of the aortic valve or root using the patient’s
+own pulmonary valve (pulmonary autograft)
+has become widely accepted.176,177 The objective is to
+provide a hemodynamically superior and potentially
+viable valve that might grow with somatic growth of
+children for whom there is no satisfactory alternative.
+The removed pulmonary valve is usually replaced by
+an allograft pulmonic valve.
+Consistent with favorable clinical results yielding
+few late specimens, descriptive pathologic findings on
+pulmonary valve autografts to the aortic root have not
+been reported in detail. We have encountered several
+cases that span the perioperative period to long term
+and have found that the valve cusps of the aortic autograft
+appear to retain normal architecture and the
+staining qualities of both cells and extracellular matrix
+to at least 6 years. In contrast, the aortic wall may
+suffer ischemic necrosis, inflammation, and scarring
+following the procedure, probably owing to the requisite
+transection of the vasa vasorum of the pulmonary
+artery during the procedure. Remodeling of the
+pulmonary arterial wall tissue most likely accounts for
+progressive luminal dilation following implantation of
+the pulmonary valve and wall into the systemic circulation
+that is frequently noted clinically.
+Another approach is a valve composed of autologous
+pericardium, excised, and fixed in glutaraldehyde
+for 5 to 15 min at the time of surgery, cut by
+means of a special die, and subsequently mounted on
+a stent.178 Short-term fixation stiffens the tissue and
+renders handling easier, but the effects on calcification
+and other biological and physical properties are unknown.
+Nonstented aortic and mitral prostheses fabricated
+freehand from lightly fixed autologous pericardium
+are also under investigation.
+FUTURE CONSIDERATIONS, INCLUDING
+TISSUE ENGINEERING
+We have described above the most active areas of
+basic research, industrial development, and clinical investigation
+in tissue valves. The “Holy Grail” is a nonobstructive,
+nonthrombogenic tissue valve substitute
+which will last the lifetime of the patient, provide ongoing
+remodeling and repair of cumulative injury, and
+potentially grow in maturing recipients. Particularly
+exciting in concept yet early in practice is the approach
+called tissue engineering, in which an anatomically
+appropriate construct containing cells seeded on a resorbable
+scaffold is fabricated in vitro in a bioreactor,
+then implanted.179,180 Specific biological signals (such
+as patterning genes, growth factors, and cytokines)
+may also be incorporated. Remodeling of the construct
+in vivo is intended to recapitulate normal functional
+architecture. The design criteria for such a valve are
+summarized in Table VIII.
+Initial attempts to fabricate such prototypes are encouraging.
+181–183 Representative work in this area
+from Dr. John Mayer, Dr. Simon Hoerstrup, Dr. Ralf
+Sodian, and Dr. Uli Stock, Children’s Hospital, Boston,
+is illustrated in Figure 8. They have implanted tissueengineered
+valve cusps and valve conduits in the pulmonary
+valve position in lambs, demonstrating the
+initial feasibility of the concept of a tissue-engineered
+heart valve. In work elsewhere, human vascular
+smooth-muscle cells (SMCs) cultured with ascorbic
+acid produced a cohesive cellular sheet which formed
+the media; a similar sheet of human fibroblasts was
+wrapped around the media to provide the adventitia
+and endothelial cells were seeded in the lumen.184 The
+result was a well-defined, three-layered organization
+with appropriate extracellular matrix proteins, including
+elastin; short-term experiments in a canine model
+demonstrated good handling characteristics. More recently,
+a tissue-engineering approach was developed
+to produce vascular graft material from smoothmuscle
+and endothelial cells that were derived from a
+biopsy of vascular tissue. Cultured vessels contained
+SMCs that showed contractile reponses to pharmacological
+agents and displayed markers of differentiation
+such as calponin and myosin heavy chains. Tissue-
+engineered arteries were implanted in miniature
+swine, with patency documented up to 24 days by
+digital angiography.
+TABLE VIII
+Desirable Characteristics of a Tissue-Engineered
+Heart Valve
+Endothelialized blood-contacting surface
+Cellular potential for extracellular matrix synthesis,
+remodeling, and repair
+Appropriate heterogeneity, anisotropy, and amount of
+extracellular matrix
+Stable geometry but potential growth with patient
+Absence of deleterious immunological and other
+inflammatory processes
+Resistance to calcification
+Resistance to tissue overgrowth
+Stable mechanical properties
+Large effective orifice area
+Prompt and complete closure
+Resistance to infection
+Chemically inertness and lack of hemolysis
+Easy and permanent insertion
+Tissue-engineering approaches to valve substitution
+(and the associated vascular conduits) are imaginative
+and hold great potential, but to date, the efforts have
+been largely empirical. We must appreciate that the
+mechanisms of valvular morphogenesis during embryological
+development are highly regulated and
+complex, and will be difficult to stimulate. Indeed,
+they are only beginning to be understood.186,187 Moreover,
+the vascular wall cells that make up large vessels
+are much better characterized than valvular cells.
+There is great need to learn more about the cell biology
+of valve endothelial and interstitial cells (and their
+interactions) to facilitate tissue engineering efforts in
+this area. Such efforts have been initiated in the laboratory
+of Dr. Joyce Bischoff ( Children’s Hospital, Boston)
+and Dr. Magdi Yacoub (Harefield Hospital, London).
+188 Preliminary results indicate that considerable
+phenotypic heterogeneity exits in valvular cells, both
+endothelial and interstitial, and their response to environmental
+stimuli. Indeed, “transdifferentiation” of
+endothelial cells to interstitial cells during embryonic
+valve development has been reported, and there is
+evidence to suggest that this phenomenon may occur
+postnatally.189 Moreover, there is ample evidence for
+phenotypic modulation of vascular SMCs (which
+many interstitial cells resemble) between contractile
+and “synthetic” during intimal thickening, a process
+which occurs broadly in vascular pathology.13 In this
+regard, the possible use of multipotential mesenchymal
+stem cells for seeding of valves is particularly
+exciting, and may obviate the issue of a preselected
+cell phenotype.190 An additional concern relates to the
+functional role of neural elements, which have recently
+been demonstrated in valves.191 It is unknown
+whether they will need to be replicated in a truly tissue-
+engineered valve. Thus, it should be readily appreciated
+that continued progress in this area must
+depend strongly on (a) the utilization of concepts of
+normal valvular and vascular development, structure
+and function, including cell sorting in development,
+extracellular matrix biology, and valvular cell biology
+and responses to injury; (b) the considerable understanding
+developed over the past several decades concerning
+failure modes and the structural basis for favorable
+substitute tissue valve performance; and (c)
+the basic mechanisms of physiological repair processes
+and the interactions of tissue valves with the
+host tissues. Many of the key pragmatic considerations
+related to the use of cells, scaffolds, and biological
+signals in a tissue engineered valve are summarized
+in Table IX.
+Figure 8. Progress toward a tissue-engineered heart valve. Work done by S. P. Hoerstrup, U. Stock, and D. Sodian in the
+laboratory of J. E. Mayer (Children’s Hospital, Boston, MA). (A) Cusp and adjacent conduit of whole unimplanted cuspconduit
+construct from mixed arterial wall cells, on a polyglycolic acid scaffold, cultured for 4 days static followed by 21 days
+in a bioreactor. Histologic sections. (B) Unimplanted. (C,D) Biodegradable polymer-based construct implanted 4 months in
+sheep pulmonary artery. (B) shows scaffold fibers and tissue with dense, regular cellularity and extracellular matrix production
+[glycosaminoglycans (GAGs) but not morphologically detectable collagen or elastin]. (C) Low-power photomicrograph
+of proximal cusp, showing oriented fibrous encapsulation of scaffold without thrombus. (D) Higher-power photomicrograph
+of wall showing fibrous encapsulation with resorption and tissue replacement of portions of the polymer scaffold.
+(B–D) Stained with Movat stain; original magnifications ×75.
+TABLE IX
+Critical Considerations for Tissue-Engineered
+Heart Valves
+Cells
+Tissue source, age, species
+Cell type, heterogeneity within cell type
+Phenotype (differentiated vs. stem cell, modulation,
+dysfunction)
+Preseed culture conditions
+Viability
+Method of preservation
+Mechanotransduction
+ECM synthesis and remodeling
+Scaffold
+Chemistry
+Configuration/porosity
+Heterogeneity (architecture, composition)
+Cell adherence
+Biocompatibility
+Source of bioactive molecules
+Degradation rate (in vitro, in vivo)
+Mechanical properties (strength, compliance)
+Ease of manufacture
+Biological signals
+Source
+Pure vs. tissue extract
+Single vs. multiple
+Organ specificity
+Function (effect on adhesion, migration, proliferation, and
+sorting)
+Drug delivery
+Genetic manipulation
+Construct
+Bioreactor medium
+Static vs. flow
+Growth factors, morphogenetic controls
+Degree of maturation at implantation
+Functionality
+Biocompatibility
+Sterilization, storage
+Quality control
+CONCLUSIONS
+Tissue heart valves are a useful component of the
+surgical armamentarium used to manage severe valvular
+heart disease. Nevertheless, durability limitations
+stemming from both calcific and noncalcific tissue
+deterioration significantly inhibit more widespread
+tissue valve success and thereby use. Of the
+considerable ongoing research and developmental efforts
+directed toward enhancing tissue valve durability,
+studies of the structure and biology of natural
+valves and their cellular and extracellular constituents
+must be central to these efforts.
+In particular, our discussion emphasizes that the essential
+structural basis for function of contemporary
+glutaraldehyde-pretreated bioprostheses and cryopreserved
+allograft heart valves is the quality of the collagenous
+matrix retained from the original transplanted
+valve. Moreover, in each type of valve substitute
+the observed pathology relates to key differences
+between the valve substitute and a natural valve: (a)
+the cells of the transplanted valve are no longer viable;
+(b) the collagenous valve skeleton is chemically and
+mechanically altered by valve preparation; (c) the residual
+matrix is not repopulated to any extent by recipient
+connective tissue or endothelial cells; and (d)
+the fragments of the nonviable donor cells represent
+the preferred loci for calcification.
+These areas of active research and development
+which are considered to be of the highest potential
+yield in tissue valve research in general are summarized
+in Table X. Despite the great potential of the
+tissue engineering strategy, it is important to consider
+that preservation of viable allogenic donor interstitial
+and endothelial cells might potentiate either the heretofore
+muted immunological processes or calcification.
+Indeed, this consideration is relevant to any tissue-engineered
+structure. Thus, the objective of an appropriately
+layered tissue-engineered valve composed
+of collagenous and noncollagenous elements containing
+the requisite endothelial and interstitial cells will
+be a significant advance if and only if those cells are
+capable of renewing the complex extracellular matrix
+elements progressively degraded during function and
+if no new complications are introduced. In particular,
+considerable research will be necessary on (a) the progressive
+evolution of structure; (b) gene expression,
+function, and the content of the viable cells; (c) the
+composition and organization of the collagen, elastin,
+and glycosaminoglycans in a tissue engineered valve,
+to validate and maximize the utility of this intellectually
+appealing and potentially useful approach; and
+(d) mechanotransduction, the effect of mechanically
+induced ECM deformation on cellular growth, gene
+expression, cell–cell interactions, and cell–ECM interaction.
+This is indeed an exciting area of biomaterials
+research.
+The authors are deeply indebted to the many students,
+fellows, senior colleagues, and laboratory personnel at their
+own and distant institutions who have contributed to the
+work described here. The manuscript was typed by Claudia
+Davis.
+DISCLOSURE
+In the course of consultations on developmental
+and/or clinical research over approximately the past 5
+years, the authors have received or may receive something
+of value from the following organizations that
+may be impacted by the work reviewed in this manuscript:
+Advanced Tissue Sciences; Allograft Heart
+Valve Tissue Bank Consortium; Autogenics, Inc.; Baxter,
+Inc.; BioMedical Design, Inc.; Bravo Cardiovascular,
+Inc.; CryoLife Cardiovascular, Inc.; Ethicon, Inc.;
+Medtronic, Inc.; Mitroflow Medical, Inc.; St. Jude
+Medical, Inc.; Sulzer Carbomedics, Inc.; and Tissue
+Engineering, Inc.

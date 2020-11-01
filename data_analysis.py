@@ -14,13 +14,13 @@ def get_tokens_from_sentence(s):
     final_list = []
 
     for token in tokens:
-        if "//" in token:
-            continue
+        # if "//" in token:
+        #     continue
 
-        if re.search("^[+\-\/.].*$", token):
-            token = token[1:]
+        # if re.search("^[+\-\/.].*$", token):
+        #     token = token[1:]
 
-        if not re.search('[a-zA-Z]', token):
+        if not re.search('[a-zA-Z0-9]', token):
             continue
 
         final_list.append(token)
@@ -37,19 +37,24 @@ def get_tokens(data_type):
         lines = text.split("\n")
 
         for line in lines:
+            line = re.sub(r"(?<=[,])(?=[^\s])", r" ", line)
+            line = re.sub(r"(?<=[.])(?=[A-Z0-9])", r" ", line)
             tokens = nltk.word_tokenize(line.strip())
 
             for token in tokens:
                 token = token.lower()
 
                 if "//" in token:
+                    token = "<URL>"
+
+                    # if re.search("^[+\-\/.].*$", token):
+                    #     token = token[1:]
+
+                if token in stopword_list or (not token[0].isalnum() and len(token) == 1) or token.isnumeric():
                     continue
 
-                if re.search("^[+\-\/.].*$", token):
-                    token = token[1:]
-
-                if token in stopword_list or not re.search('[a-zA-Z]', token) or re.search("[0-9]$", token):
-                    continue
+                if re.search('[a-zA-Z]+[0-9]+$', token):
+                    token = ''.join(t for t in token if not t.isdigit())
 
                 final_list.append(token)
 

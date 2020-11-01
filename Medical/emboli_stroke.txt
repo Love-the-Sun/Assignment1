@@ -1,0 +1,532 @@
+Standardized Fabrication Method of Human-Derived Emboli
+with Histologic and Mechanical Quantification for Stroke
+Research
+
+Yang Liu, PhD,* Adithya S. Reddy,† Joshua Cockrum,† Miranda C. Ajulufoh,‡
+Yihao Zheng, PhD,§ Albert J. Shih, PhD,* Aditya S. Pandey, MD,† and
+Luis E. Savastano, MD, PhD†
+
+Background: As access to patient emboli is limited, embolus analogs (EAs) have
+become critical to the research of large vessel occlusion (LVO) stroke and the development
+of thrombectomy technology. To date, techniques for fabricating standardized
+human blood-derived EAs are limited in the variety of compositions, and the
+mechanical properties relevant to thrombectomy are not quantified. Methods: EAs
+were made by mixing human banked red blood cells (RBCs), plasma, and platelet
+concentrate in 10 different volumetric percentage combinations to mimic the broad
+range of patient emboli causing LVO strokes. The samples underwent histologic
+analysis and tensile testing to mimic the pulling action of thrombectomy devices,
+and were compared to patient emboli. Results: EAs had histologic compositions of
+0-96% RBCs, 0.78%-92% fibrin, and 2.1%-22% platelets, which can be correlated
+with the ingredients using a regression model. At fracture, EAs elongated from 81%
+to 136%, and the ultimate tensile stress ranged from 16 to 949 kPa. These EAs’ histologic
+compositions and tensile properties showed great similarity to those of emboli
+retrieved from LVO stroke patients, indicating the validity of such EA fabrication
+methods. EAs with lower RBC and higher fibrin contents are more extensible and
+can withstand higher tensile stress. Conclusions: EAs fabricated and tested using the
+proposed new methods provide a platform for stroke research and pre-clinical
+development of thrombectomy devices.
+Key Words: Blood clot—RBC—Fibrin—Platelets—Tensile strain—Tensile stress 
+
+Introduction
+Rapid and immediate perfusion of ischemic brain tissue
+with mechanical thrombectomy devices has become the
+cornerstone treatment in large vessel occlusion (LVO)
+stroke.1 Although stent retrievers and suction catheters
+have proven their value in large clinical trials, they have
+several limitations, including low rates of first-pass recanalization2
+and low overall rates of complete recanalization.3
+The development of new technologies to more rapidly and
+completely recanalize LVO in stroke relies on accurate testing
+phantoms and embolus analogs (EAs). Unfortunately,
+techniques for the fabrication of standardized, humanderived
+EAs with characterized histologic and mechanical
+properties have not been described in the literature.
+To date, the compositional variety of human EAs has
+been limited by the use of only human whole blood4-6 or
+plasma,7 and no embolus analog was engineered to accurately
+mimic the mechanical behavior of the different
+emboli causing LVO strokes. In particular, there is a paucity
+of models to reproduce the tensile deformation and
+fracture patterns of emboli, which are critical phenomena
+driving the success or failure of mechanical 
+thrombectomy with aspiration catheters and/or stent
+retrievers.8,9 For example, an embolus can clog the aspiration
+catheter if the embolus is not fragmented by the vacuum
+inside the catheter. The stent retriever expands into
+and engages with the embolus for pulling. While undergoing
+pulling, the embolus is under tension and may
+break, leaving residual occlusions. Embolus fragments
+may also flow downstream and cause iatrogenic embolization
+and further strokes.10 In our knowledge, fabrication
+techniques to generate EAs with known and
+representative tensile strength that allow accurate analysis
+of the complex interaction at the artery/embolus/device
+interface have not been described to date.11-14
+In this study, the EAs are fabricated by mixing various
+volumetric percentages of human RBCs, fresh frozen
+plasma, and platelet concentrate obtained from the
+hospital blood bank before the expiration for human
+transfusion. Then we provide a histologic analysis of
+each EA formulation, with the percentage quantification
+of RBCs, fibrin and platelets. The mechanical tensile
+strength and stiffness of each EA formulation is
+then described. Finally, we correlate the histologic
+characteristics and mechanical strengths of these EAs
+to a cohort of emboli obtained during mechanical
+thrombectomy in patients suffering LVO strokes.8
+Given the limited access to emboli from patients suffering
+LVO strokes, EAs that can appropriately match the
+structure, stiffness, and strength of patient emboli are
+critical to understand the dynamics of LVO and to
+development of next-generation thrombectomy technology.
+It is our expectation that this paper, which introduces
+a well described and standardized method to
+generate highly realistic human EAs at a minimal cost,
+will be of value to scientists and physicians trying to
+better understand the mechanisms of LVO and recanalization
+in stroke.
+Materials and methods
+Embolus analog fabrication
+EAs were molded with different ratios of RBCs,
+plasma, and platelet concentrate (4.3 £ 1011 platelet
+counts per unit (300 mL)) acquired from University of
+Michigan Blood Bank. RBCs, plasma, and platelet concentrate
+were measured by volume and then mixed
+using a magnetic mixer for 2 min at 300 rpm. The
+human blood products were used due to its biological
+similarity to patient emboli, consistent preparing and
+storing standards across different institutions, and convenience
+to acquire. Human blood products have
+another advantage over the conventionally used animal
+blood which requires animal care and repeated
+blood draws with higher cost. Synthetic materials
+(such as silly putty or proprietary formulas) are
+prevents them from being used for potential fibrinolytic
+and anticoagulant drug studies or future devices
+that may interrogate the make-up of clots or have specific
+engagement techniques with the fibrin network.
+Calcium chloride solution (2.3 wt% concentration) was
+slowly added to the mixture at a 1:10 ratio to reverse
+the citrate phosphate dextrose and induce coagulation.
+15-17 The mixture was injected into a dogboneshaped
+mold, as shown in Fig 1a. Specimen dimensions
+with circular cross-section for a uniform stress
+distribution between the two bulged ends were
+adopted from the ASTM D638-10 Type IV geometry.18
+The mold was 3D-printed with a 25-mm layer height
+using a stereolithography printer (Form 2; Formlabs,
+Somerville, Massachusetts) with a proprietary resin
+material (GREY FLGPGR04, Formlabs). The resin surface
+was rough due to the printer resolution limit. A
+clear coating (ColorMaster Acrylic Spray Paint; Krylon
+Products Group, Cleveland, Ohio) was applied to
+the mold to smooth the surface. This clear coating also
+made it easier to remove formed EA specimens without
+causing damage before testing. The mixture was
+allowed to coagulate for 1.5 h before testing at room
+temperature.
+Fig. 1. Fabrication and characterization of embolus analog (EA) (a) Molding
+of a dogbone-shaped EA. (b) Volumetric percentages of the 10 types of
+EA: iR, red blood cells; iM, plasma; and iP, platelet concentrate. (c) Tensile
+test setup to quantify the EA strength. (d) A sample pulling force measurement
+for EA #7. (e and f) Microscopic images of EA #7 with H&E and
+CD61 stains, respectively.
+Ten types of EA specimens with varied volumetric percentages
+of RBCs (iR), plasma (iM), and platelet concentrate
+(iP) were fabricated, as shown in Fig.1b. Five EA specimens
+were made for each type of EA, resulted in a total of 50
+specimen for tensile testing and histologic analysis.
+Tensile test setup
+The tensile test pulled the EA specimen until it fractured
+to quantify the EA tensile properties: (1) stiffness,
+the resistance of EA to elongation under pulling, and (2)
+strength, the maximum force and maximum elongation
+EA can withstand before fracture. As shown in Fig. 1c, the
+EA specimen was gripped by two hemostats at the bulged
+ends. One hemostat was fixed to a linear stage (Model
+200cri; Siskiyou, Grants Pass, Oregon) and pulled at a
+slow and constant speed of 0.3 mm/s for the quasi-static
+tensile deformation. The other hemostat was fixed to a stationary
+force transducer (Gamma; ATI Industrial Automation,
+Apex, North Carolina). The tensile force on the
+hemostat was measured at a sampling rate of 50 Hz.
+Fig. 1d shows a sample tensile force vs. pulling distance
+for one EA #7 specimen. Pulling force increased as the linear
+stage moved to pull the EA specimen, and the force
+abruptly dropped to zero when the specimen fractured.
+EA specimens that fractured at the hemostats or slipped
+off the hemostats during testing were discarded and not
+reported. A video camera (model a6000, Sony, Tokyo,
+Japan) recorded digital images of the deformed EA specimen
+at 30 frames per second from the top. Two fiducials
+(Fig. 1c) were marked on the EA specimen to define the
+gage zone where the elongation and thinning of the EA
+were recorded during pulling. The positions of these two
+fiducials were measured to track the elongation of the EA
+specimen between the fiducials during the tensile test. An
+open-source image-processing application, Kinovea
+(v0.8.15), was used to find the distance L between the two
+fiducials to calculate the elongation, or engineering strain
+e = (L-L0)/L0, where L0 is the distance between the fiducials
+when the pulling force, F, increases from 0 to a small
+value (2 mN) at the start of the tensile test. This small
+value was selected as this transducer’s resolution is 1 mN
+and it has signal noise around 1 mN even when no force
+is applied. At fracture, the EA specimen has an ultimate
+strain (eut), the maximum elongation the EA can achieve
+under pulling.
+The tensile force on the EA specimen was normalized
+by the cross-sectional area of the specimen to calculate the
+stress (s), loading on the EA per unit area caused by force
+(such as pulling by an aspiration catheter, a stent retriever,
+or, as in this test, a hemostat). Assuming the cross-section
+of the EA specimen remains circular during pulling, the
+diameter of the specimen, d, was measured using an
+edge-detection algorithm implemented in Matlab
+(v2017b; MathWorks, Natick, Massachusetts), and
+s = 4F/(pd2). At fracture, the EA specimen has an
+ultimate stress (sut), the maximum force per unit area the
+EA can withstand. To evaluate the stiffness of the EA
+specimen, the stiffness E0-0.45 (N/m2) was calculated as:
+E0-0.45 = s0.45/0.45, where s0.45 is the tensile stress on the
+specimen at a strain of 0.45. Stiffness measures the extent
+to which the EA resists elongation in response to the
+tensile load (tensile stress). E0-0.45 measures the averaged
+stress increasing rate on the EA when it elongates
+to 45% more than the original length (e = 0.45). The
+strain of 0.45 was selected to compare with that in the
+literature.4
+Histology assessment
+After tensile testing, a sample of EA was cut for histologic
+analysis to find the percentages of RBCs, fibrin, and
+platelets in the following three steps. First, the EA sample
+was stained with H&E to show RBCs in pink12,14,15 and
+with CD61 to show platelets in dark brown.12 Second, a
+microscope (Axioskop 2 plus; Zeiss, Oberkochen, Germany)
+was used at 400x and 600x magnifications to scan
+the H&E and CD61 stained slides, respectively. The
+images were captured by a digital camera (AxioCam
+MRc5; Zeiss) at 2584 £ 1936 resolution. Figs.1e and 1f
+show the microscopic images for EA #7 with H&E and
+CD61 stain, respectively.
+Finally, the microscopic images were processed using
+ImageJ (v1.52; National Institutes of Health) to apply
+color masks to quantify the histologic percentages (area
+percentages) of RBCs (hR) and platelets (hP) under the
+guide of a senior pathologist. The balance (light pink) was
+assumed to be fibrin (hF) and has a histologic percentage
+hF = 1 - hR - hP.
+Statistical analysis
+A multi-variable linear regression model was built to
+estimate the volumetric percentages of RBCs, plasma, and
+platelet concentrate based on the histologic compositions
+of the EAs. This model can be used to fabricate EAs with
+desired compositions. The histologic results of all EAs
+(n = 50) were used to fit the model, and the goodness of fit
+was evaluated by calculating the coefficient of determination
+(R2).
+The Pearson correlation coefficient was calculated and
+used to evaluate how the EA compositions affected tensile
+properties (stiffness and ultimate strain and stress). This
+statistical analysis was carried out using SPSS v24.0 (IBM,
+Armonk, NY). Values of p < 0.05 were considered statistically
+significant.
+Results
+Tensile test and histology results
+Ten types of EA specimens with varied volumetric percentages
+(iR, iM, and iP) were successfully fabricated. 
+Fig. 2. Stress-strain curves (with the average of the curves represented by the dashed lines) and histology (H&E and CD61 stain) of embolus analogs (EAs) #1-
+10. For each EA type, the five stress-strain curves represent five tests on five samples with the same ingredients. Scale bar = 0.1 mm.
+Fig. 2 shows the tensile stress-strain curves for all 50 EA specimens
+and the histology results for each type of EA. For all
+EA specimens, stress increases with strain and increases
+faster as the strain becomes larger. This means the EA
+behaves stiffer as elongated. For every EA specimen, the
+fibrin network and platelet aggregates are mostly homogeneously
+distributed throughout the EA. In this study,
+EAs were composed of 0 to 96% RBCs, 0.78% to 92%
+plasma, and 2.1% to 22% platelets, levels similar to those
+found in stroke patients.
+Fig. 3. Tensile and histology results of the embolus analogs (EAs) compared with 6 patient emboli (P1-P6) from the literature.8 The EA results are averaged
+across 5 samples for each EA type. Lower graph is a magnification of the area within the dashed rectangular box in the upper graph. hR, red blood cells; hF, fibrin;
+hP, platelets; E0-0.45, stiffness; eut, ultimate tensile strain; sut, ultimate tensile stress.
+Fig. 3 shows the aggregate averaged stress-strain curves
+for all 10 types of EA compared with the dashed curves
+for six patient emboli previously reported by our group,8
+which were selected because they have more homogeneous
+structure indicated by a single fracture under tension,
+like the EAs in this study. The EAs have a large
+range of E0-0.45, from 11 to 114 kPa, and a large range of
+tensile strengths, 0.78-1.36 for eut and 16-949 kPa for sut
+(a variation of 59 times). This is related to the highly variable
+EA compositions. EA #9 has the highest hP and the
+largest eut. EA #10 has the highest hF and the largest E0-0.45
+and sut.
+The EAs mimic the tensile properties of patient emboli,
+with some variances. For example, patient embolus P4
+(black dashed line) has a stress-strain curve that is very
+similar to that of EA #6 (yellow solid line). P4 and EA #6
+also have very similar histologic compositions, as shown in
+Fig. 3. Compared to P4, the eut of EA #6 is about 6% higher,
+sut is 20% lower, and E0-0.45 is 50% higher (42 vs. 28 kPa).
+Statistical results
+The multi-variable models to estimate the volumetric
+percentages of RBCs, plasma and platelet concentrate in
+order to make EAs with desired histologic compositions
+were fitted using the histology results:
+iR ¼ 0:367hR - 0:056hF þ 0:124hP ð1Þ
+iM ¼ 0:358hR þ 0:833hF þ 0:040hP ð2Þ
+iP ¼ 0:276hR þ 0:223hF þ 0:836hP ð3Þ
+The model-estimated volumetric percentages have
+errors of 6.11%, 6.27%, and 6.62% and R2 values of 0.878,
+0.864, and 0.397 for RBCs, plasma, and platelet concentrate,
+respectively. The low R2 value for iP might be due to
+platelet aggregation in the formed EAs, resulting in an
+inaccurate histologic quantification. For all three equations,
+the fittings are very statistically significant, with
+p < 0.001. This model can be used to make EAs with
+desired compositions to mimic different patient emboli.
+Table 1. Correlation analysis results of the embolus analog composition and tensile properties (n = 50).
+Table 1 shows the correlation results between the tensile
+properties (E0-0.45, eut, and sut) and EA composition (hR,
+hF, and hP) based on the analysis of 50 EA specimens. The
+stiffness (E0-0.45) is strongly and negatively correlated
+with RBC histologic percentage (r = -0.609, p < 0.001),
+strongly and positively correlated with fibrin histologic
+percentage (r = 0.613, p < 0.001), and moderately and positively
+correlated with platelet histologic percentage
+(r = 0.349, p = 0.013). The ultimate tensile strain (eut) is
+moderately and negatively correlated with RBC histologic
+percentage (r = -0.536, p < 0.001) and moderately and
+positively correlated with fibrin histologic percentage
+(r = 0.555, p < 0.001). The ultimate tensile stress (sut) is
+strongly and negatively correlated with RBC histologic
+percentage (r = -0.696, p < 0.001), strongly and positively
+correlated with fibrin histologic percentage (r = 0.702,
+p < 0.001), and moderately and positively correlated with
+platelet histologic percentage (r = 0.395, p < 0.001).
+Discussion
+In this study, EAs were successfully fabricated by mixing
+various volumetric percentages of human RBCs, fresh
+frozen plasma, and platelet concentrate obtained from the
+hospital blood bank. Then, the histologic percentages of
+RBCs, fibrin and platelets were analyzed, and each EA
+formulation underwent mechanical tensile tests to measure
+stiffness, strain, and strength. The EAs were found to
+accurately represent a broad range of emboli retrieved in
+LVO stroke, both histologically and mechanically, and
+therefore provide an advanced platform for translational
+research in stroke and thrombectomy technologies.
+In this study, we elected to mechanically test the EAs
+employing a uniaxial tensile test as this is the driving force
+applied to the occluding embolus by current thrombectomy
+technologies. During LVO revascularization, the
+pulling force generated by the aspiration catheter or stent
+retriever on the embolus fights against the friction and
+adhesion between the embolus and the vessel wall and
+the blood flow. If the tension generated overcomes the
+impaction forces, and the embolus tolerates the load and
+remains cohesive, the embolus is removed by the device.8
+However, during tensile loading the embolus elongates,
+becomes thinner and may fracture, leading to residual
+occlusion or embolization.8 Specifically for the stent
+retriever, the additional compressive forces and 3D shear
+force between the tines and clot may also contribute to the
+emboli fragmentation. A detailed analysis of the embolidevice
+interaction is included in the Appendix. Other
+groups have characterized the mechanical properties of
+emboli with shear wave elastography, which measures
+the small motion response of an embolus under propagating
+shear waves induced by ultrasound and can be used
+in vivo.19-23 However, like other testing methods such as
+rheometer or compression test, shear wave elastography
+measures only the elastic modulus or viscoelasticity,
+which determines how the embolus will deform under
+force but not how it will fracture.
+To fill this gap, we performed tensile tests to pull the
+EAs until fracture and quantify both the stiffness and tensile
+strength (the maximum elongation and force load the
+embolus can withstand before fracturing). The fabrication
+technique here described appropriately represent a large
+range (88% or 14/16) of retrieved emboli causing LVO
+strokes in stiffness and tensile strength.8 We found that
+the tensile properties (stiffness and tensile strength) of
+EAs are correlated to the EAs’ compositions and mainly
+depend on the histologic percentage of fibrin content
+(with the highest r values). EAs with higher fibrin content
+are stiffer and have larger elongation and higher ultimate
+tensile stress. Such correlations can be explained by the
+mechanical properties of individual fibers within the EA’s
+fibrin network.
+EAs with higher fibrin histologic percentage are stiffer
+(with higher E0-0.45). The elastic modulus of fibrin fiber is
+about 14.5 MPa,24 much higher than that of EAs, so it is
+reasonable to attribute the stiffness of the EAs to the fibrin
+fibers. Also, EAs exhibit greater stiffness as strain
+increases, showing a strong strain-hardening property,
+and such a phenomenon was also reported in tensile testing
+of EAs in the literature.5,25 This can be explained by
+the strain-hardening property of individual fibrin fibers.26
+EAs with higher fibrin content can elongate more (with
+higher eut). Fibrin fibers are very stretchable and can elongate
+to about three times the original length.26 Combining
+this large elongation capacity with the high stiffness of
+fibrin fibers, EAs with higher fibrin histologic percentage
+therefore can withstand higher tensile stress (with higher
+sut) before fracture.
+In this study, sut ranged from 16 to 949 kPa, compared
+to only 6 kPa for EAs made from porcine whole blood5
+and 30 kPa for EAs made from bovine whole blood.25 The
+porcine- and bovine-derived EAs are significantly weaker
+than patient emboli (sut ranging from 63 to 2396 kPa8)
+and are likely fail to represent the stiff fibrotic emboli
+when used to test thrombectomy devices or to appropriately
+reproduce the hemodynamic conditions in an LVO.
+On one side, weaker analogs may not remain wedged in
+arterial bifurcations and withstand pulsatile physiological
+flow in cerebrovascular phantoms. Although this could
+be compensated by diminishing (or completely stopping)
+the flow, the occurrence of distal embolization would be
+underestimated. In addition, structurally weaker EA
+would be more likely to be “ingested” by suction catheters
+overestimating the rates of first-pass complete recanalization
+in the bench for a certaininner diameter and vacuum
+level, while in real clinical situation stronger clots would
+“cork” the catheters. On the other side, stents developed
+to incorporate these softer analogs could lack sufficient
+radial force to expand through emboli in LVO stroke leading
+to “clot rolling” and failed recanalization. Using the
+fabrication method described in this study, we made EAs
+that is strong enough to form stable LVO under physiological
+flow conditions and therefore provide a true estimation
+of the iatrogenic embolization. In addition, other
+studies using these EAs have shown to appropriately
+demonstrated the EA-device interaction and the device
+failure mechanism inside cerebrovascular phantoms.8,9
+Although the EAs presented here have stiffnesses and
+strengths similar to patient emboli and they constitute a
+significant step forward in LVO modelling, there are
+some differences to consider. First, whereas patient
+emboli can be quite inhomogeneous, these EAs (Fig. 2)
+were homogeneous in nature and did not contain some
+components related to thromboemboli that derive from
+ruptured atherosclerotic plaque, such as calcifications and
+necrotic core material. The pulling of an inhomogeneous
+patient embolus causes the weaker and less stiff parts of
+the embolus to peel off first and detach from the main
+embolus block, leaving the stronger and stiffer part
+behind to elongate. This embolus fragment can withstand
+larger elongation, as supported by the much
+larger eut (up to 4.89) associated with multi-focal fracture
+compared to that of single focal fracture.8 The heterogeneity
+and topographic pattern (distribution of
+stronger and weaker parts) of emboli could change the
+way how emboli fragment during emboli-device interaction.
+The fragment of emboli could lead to residue
+emboli and/or distal embolization, as demonstrated in
+the Fig. A1. Therefore, future studies should quantify
+the heterogeneity and topographic pattern of patient
+emboli to guide the fabrication of EAs. Second, the EAs
+in this study did not age before testing, whereas patient
+emboli causing strokes may be hours, days, weeks or
+even months old before the onset of embolization and
+symptoms, with the constant “feeding” of blood components
+from the blood flow and potential hemolysis.
+Embolus aging is a dynamic biochemical process with
+observed effect on EA elasticity. The mechanical load
+on the embolus due to the physiologically pulsatile flow
+within the human body can also change the fibrin network
+density. In this paper, to standardize and simplify
+fabrication techniques while maintaining representative
+histologic and mechanical properties, we proposed an
+EA fabrication method in a static condition with short
+and fixed coagulation time (1.5 h). Third, the EAs did
+not include white blood cells, which were removed in
+the banked human blood materials, and were manufactured
+using un-expired blood product, which may limit
+the availability of banked human blood. In this regard,
+although we have not conducted mechanical testing of
+emboli derived from expired human blood product, in
+bench top simulation with thrombectomy devices we
+have not observed major differences in the mechanical
+behavior of emboli produced with products with less
+than 10 days from expiration. Fourth, ex-vivo-induced
+coagulation by calcium chloride could differ from the
+dynamic in-vivo coagulation process and modification
+of fibrin network.27 Finally, the present manuscript did
+not examine the effects of coagulation time, calcium
+chloride concentration, and fibrin cross-linking on EA
+mechanical properties. The mechanisms determining
+EA microstructure response to different coagulation
+parameters and the structural differences compared to
+patient emboli are relevant topics for future studies.
+Possible correlations between the mechanical properties
+and/or histology of emboli and clinical data such as
+stroke characteristics, treatment strategy (e.g., thrombolytic
+medications), and patient outcome should also be
+explored.
+In conclusion, this study provides a method of fabricating
+EAs with varying compositions and tensile properties
+to represent a broad range of emboli extracted from stroke
+patients. The volumetric percentages of the ingredients can
+be estimated by a multi-linear regression model to fabricate
+EAs with desired histologic compositions to mimic patient
+emboli. The tensile properties (stiffness, ultimate tensile
+strain, and ultimate tensile stress) were characterized by
+uniaxial tensile testing and found to be significantly correlated
+to the embolus composition, and accurately represent
+emboli causing LVO stroke. The EAs generated and characterized
+in this study can serve as valuable tools in facilitating
+the construction of accurate test beds for stroke
+research and the preclinical development of next-generation
+mechanical thrombectomy devices.
+Declarations of Competing Interest
+LES is a founder of Endovascular Engineering Inc., Ann
+Arbor, Michigan. YL serves on the Scientific Advisory
+Board of this company. This company is indirectly related
+to this manuscript as it's developing medical devices for
+thrombectomy.
+Acknowledgments
+This study is supported by the U-M Coulter Translational
+Research Partnership Program and the NIH Centers for
+Accelerated Innovations of the NHLBI. We acknowledge the
+University of Michigan Blood Bank for the support of the
+blood materials used in this study.
+Grant support
+U-M Coulter Translational Research Partnership Program
+and the NIH Centers for Accelerated Innovations of the
+NHLBI
+Appendix
+Removal of emboli in LVO stroke is a process involving
+the force interactions between the emboli, thrombectomy
+device, vessel wall, and the blood flow. Both the aspiration
+catheter and stent retriever apply tensional force to
+dislodge and remove the emboli en bloc.
+For the case of aspiration catheter, the catheter engages
+the emboli with vacuum suction (Fig. A1(a)). The embolus
+is elongated and ideally progressively ingested by the suction
+catheter, or “corks” at the catheter tip clogging the
+catheter. At this point, the catheter is pulled to apply further
+tensional forces to dislodge the emboli from the vessel
+wall (Fig. A1(b)). If the tensional force is bigger than
+the static friction and adhesion and the emboli is strong
+enough to withstand the tensional force, the emboli is dislodged
+and starts to move with the catheter. During this
+process, the intravascular portion of emboli are elongated,
+became thinner and weaker, and could fracture, leaving
+residual emboli behind. The fractured emboli substance is
+pushed by the partially resorted blood flow to the same or
+other branch vessels and cause distal embolization.
+A similar mechanism is identified for the stent retriever.
+The stent retriever engages emboli with compression and
+shear between the emboli and tines (Fig. A1(c)) and then
+applies tensional force to dislodge the emboli (Fig. A1(d)).
+During the pulling process, the emboli are elongated,
+became thinner and weaker, and could fracture, causing
+distal embolization and residual emboli.
+Fig. A1. Force analysis of device-emboli interaction during thrombectomy with the aspiration catheter and stent retriever. (a) The aspiration catheter engages
+emboli with vacuum. (b) After engagement, the catheter is pulled to apply tensional force on the emboli to overcome the static friction and adhesion force between
+the emboli and vessel wall. During this process, the emboli is elongated and fractured (black arrow), leading to distal embolization under the hemodynamic stress
+and residual emboli. (c) The stent retriever engages emboli with compression and shear between the emboli and tines. (d) After engagement, the stent retriever is
+pulled to apply tensional force on the emboli to overcome the static friction and adhesion force between the emboli and vessel wall. During this process, the emboli
+is elongated and fractured (black arrows), leading to distal embolization under the hemodynamic stress and residual emboli.
