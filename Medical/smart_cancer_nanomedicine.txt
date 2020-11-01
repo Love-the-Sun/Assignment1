@@ -1,0 +1,744 @@
+Smart cancer nanomedicine
+Roy van der Meel 1,2,3,4,12, Einar Sulheim5,6,7,12, Yang Shi8,12, Fabian Kiessling 8, Willem J. M. Mulder1,2,9
+and Twan Lammers8,10,11*
+Nanomedicines are extensively employed in cancer therapy. We here propose four strategic directions to improve nanomedicine
+translation and exploitation. (1) Patient stratification has become common practice in oncology drug development. Accordingly,
+probes and protocols for patient stratification are urgently needed in cancer nanomedicine, to identify individuals suitable for
+inclusion in clinical trials. (2) Rational drug selection is crucial for clinical and commercial success. Opportunistic choices based
+on drug availability should be replaced by investments in modular (pro)drug and nanocarrier design. (3) Combination therapies
+are the mainstay of clinical cancer care. Nanomedicines synergize with pharmacological and physical co-treatments, and should
+be increasingly integrated in multimodal combination therapy regimens. (4) Immunotherapy is revolutionizing the treatment
+of cancer. Nanomedicines can modulate the behaviour of myeloid and lymphoid cells, thereby empowering anticancer immunity
+and immunotherapy efficacy. Alone and especially together, these four directions will fuel and foster the development
+of successful cancer nanomedicine therapies.
+
+Nanomedicine holds potential to improve anticancer therapy1.
+Traditionally, nanomedicines are used to modulate the biodistribution
+and the target site accumulation of systemically
+administered chemotherapeutic drugs, thereby improving
+the balance between their efficacy and toxicity. In preclinical settings,
+nanomedicines typically increase tumour growth inhibition
+and prolong survival as compared to non-formulated drugs, but in
+clinical practice, patients often only benefit from nanomedicines
+because of reduced or altered side effects2.
+Despite the recent approval of several nanomedicinal anticancer
+drugs, such as Onivyde (liposomal irinotecan) and Vyxeos (liposomal
+daunorubicin plus cytarabine), the success rate of clinical translation
+remains relatively low. In this context, the striking imbalance
+between the ever-increasing number of preclinical studies reporting
+the development of ever more complex nanomedicines on the one
+hand, and the relatively small number of nanomedicine products
+approved for clinical use on the other hand, has become the focus
+of intense debate3,4.
+Multiple biological, pharmaceutical and translational barriers
+contribute to this imbalance5. Biological barriers include tumour
+(and metastasis) perfusion, permeability and penetration, as well as
+delivery to and into target cells, endo/lysosomal escape, and appropriate
+intracellular processing and trafficking. Pharmaceutical barriers
+encompass both nanoformulation- and production-associated
+aspects. These range from a proper stability in the bloodstream, a
+beneficial biodistribution, an acceptable toxicity profile, and rational
+mechanisms for drug release, biodegradation and elimination,
+to issues related to intellectual property position, cost of goods, cost
+of manufacturing, upscaling and batch-to-batch reproducibility. In
+terms of clinical translation, the key challenge is to select the right
+drug and the right combination regimen, and to apply them in the
+right disease indication and the right patient population.
+To make sure that we start tackling the right translational challenges,
+we must define key strategic directions, to guide nanomedicine
+clinical trial design and ensure clear therapeutic benefits
+to patients. In this perspective, we conceptualize ‘smart’ cancer
+nanomedicine as an umbrella term for rational and realistic
+‘Strategies and Materials to Advance and Refine Treatments’. We
+propose four directions to boost nanomedicine performance and
+exploitation, that is, smart patient stratification, smart drug selection,
+smart combination therapies and smart immunomodulation
+(Fig. 1).
+Patient stratification
+Modern oncology drug development extensively employs biomarkers
+and companion diagnostics for patient stratification.
+Companion diagnostics help to address the high heterogeneity
+that is typical of cancer, and they have been instrumental in the
+successful clinical translation of molecularly targeted drugs, such
+as growth factor receptor-blocking antibodies and tyrosine kinase
+inhibitors. As an example, in the trials that led to the approval
+of Herceptin (trastuzumab)6, Perjeta (pertuzumab)7 and Kadcyla
+(ado-trastuzumab emtansine)8, patients with high human epidermal
+growth factor receptor 2 (HER2) expression levels were
+pre-selected via pathological stainings and/or fluorescence in situ
+hybridization, thereby ensuring enrichment of patients likely to
+respond and excluding expected non-responders. In immunooncology,
+the first ‘general biomarker’, which is not coupled to a
+particular organ/origin of cancer but instead to a specific genomic
+signature, has recently been established. This more broadly applicable
+biomarker is termed microsatellite instability-high (MSI-H)
+or mismatch repair deficient (dMMR), and it is used for patient
+stratification in case of treatment with immune checkpoint
+inhibiting antibodies9.
+Biomarkers in cancer nanomedicine. Remarkably, neither biomarkers
+nor companion diagnostics are currently used to tailor
+nanomedicine treatments in patients (Fig. 2). Notable exceptions in
+this regard are antibody–drug conjugates, which are often excluded
+from nanomedicine lists because they are more biotechnological
+than nanotechnological (but should be included according to the
+generally accepted definition). Four antibody–drug conjugates have
+recently received regulatory approval: Kadcyla (ado-trastuzumab
+emtansine, anti-HER2); Adcetris (brentuximab vedotin, anti-CD30);
+Besponsa (inotuzumab ozogamicin, anti-CD22) and Mylotarg
+(gemtuzumab ozogamicin, anti-CD33). In all of these cases, the
+intrinsic availability of biomarkers for patient stratification has
+played a key role in their successful clinical development.
+In the case of more traditional cancer nanomedicines, which
+are based on liposomes, polymeric nanoparticles and micelles,
+the lack of integrating biomarkers may explain recent failures in
+the clinic. Notable examples include BIND-014 (docetaxel-loaded
+prostate-specific membrane antigen (PSMA)-targeted polyethylene
+glycol-polylactic acid nanoparticles)10, CRLX101 (campthotecinloaded
+polyethylene glycol-cyclodextrin nanoparticles)11 and
+NK105 (paclitaxel-loaded polyethylene glycol-polyaspartate-based
+micelles)12, which all failed to produce convincing response rates in
+unstratified patient cohorts. Retrospectively, one can ask whether
+it was realistic to believe that these nanodrugs could achieve significant
+response rates in mixed (and heavily pre-treated) patients
+not stratified in any way. Relatedly, while the US Food and Drug
+Administration-approved nanomedicine formulations Doxil/
+Caelyx and Abraxane have generated substantial patient benefit in
+thousands of individuals by reducing toxicity and improving quality
+of life, their therapeutic potential might not yet be optimally
+exploited, as they are applied in non-stratified patient populations13.
+To improve the clinical impact of cancer nanomedicines, we should
+therefore start to establish biomarkers for patient stratification, and
+we should also integrate nanomedicines — ideally already from early
+clinical development stages onwards — in combination regimens.
+Nanomedicine accumulation in solid tumours is generally based
+on the enhanced permeability and retention (EPR) effect. This concept,
+however, has come under increasing criticism in recent years.
+Some nanomedicine investigators even claim that the EPR effect
+exists only in mice, not in humans. Regardless of whether ‘EPR’ is
+pathophysiologically the most correct term to describe the phenomena
+underlying nanocarrier localization in tumours, passive accumulation
+definitely occurs in patients but is highly heterogeneous,
+both inter- and intra-individually. To address this, strategies and
+materials are needed to monitor and predict nanomedicine accumulation
+and efficacy14. In the case of ligand-targeted nanomedicines,
+such as BIND-014, which relies on both EPR and active recognition
+of receptors overexpressed at pathological sites, patient stratification
+can in principle be achieved relatively easily, for example, via immunohistochemically
+assessing PSMA expression in tumour biopsies15.
+In addition, PSMA-targeted radiotracers, which are becoming
+increasingly established in the clinic, can be used to monitor receptor
+expression on tumour cells and/or angiogenic endothelium via
+positron emission tomography (PET) or single-photon emission
+computed tomography (SPECT), allowing for patient stratification
+also in metastatic patients16. Another approach is circulating tumour
+cell (CTC) analysis, which, when retrospectively applied in a BIND-
+014 phase II clinical trial, indicated that efficient treatment coincided
+with reduced PSMA-positive CTC10. This strategy warrants
+further investigation, as PSMA-positive (and other) CTC can potentially
+be employed both as a biomarker for patient stratification and
+as an indicator of therapeutic responses.
+In this context, it is important to keep the basic principles of active
+tumour targeting in mind. Active targeting relies to a significant
+extent on passive targeting, which requires prolonged circulation
+times. Introducing targeting ligands often promotes nanomedicine
+clearance from the blood stream, via opsonization and accelerated
+uptake by the mononuclear phagocytic system (MPS)17. Before they
+can bind to target cells, actively targeted nanomedicines furthermore
+have to extravasate out of the blood vessels in tumours and metastases,
+penetrate deep into the interstitium and cross multiple cell layers.
+The latter can suffer from the so called binding-site barrier18, which
+may hinder nanomedicine penetration19. Nanocarrier size plays a
+crucial role in determining the added value of active targeting. It has
+for instance been shown that small-sized (~7 nm) polymeric nanocarriers
+achieve much higher levels of tumour accumulation if they
+are actively targeted, because of improved retention20. Conversely,
+for larger (~14 nm) nanocarriers, no difference in tumour accumulation
+was observed between passive and active targeting. Active
+targeting did, however, change the intratumoural compartmentalization
+of the nanocarriers, increasing their uptake by cancer cells.
+In line with this, it was shown that 70–80 nm-sized HER2-targeted
+gold nanoparticles21 and 100 nm-sized HER2-targeted liposomes22
+accumulate to a higher extent in cancer cells than in macrophages,
+but do not achieve higher tumour concentrations. These scenarios
+underline the importance of critically reflecting on the added value
+of active targeting in cancer nanomedicine applications. In our
+view, actively targeted nanomedicines will be mainly beneficial for
+the treatment of haematological cancers (in which significant numbers
+of cancer cells are present in systemic circulation), in set-ups in
+which certain immune cells are targeted (in the blood stream and/or
+in MPS organs), and when the therapeutic payload needs to be delivered
+intracellularly (for example, in the case of RNA drugs employed
+to modulate gene expression).
+Imaging biomarkers. The use of liquid and tissue biopsy biomarkers
+is less straightforward in the case of passively targeted
+nanomedicines, as there are no surface receptors available for
+immunohistochemical staining or CTC assessment. Accordingly,
+these nanomedicines likely require imaging probes and protocols
+for patient stratification (Fig. 2). Several recent studies have
+established companion nanodiagnostics and nanotheranostics
+to address EPR effect heterogeneity and to predict nanotherapy
+outcomes23,24. For example, ferumoxytol (that is, FDA-approved
+30 nm iron oxide nanoparticles used to treat iron deficiency anaemia)
+can be used ‘off-label’ to characterize EPR heterogeneity via
+magnetic resonance imaging (MRI)25. Ferumoxytol-enhanced
+MRI correlated with therapeutic nanoparticle uptake in tumourassociated
+macrophages (TAM) and enabled prediction of tumour
+accumulation and anti-tumour efficacy25. In the clinic, ferumoxytolenhanced
+MRI in patients with mixed solid tumours demonstrated
+that higher ferumoxytol accumulation levels correlated
+with greater lesion size reductions following treatment with liposomal
+irinotecan (Onivyde)26. Although such MRI-based companion
+diagnostics are relatively cost effective, they require pre- and
+post-contrast MRI, which complicates the analysis, particularly
+in regions with variable soft tissue contrast. An alternative companion
+nanodiagnostic approach is positron emission tomography
+(PET) imaging with 89Zr-labelled nanoreporter liposomes, which
+accurately predicted Doxil accumulation and efficacy using a
+single PET scan27. Besides predicting tumour accumulation, imaging
+biomarkers can also be employed to assess responses to nanomedicine
+therapies. Tumour metabolism — as opposed to that in
+healthy cells — largely relies on aerobic glycolysis, a phenomenon
+known as the Warburg effect28. This phenomenon is clinically routinely
+visualized and quantified using 18F-fluoro-2-deoxyglucose
+(18F-FDG)-based PET imaging29. 18F-FDG PET imaging can be
+employed to assess early responses to nanomedicine therapies, for
+example, to nano-photothermal therapy30. A related and highly
+interesting future direction in this regard is imaging and targeting
+of amino acid metabolism in tumours. Particularly glutamine
+metabolism31,32, but also the availability and consumption of aspartate33
+and asparagine34 have recently been shown to be involved in
+tumour growth and/or metastasis. Nanomedicine formulations
+interfering with these pathways and imaging agents capturing these
+pathways are envisaged to hold significant potential for improving
+cancer therapy.
+Cancer nanomedicines can in principle be co-loaded with drugs
+and with imaging agents, to directly visualize and quantify target
+site accumulation. Such theranostic formulations provide the most
+specific information on biodistribution and tumour accumulation,
+thereby ruling out issues related to differences in physicochemical
+and pharmacokinetic properties between nanodiagnostics and nanotherapeutics.
+However, these formulations are more difficult to translate
+to the clinic and lack the flexibility and versatility of companion
+nanodiagnostics, which allow for example, for decision making prior
+to starting treatment. A pioneering clinical study involving nanotheranostics
+recently showed that PET combined with computed tomography
+(CT) can assess the tumour accumulation of 64Cu-labelled
+HER2-targeted liposomal doxorubicin in HER2-positive metastatic
+breast cancer patients. Higher target site accumulation levels corresponded
+with more favourable therapeutic outcomes35. Interestingly,
+molecules such as doxorubicin and alendronate can function as
+chelators, to enable easy and efficient in vivo monitoring of target
+site accumulation36. This smart and straightforward approach to
+obtain radiolabelled liposomal drugs opens up new theranostic
+opportunities for patient stratification in cancer nanomedicine.
+It has to be kept in mind, however, that nanomedicine accumulation
+in tumours must be followed by payload release to achieve
+therapeutic benefits, since for most nanomedicines, the formulated
+drugs have to be liberated to become pharmacologically active.
+Drugs can be spontaneously released from nanocarriers in tumours,
+for example free doxorubicin is released from Doxil37, and this can
+also be mediated by TAM38. Monitoring drug release in vivo is
+possible using contrast-enhanced MRI and optical imaging. Both
+methods, however, have limited translational relevance, because
+of the potential toxicity associated with co-loading high amounts
+of gadolinium in nanomedicines, and because of the limited
+penetration depth of optical imaging, respectively. Consequently,
+studies in two-dimensional (2D) cell culture, in 3D spheroids and
+in preclinical mouse models should encompass mechanistic analyses
+on drug release and target cell uptake upon nanomedicinemediated
+delivery.
+As an alternative to companion nanodiagnostics and nanotheranostics,
+clinically established (but intuitively significantly
+less specific) ‘standard’ imaging protocols could be considered to
+predict the accumulation and efficacy of passively targeted cancer
+nanomedicines, such as dynamic contrast-enhanced MRI39, CT40
+and ultrasound41. Furthermore, future analyses should set out to
+evaluate if histopathological assessment of tumour biopsies can
+help to stratify responders from non-responders. Tumour biopsies
+are readily available for the vast majority of patients, and scoring,
+for example, vessel and macrophage density and distribution is
+hypothesized to be reasonably useful for predicting nanomedicine
+accumulation and efficacy.
+Drug selection
+Rational drug selection is crucial for making cancer nanomedicines
+clinically and commercially successful. Preclinically, most nanomedicine
+publications deal with re-formulating established chemotherapeutic
+drugs, and all clinically approved cancer nanomedicines
+(antibody–drug conjugates excluded) are based on standard cytostatics,
+such as doxorubicin, daunorubicin, paclitaxel, vincristine
+and irinotecan42. For all of these agents, nanomedicine re-formulation
+improves the therapeutic index, but typically mostly by
+attenuating side effects, not by inducing significantly improved therapeutic
+responses. In this context, specific nanomedicine-related
+side effects, such as complement-mediated infusion reactions43,
+have to be kept in mind, and a better mechanistic understanding
+of these effects, and the identification of efficient ways of dealing
+with them, is crucial for maximizing nanomedicines’ impact on the
+therapeutic index5. In addition, future efforts in cancer nanomedicine
+drug development should focus more on the use of nanocarrier
+materials for the delivery of non-standard drugs such as biologics,
+and they should increasingly encompass smart strategies such
+as drug derivatization, modular nanocarrier design and library
+screening (Fig. 3).
+Drug classes. Standard chemotherapeutic drugs, such as doxorubicin
+and paclitaxel, do come with side effects, but are overall
+reasonably well tolerated by patients; otherwise they would not
+have become drug products. Newer, more potent, agents, such as
+auristatins, are too toxic to be administered to patients in free form.
+To enable the in vivo use of auristatins, antibody–drug conjugates
+have been developed, such as brentuximab vedotin (Adcetris), which
+is approved to treat CD30+ haematological cancers. Antibody–drug
+conjugates, however, typically have very low payloads. To explore
+formulations with higher auristatin payloads, polymeric nanoparticles
+containing thousands of drug molecules were developed.
+These nanoparticles achieved efficient tumour growth inhibition
+and prolonged survival as compared to standard of care (cisplatin)
+in a patient-derived xenograft model of ovarian cancer, without
+significant systemic toxicity44. Similarly, a potent Aurora B kinase
+inhibitor — which in free form caused unacceptable side effects in
+a phase II clinical trial — increased efficacy and reduced toxicity in
+multiple preclinical models upon reformulation in PEG-PLA-based
+nanoparticles45.
+Nanocarrier technologies also play a prominent role in the development
+of DNA- and RNA-based drugs. Nucleic acid agents critically
+rely on protection against degradation in systemic circulation
+and they generally require intracellular delivery. The nanotechnology
+used in Onpattro (patisiran, liver-targeted siRNA-containing
+lipid nanoparticles for the treatment of transthyretin-related
+hereditary amyloidosis46) is facilitating the development of other
+genetic nanomedicines, such as RNA-based vaccines for treating
+infections and cancer47,48. These vaccines contain RNA encoding
+for therapeutic proteins and upon delivery to hepatocytes, the
+liver is utilized as a bio-factory for protein production49. Similarly,
+nanoparticles carrying RNA encoding for tumour antigens can be
+delivered to antigen-presenting cells in the liver and spleen to elicit
+T cell-mediated anti-tumour effects50–52. Several such nucleic acidbased
+nanovaccines have recently entered clinical trials for cancer
+immunotherapy47,50,53.
+Proteins are another class of therapeutics that benefit from nanocarrier
+delivery, for instance by abrogating the systemic toxicity of
+immunostimulatory agents such as interleukin-2 (IL2) for immunooncology
+applications54. NKTR-214 (bempegaldesleukin), that is, a
+biologic prodrug comprising IL2 with 6 conjugated releasable PEG
+chains, significantly inhibited tumour growth in a melanoma mouse
+model compared to unmodified IL2 (aldesleukin) and it synergized
+with checkpoint inhibitor therapy55. NKTR-214 treatment was furthermore
+found to be well tolerated in non-human primates55 and
+in patients with advanced or metastatic solid tumours56.
+Modular design. Nanomedicine design has traditionally been formulation
+driven; for every new nanodrug, the carrier material and
+formulation process need to be adjusted to the payload’s physicochemical
+properties. While this approach is inherently inflexible, it
+can be applied to therapeutics with similar characteristics. For example,
+pH gradient-based remote loading has been widely employed
+to entrap amphiphilic and ionizable drugs, such as doxorubicin,
+in liposomes57. As an alternative, drug molecules can be (re-)engineered
+to improve their compatibility with nanocarriers. For example,
+rational chemical derivatization of doxorubicin modified the
+drug’s hydrophobicity and miscibility with PLGA nanoparticles to
+improve drug–nanocarrier compatibility and therapeutic efficacy58.
+Analogously, a hydrolysable ester linker conjugated to docetaxel
+enabled stable incorporation in core-crosslinked polymeric micelles
+while still allowing for controlled drug release. A single intravenous
+injection of polymeric micelles loaded with the docetaxel derivative
+induced complete tumour regression in a xenograft model of breast
+cancer59. This platform is currently being evaluated in a phase II
+trial for treatment of ovarian cancer60. Using a similar ester linker
+technology, fatty acids conjugated to cabazitaxel inducted prodrugs
+and PEG-lipids to self-assemble into nanoparticles. The resulting
+PEGylated cabazitaxel-prodrug had reduced systemic toxicity and
+superior therapeutic efficacy when compared to free cabazitaxel in
+mice bearing breast cancer xenografts61.
+Drug derivatization techniques are increasingly used to develop
+modular nanomedicine platforms. Synthesizing prodrugs that stably
+incorporate in nanocarriers reduces differences among drug
+molecules’ physicochemical properties, thereby improving the
+encapsulation predictability of drugs with diverse characteristics.
+In addition, modular prodrug nanomedicines can be employed to
+control localized drug release, which reduces systemic exposure
+and side effects. For example, a smart prodrug-based modular
+nanomedicine platform stably co-encapsulated doxorubicin and
+monomethyl auristatin E (which are physicochemically very different),
+and allowed for prodrug activation via the administration of a
+separate nanoparticle, together achieving improved selectivity and
+treatment efficacy in fibrosarcoma-bearing mice62.
+Screening nanomedicine libraries. Drug derivatization and modular
+concepts combined with rapid and scalable production methods
+have been expediting the formation of nanomedicine libraries
+for candidate selection during preclinical nanodrug development.
+Accordingly, efficient in vitro and in vivo screening methods need
+to be established to evaluate such libraries. Traditional approaches
+only vary a few parameters, such as size and surface charge, when
+exploring a new nanomedicine’s pharmaceutical properties and
+pharmacological performance. Novel production methods, such
+as microfluidics, facilitate the generation of large nanomedicinal
+libraries and thereby promote systematic screening of multiple
+parameters. Such microfluidic production protocols were employed
+in the development of BIND-014 (that is, PSMA-targeted polymeric
+nanoparticles containing docetaxel)63. To optimize BIND-
+014, a combinatorial polymeric nanoparticle library was formed
+and subsequently screened for nanoparticle size, ligand density,
+drug encapsulation and release kinetics. Formulations with the
+most favourable characteristics were taken forward for pharmacokinetic,
+biodistribution, tolerability and therapeutic efficacy studies
+in animal models, and the most optimal formulation was eventually
+tested in patients63.
+In pursuit of innovative nano-immunotherapeutics, PET imaging
+and flow cytometry were used to evaluate the biodistribution
+and immune cell specificity of a library of high-density lipoproteinmimicking
+nanoparticles. To advance cancer vaccine development,
+libraries of lipid nanoparticles containing mRNA encoding for the
+model protein ovalbumin52 were screened for the percentages of
+ovalbumin-specific CD8+ T cells 7 days after subcutaneous injection.
+After a two-step library selection to optimize lipid components
+and molar composition, the formulation that induced the highest
+number of specific CD8+ T cells was loaded with mRNA encoding
+for tumour-associated antigens, resulting in improved survival of
+mice bearing B16-F10 melanoma tumours52. Barcoding methods
+are useful in library screening. Deep sequencing of nucleic acidbased
+barcodes in tissues upon the intravenous administration of
+30 barcoded lipid nanoparticles helped to identify a nanoparticle
+formulation capable of delivering functional siRNA and sgRNA
+to bone marrow endothelial cells64,65. Another smart barcoding
+approach involved the co-loading of different chemotherapeutics
+together with DNA barcodes in PEGylated liposomes that were
+administered to mice, followed by tumour biopsy 48 h later. PCR
+barcode detection and cell viability assessment in isolated tumour
+cells could predict the most effective chemotherapeutic treatment
+in a mouse model of breast cancer66.
+Combination therapies
+Depending on their location, grade and stage, cancers are treated
+with a combination of surgery, radiotherapy, chemotherapy and/
+or immunotherapy. Strikingly, however, clinical trials involving
+nanomedicines are generally designed for evaluation in monotherapy
+settings. This makes it difficult to compare nanodrugs
+to standard of care in terms of efficacy and, more importantly, it
+does not optimally exploit some of the intrinsic capabilities of
+nanomedicine formulations. Indeed, nanomedicines combine well
+with standard chemotherapy treatments, they can co-encapsulate
+multiple drugs in one formulation and they interact with external
+stimuli more effectively than drugs in free form. Regarding the
+latter, (1) nanomedicines depend more on vascular perfusion and
+permeability than small molecule drugs, and these features profit
+from using pharmacological and physical combination therapies;
+(2) nanomedicines deliver higher amounts of drugs to pathological
+sites, and keep them there for prolonged periods of time, thereby
+beneficially affecting locally applied physical combination therapies;
+and (3) nanomedicines can be designed to specifically respond
+to locally applied physical triggers, for example, via inducing drug
+release. These aspects should be exploited more extensively to create
+more effective anticancer combination therapies (Fig. 4).
+Systemic combination therapies. The value of incorporating nanomedicines
+in systemic combination therapies is exemplified by
+liposomal irinotecan (Onivyde), which has recently been approved
+in combination with 5-fluorouracil (5-FU) and leucovorin (LV) to
+treat pancreatic cancer. Although irinotecan is a very potent anticancer
+drug, its application in free form is hampered by severe
+side effects that lead to poor patient compliance. While liposomal
+irinotecan alone did not improve overall survival as compared to
+5-FU/LV in pancreatic cancer patients, the combination of liposomal
+irinotecan and 5-FU/LV significantly improved overall survival
+with very acceptable toxicity profiles67,68. A similarly promising systemic
+combination therapy is nanoparticle albumin-bound paclitaxel
+(Abraxane) combined with the immune checkpoint inhibitor
+atezolizumab, which together induced unprecedented therapeutic
+responses in triple-negative breast cancer patients69.
+Cancer nanomedicines are increasingly combined with systemically
+administered drugs that help overcome barriers associated
+with tumour-targeted drug delivery. Multiple biological, immunological
+and translational barriers have been identified that need to
+be tackled when aiming to increase cancer nanomedicine’s clinical
+impact and performance5. Biological barriers include the dense
+extracellular matrix (ECM), the high interstitial fluid pressure (IFP)
+and the high metabolism in tumours. The angiotensin II receptor
+inhibitor losartan can be used to inhibit TGF-β signalling and attenuate
+collagen production by cancer-associated fibroblasts, thereby
+reducing the ECM content and the IFP in tumours, and improving
+the delivery and efficacy of both conventional nanomedicines
+and 100-nm-sized oncolytic viruses70,71. Recently, losartan has been
+shown to substantially increase the fraction of R0 resections upon
+FOLFIRINOX-based neoadjuvant chemotherapy in pancreatic cancer,
+likely via alleviating the impact of some of the above biological
+barriers72,73. The enhanced cellular metabolism within tumours
+results in a relatively low extracellular pH (pH 6.5–7) and re-adjusting
+this metabolic phenotype can help to promote the performance
+of drug and drug delivery systems. As an example, in a recent study,
+100-nm liposomes loaded with sodium bicarbonate were shown to
+be able to increase the intratumoural pH to ~7.4, thereby enhancing
+the cellular uptake of doxorubicin via preventing its protonation
+and hydrophilization74.
+Nanomedicines are also intrinsically very useful for systemic
+combination therapy. For example, Vyxeos is a liposomal nanomedicine
+formulation co-loaded with cytarabine and daunorubicin at a
+synergistic drug ratio of 5:1, ensuring controllable pharmacokinetics
+and co-delivery for both entrapped agents, that can be used to
+‘ratiometrically’ kill cancer cells. In a phase III trial in patients with
+acute myeloid leukaemia, Vyxeos improved survival as compared
+to standard of care from 6 to 10 months75, resulting in fast-track
+FDA approval.
+Local combination therapies. Cancer nanomedicines combine well
+with locally confined treatment modalities, such as radiotherapy,
+ultrasound and hyperthermia. Pre-treating tumours with radiotherapy
+increases nanomedicine accumulation and penetration,
+and vice versa, nanocarrier materials improve radiochemotherapy
+outcomes76,77. Radiotherapy combined with cyclophosphamide can
+prime tumours for more efficient delivery and efficacy of liposomal
+irinotecan78. In addition, nanomedicines can capture tumour
+antigens released by radiotherapy and subsequently deliver them
+to antigen-presenting cells, resulting in significantly improved
+immunotherapy outcomes via promotion of the abscopal effect79.
+Ultrasound can be combined with microbubbles to enhance
+tumour-targeted drug delivery via sonopermeation80, the effects
+of which include opening inter-endothelial junctions, promoting
+endocytosis and transcytosis, and — particularly in highly stromal
+tumours — improving vascular perfusion5. Initial clinical proof of
+concept for sonopermeation showed that combining gemcitabine
+with ultrasound and microbubbles in pancreatic cancer patients
+resulted in a median survival time of 18 months, as compared to
+9 months for a historical cohort treated with gemcitabine alone81.
+When combined with intravenously administered microbubbles, a
+1 cm-sized skull-implantable ultrasound device termed SonoCloud
+can open up the blood–brain barrier (BBB), promoting carboplatin
+delivery in patients with glioblastoma82. For externally applied
+ultrasound, magnetic resonance-guided focused ultrasound can
+feasibly and safely improve (nano-)drug delivery in patients with
+primary brain tumours83.
+The clinically most advanced approach combining nanomedicines
+with locally applied physical treatments involves the use of
+temperature-sensitive doxorubicin-loaded liposomes (Thermodox).
+In combination with radiofrequency ablation-based hyperthermia,
+Thermodox did not meet its primary endpoint in a phase III trial
+for treatment of hepatocellular carcinoma (HCC), for a number of
+reasons. It did however demonstrate improved progression-free and
+overall survival in a subset of patients84. A follow-up phase III trial
+in HCC, with rigorously refined RFA settings, has recently been
+completed, and the outcomes of this study are eagerly awaited85.
+Furthermore, in the last couple of years, several additional trials
+have recently been initiated in which Thermodox is combined with
+focused ultrasound-based hyperthermia, for example, for breast
+cancer and certain paediatric tumours80,86.
+Immunomodulation
+Immune checkpoint inhibitors87 and chimeric antigen receptor
+(CAR) T cell therapies88 are radically changing the cancer therapy
+landscape, as evidenced by remarkable recent clinical results.
+Empowering the body’s immune system has produced long-lasting
+anti-tumour responses in patients with cancer types and stages that
+were deemed very difficult or impossible to treat. Most impressively,
+long-term follow-up studies show that a subset of patients
+have experienced complete remission thus far for up to a decade.
+Unfortunately, however, the majority of cancer patients do not
+respond to immunotherapy. To improve immunotherapy outcomes,
+we have to expand our understanding of both systemic
+anti-tumour immunity and the local tumour immune microenvironment
+(TIME)89. This knowledge will guide the development of
+drugs and drug delivery systems that boost the efficacy of immunooncological
+interventions5.
+Since its inception in the late 1990s, cancer nanomedicine
+development has been based on designing drug delivery systems
+that evade the immune system and transport therapeutic payloads
+directly to tumour cells. We now understand that nanomedicines’
+true potential may actually lie in their ability to engage the immune
+system. Deploying nanotherapeutics for immuno-oncological
+purposes90–92 necessitates nanoformulations that can smartly
+modulate the adaptive and/or the innate immune system (Fig. 5).
+We anticipate it will soon become feasible to engineer nanomedicines
+that boost the immune system’s ability to fight cancer and/or
+improve the efficacy of existing immunotherapies while mitigating
+some of their side effects, which can be quite severe93,94.
+Targeting the adaptive immune system. In line with currently
+approved anticancer immunotherapeutics, most immunomodulating
+nanomedicines target the adaptive immune system. These
+formulations are generally designed to elicit anti-tumour effects via
+generating CD4+ and CD8+ T cell responses, inducing or improving
+antigen presentation (signal 1), modulating co-stimulatory signals
+(signal 2) and/or triggering cytokine production (signal 3). In addition,
+immunomodulating nanomedicines can be devised to alter the
+TIME and thereby increase susceptibility to immunotherapy.
+Nanomedicines that deliver chemotherapeutics such as doxorubicin
+and oxaliplatin to tumours can promote anti-tumour immunity
+by inducing immunogenic cell death (ICD), thereby potentiating the
+effects of checkpoint blockade immunotherapeutics95. A key reason
+for why ICD-inducing nanomedicines generate better immunotherapy
+outcomes than ICD-inducing free drugs is that systemic drug
+exposure is reduced in case of the former, resulting in less systemic
+immunodepression. Nanomedicines can also curtail the activity
+of soluble immuno-inhibitors, like indoleamine 2,3-dioxygenase
+(IDO). IDO plays a key role in cancer immune metabolism, promoting
+the conversion of tryptophan to kynurenine, thereby inducing
+immunosuppression96. Nanomedicines containing IDO inhibitors
+inactivate this immunosuppressive metabolic pathway. As an example,
+nanoparticles containing oxaliplatin and a small molecule IDO
+inhibitor induced regression in pancreatic ductal adenocarcinoma
+mouse models following both local and systemic administration97.
+Similarly, in a mouse model of metastatic breast cancer, the therapeutic
+efficacy of anti-PD-1 therapy was improved by a nano-coformulation
+of doxorubicin and an IDO inhibitor98.
+As described in the ‘Drug selection’ section, developing personalized
+cancer vaccines is the most clinically advanced genetic
+drug application in oncology. These vaccines consist of an ionizable
+lipid-based carrier system loaded with mRNA encoding for
+patient-specific tumour antigens50–52. In such set-ups, the nanocarrier
+formulation protects the payload following subcutaneous52 or
+intravenous50,51 administration, thereby ensuring efficient antigen
+delivery to antigen-presenting cells and subsequently inducing
+effective anti-tumour T cell responses. The interchangeable RNA
+payloads can be designed to encode either for tumour-associated
+self-antigens shared by patients with a specific tumour type or
+for patient-specific neoepitopes, thus creating truly personalized
+cancer vaccines47.
+Analogous to some of the results described in the ‘Combination
+therapies’ section, studies show that under certain circumstances,
+radiotherapy effects can synergize with immune checkpoint blockade-
+based interventions99. In this regard, there is growing evidence
+that the abscopal effect, whereby local radiotherapy treatment at
+the primary tumour site can induce regression in distant metastatic
+lesions, can augment immunotherapy, particularly when combined
+with smart nanomedicine formulations100.
+Targeting the innate immune system. Most nano-immunotherapies
+target the adaptive immune system; modulating components
+of the innate immune system has thus far remained largely
+unexplored92,101. The innate immune system functions as a rapid and
+relatively non-specific first line of defence against infections, mediated
+by the complement system and by cells such as phagocytes and
+natural killer cells. These cells contain pattern recognition receptors
+(PRRs), which detect pathogen-associated molecular patterns
+(PAMPs) and damage-associated molecular patterns (DAMPs).
+PAMPs and DAMPs can induce an innate immune response and
+subsequently activate the adaptive immune system92. It is becoming
+increasingly clear that metabolic and epigenetic modifications
+underlying these responses coordinate a primitive form of innate
+immune memory referred to as ‘trained immunity’102,103, which
+is systemically regulated and preserved by hematopoietic stem
+cells and progenitor cells in the bone marrow. Accordingly, nanomedicines
+with bone marrow avidity may help to induce trained
+immunity to suppress local and metastatic tumour growth92.
+Alternatively, nanomedicine-based approaches can be designed
+to induce innate anti-tumour immune responses via activation
+of PRRs on dendritic cells (DCs) in the TIME, including toll-like
+receptors (TLRs), retinoic acid-inducible gene I (RIG-I)-like receptors
+(RLRs) and stimulator of interferon genes (STING). Activating
+PRRs results in multiple signalling cascades such as transcription
+of type I interferons (IFN-1). In turn, IFN-1 activates DCs and
+induces anti-tumour T cell immunity, providing opportunities to
+reprogramme immunologically ‘cold’ tumours into ‘hot’ tumours
+that are susceptible to checkpoint inhibitor therapy. As an example,
+cyclodextrin nanoparticles encapsulating the TLR7/8 agonist R848
+have been shown to enhance cancer immunotherapy, by promoting
+the polarization of TAM towards an M1-like phenotype96. As
+a monotherapy, the nanoparticles modulated the immunosuppressive
+TIME to inhibit tumour growth. The R848-containing
+formulation furthermore boosted checkpoint inhibitor therapy, in
+a tumour model unresponsive to anti-PD-1 monotherapy. RLRs
+are sensor proteins that recognize cytosolic double-stranded RNA.
+RIG-1 preferentially binds 5’-triphosphorylated RNA and short
+double-stranded RNA. As such, bispecific siRNAs with 5’-triphosphate
+ends can be designed to specifically silence an oncogene
+and to also activate RIG-1. Exploiting this dual strategy, treatment
+with lipid-coated calcium phosphate nanoparticles containing
+double-stranded 5’-triphosphorylated anti-Bcl2 siRNA inhibited
+tumour growth and prolonged survival in mice with orthotopic
+pancreatic cancer97. STING is a key regulatory protein that triggers
+an IFN-1 response upon detection of cytosolic double-stranded
+DNA (dsDNA). DsDNA is recognized by cyclic GMP-AMP synthase
+(cGAS), which induces the production of cyclic guanosine
+monophosphate-adenosine monophosphate (cGAMP; that is, the
+high affinity ligand for STING), resulting in a type I interferon
+response104. Nanomedicines are very useful for activating this type of
+immune response, as cGAMP and other STING agonists are cyclic
+dinucleotides, and need to be present intracellularly to be recognized
+by cGAS. As an example, polymersomes designed to enhance
+cytosolic cGAMP delivery potently inhibited tumour growth and
+prolonged survival in a mouse melanoma model (alone and in
+combination with checkpoint inhibitor therapy)105.
+Outlook
+Improving the clinical impact of cancer nanomedicines requires
+smart thinking and rational and realistic reasoning. In this perspective,
+we present four strategic directions to boost cancer nanomedicine
+performance, translation and exploitation. Like in other areas
+of oncology drug development, probes and protocols for patient
+stratification are urgently needed to refine cancer nanomedicine
+clinical trials. Smart strategies for modular (pro)drug and nanocarrier
+design as well as library screening will help to maximize the
+chances that those formulations developed and tested preclinically
+will eventually perform well in patients. Rationally designed pharmacological
+and physical combination regimens will amplify the
+pharmacokinetic and/or pharmacodynamic benefits conferred by
+entrapping drugs in nanomedicine formulations. Finally, uncovering
+which pathophysiological features constrain the efficacy of
+current cancer immunotherapies, and developing immunomodulatory
+nanomedicines accordingly, will help to improve the outcomes
+of immuno-oncological interventions and increase the number of
+long-term survivors.
+Beyond the strategies discussed above, several additional directions
+can be considered to assist in improving the impact of cancer
+nanomedicine. For instance, the field may profit from implementing
+guidelines for minimal information reporting to standardize
+preclinical nanomedicine research and thus promote reproducibility,
+quantitative comparisons, meta-analyses and modelling106.
+Furthermore, while the majority of nanomedicine formulations
+are developed for intravenous application, it may be advantageous
+to also explore other administration routes. For example, certain
+antibody-based therapeutics, such as Humira (that is, adalimumab;
+anti-TNF), work well upon subcutaneous self-administration,
+which provides the advantage of at-home self-administration versus
+clinical intravenous administration, thereby mitigating the
+need for hospitalization. Such alternative routes of administration,
+which have thus far received relatively little consideration in case
+of nanomedicines, may provide significant advantages in terms of
+applicability, cost, efficacy and toxicity.
+The cancer nanomedicine field has expanded exponentially in
+recent years. In stark contrast to the numerous new materials and
+papers that are being produced, only about a dozen nanomedicinal
+anticancer drugs (antibody–drug conjugates included) have thus far
+made it to the market. To change this situation, we must move away
+from continuously making increasingly complex nanomedicine
+materials and critically reconsider how we are doing translational
+cancer nanomedicine research. We must establish smart strategies
+to make nanomedicines work, in as many patients as possible. This
+shift requires rational and realistic thinking, and integrated and
+concerted efforts from consortia comprising academics, clinicians,
+pharmaceutical companies and regulatory authorities. The strategic
+directions outlined in this manuscript aim to streamline translational
+cancer nanomedicine research and they will help to promote
+the clinical impact and patient performance of nanomedicinal
+anticancer drugs.
+Fig. 1 | Smart strategies and materials to advance and refine cancer
+nanomedicine treatments. Four directions are proposed that — on
+their own and especially together — will promote the translation and
+exploitation of nanomedicinal anticancer drugs.
+Fig. 2 | Smart strategies for patient stratification in cancer nanomedicine. Several probes and protocols can be employed for patient stratification,
+including circulating tumour cell (CTC) analysis, immunohistochemical (IHC) assessment of the tumour microenvironment, and direct and indirect
+imaging of nanomedicine tumour accumulation. These approaches vary in simplicity, specificity and applicability for passively versus actively targeted
+nanomedicines. Liquid biomarkers are the most straightforward and least invasive, but may not be predictive enough to serve as standalone biomarkers
+for tailoring nanomedicine treatment. Tissue biomarkers are easily available, but are likely more useful for actively than passively targeted nanomedicines,
+and their predictive power needs to be explored. Imaging biomarkers can rely on approved contrast agents and companion nanodiagnostics, which are
+available off the shelf. This contributes to simplicity, but the information obtained may not be specific enough. Nanotheranostics provide highly specific
+information on the target site accumulation of the formulation in question, but are more challenging from a translational point of view. MRI, magnetic
+resonance imaging; PET/CT, positron emission tomography/computed tomography.
+Fig. 3 | Smart drug selection in cancer nanomedicine. Rational drug selection is crucial to ensure clinical and commercial success. Multiple strategies can
+be envisaged to connect the right drug to the right nanocarrier for the right indication. Drug classes: Nanomedicines can be loaded with different types of
+anticancer drugs, including standard chemotherapeutics, highly potent toxins, biologics and nucleic acids. Prodrugs can be engineered to ensure optimal
+compatibility with nanocarrier formulations, including, for example, drug coupling via ester linkers to an aliphatic chain for efficient incorporation in lipidbased
+nanomedicines. Modularity: Nanomedicines can be designed to encapsulate payloads with comparable/compatible properties, such as RNA or
+small molecule prodrugs. Screening: Nanomedicine libraries can be produced via high-throughput technologies. Various labelling and analytical techniques
+can be employed to identify nanomedicine candidates with optimal properties for in vivo performance.
+Fig. 4 | Smart cancer nanomedicine-based combination therapies. Systemic combinations: (1) Integrating nanomedicines in multimodal chemotherapy
+regimens results in reduced side effects, better patient compliance and improved quality of life; (2) Nanomedicines enable ratiometric multi-drug
+delivery, which contributes to synergistic drug effects by improving control over pharmacokinetic and pharmacodynamic interactions; (3) Co-treatment
+with approved drugs, such as losartan, helps prime blood vessels and the tumour microenvironment (TME) for improved delivery, thereby enhancing
+the accumulation, penetration and efficacy of cancer nanomedicines. Local combination: (4) Radiotherapy treatment alters the TME to improve
+the accumulation, penetration, retention and efficacy of cancer nanomedicines. In addition, nanomedicines can potentiate the abscopal effect upon
+radiotherapy; (5) Ultrasound and microbubbles can induce sonopermeation, thereby increasing vascular perfusion and permeability, and nanomedicine
+accumulation and efficacy; (6) Hyperthermia can be used to locally trigger payload release from temperature-sensitive liposomes, resulting in increased
+drug concentrations at the pathological site and less systemic drug exposure, thereby improving the balance between drug efficacy and toxicity.
+Fig. 5 | Smart immunomodulation involving cancer nanomedicine. Nanomedicines can be designed to target and modulate components of the adaptive and
+innate immune systems, thereby improving the outcome of immune checkpoint inhibition therapy. Adaptive immune system-targeted approaches include:
+(1) Directly targeting antigen-presenting cells by using nanomedicines to deliver (RNA encoding for) tumour antigens and/or drug molecules that modulate
+co-stimulation and cytokine production. These approaches result in anti-tumour effects mediated via generating and/or activating CD4+ and CD8+ T cells;
+(2) Nanomedicines can change the polarization of tumour-associated macrophages (TAMs) from a pro-tumour and anti-immunotherapy (M2-like)
+phenotype into a more anti-tumour and pro-immunotherapy (M1-like) phenotype; (3) Nanomedicines containing chemotherapeutic drugs, such as
+doxorubicin and oxaliplatin, can boost the induction of immunogenic cell death, which helps reprogram immunogenically ‘cold’ tumours into ‘hot’ tumours.
+Innate immune system-targeted approaches include: (4) Reprogramming tumours into an immunogenically ‘hot’ phenotype via the activation of PRRs,
+eliciting a type I interferon response and inducing anti-tumour T cell immunity; and (5) Nanomedicines can be developed to deliver drugs to myeloid cells
+and their progenitors in the bone marrow, resulting in specific metabolic and epigenetic changes. The ensuing myeloid cells’ hyper-responsiveness towards
+secondary stimuli has become known as ‘trained immunity’ and may help improve the efficacy of (checkpoint inhibition-based) cancer immunotherapy.

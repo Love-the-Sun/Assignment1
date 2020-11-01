@@ -1,0 +1,305 @@
+Characteristics and Outcomes in Patients With
+COVID-19 and Acute Ischemic Stroke
+The Global COVID-19 Stroke Registry
+George Ntaios , MD, MSc, PhD; Patrik Michel, MD; Georgios Georgiopoulos, MD; Yutao Guo, MD; Wencheng Li, MD;
+Jing Xiong, MD; Patricia Calleja, MD; Fernando Ostos, MD; Guillermo González-Ortega, MD; Blanca Fuentes, MD, PhD;
+María Alonso de Leciñana, MD, PhD; Exuperio Díez-Tejedor, MD, PhD; Sebastian García-Madrona, MD; Jaime Masjuan, MD, PhD;
+Alicia DeFelipe, MD; Guillaume Turc, MD; Bruno Gonçalves, MD; Valerie Domigo, MD; Gheorghe-Andrei Dan, MD;
+Roxana Vezeteu, MD; Hanne Christensen, MD; Louisa Marguerite Christensen, MD, PhD; Per Meden, MD; Lejla Hajdarevic, MD;
+Angela Rodriguez-Lopez, MD; Fernando Díaz-Otero, MD; Andrés García-Pastor, MD, PhD; Antonio Gil-Nuñez, MD, PhD;
+Errikos Maslias, MD; Davide Strambo, MD; David J. Werring, MD, PhD; Arvind Chandratheva, MD; Laura Benjamin, MD;
+Robert Simister, MD, PhD; Richard Perry, MD; Rahma Beyrouti, MD; Pascal Jabbour, MD, PhD; Ahmad Sweid, MD;
+Stavropoula Tjoumakaris, MD; Elisa Cuadrado-Godia, MD; Ana Rodríguez Campello, MD; Jaume Roquer, MD;
+Tiago Moreira, MD; Michael V. Mazya, MD; Fabio Bandini, MD; Karl Matz, MD; Helle K. Iversen, MD;
+Alejandra González-Duarte, MD; Cristina Tiu, MD, PhD; Julia Ferrari, MD; Milan R. Vosko, MD; Helmut J.F. Salzer, MD;
+Bernd Lamprecht, MD; Martin W. Dünser, MD; Carlo W. Cereda, MD; Ángel Basilio Corredor Quintero, MD;
+Eleni Korompoki, MD, PhD; Eduardo Soriano-Navarro, MD; Luis Enrique Soto-Ramírez, MD; Paulo F. Castañeda-Méndez, MD;
+Daniela Bay-Sansores, MD; Antonio Arauz, MD; Vanessa Cano-Nigenda, MD; Espen Saxhaug Kristoffersen, MD, PhD;
+Marjaana Tiainen, MD; Daniel Strbian, MD; Jukka Putaala, MD; Gregory Y.H. Lip, MD
+ABSTRACT: Recent case-series of small size implied a pathophysiological association between coronavirus disease 2019
+(COVID-19) and severe large-vessel acute ischemic stroke. Given that severe strokes are typically associated with poor
+prognosis and can be very efficiently treated with recanalization techniques, confirmation of this putative association is
+urgently warranted in a large representative patient cohort to alert stroke clinicians, and inform pre- and in-hospital acute
+stroke patient pathways. We pooled all consecutive patients hospitalized with laboratory-confirmed COVID-19 and acute
+ischemic stroke in 28 sites from 16 countries. To assess whether stroke severity and outcomes (assessed at discharge or at
+the latest assessment for those patients still hospitalized) in patients with acute ischemic stroke are different between patients
+with COVID-19 and non-COVID-19, we performed 1:1 propensity score matching analyses of our COVID-19 patients with
+non-COVID-19 patients registered in the Acute Stroke Registry and Analysis of Lausanne Registry between 2003 and
+2019. Between January 27, 2020, and May 19, 2020, 174 patients (median age 71.2 years; 37.9% females) with COVID-19
+and acute ischemic stroke were hospitalized (median of 12 patients per site). The median National Institutes of Health
+Stroke Scale was 10 (interquartile range [IQR], 4–18). In the 1:1 matched sample of 336 patients with COVID-19 and non-
+COVID-19, the median National Institutes of Health Stroke Scale was higher in patients with COVID-19 (10 [IQR, 4–18]
+versus 6 [IQR, 3–14]), P=0.03; (odds ratio, 1.69 [95% CI, 1.08–2.65] for higher National Institutes of Health Stroke Scale
+score). There were 48 (27.6%) deaths, of which 22 were attributed to COVID-19 and 26 to stroke. Among 96 survivors with
+available information about disability status, 49 (51%) had severe disability at discharge. In the propensity score-matched
+population (n=330), patients with COVID-19 had higher risk for severe disability (median mRS 4 [IQR, 2–6] versus 2 [IQR,
+1–4], P<0.001) and death (odds ratio, 4.3 [95% CI, 2.22–8.30]) compared with patients without COVID-19. Our findings
+suggest that COVID-19 associated ischemic strokes are more severe with worse functional outcome and higher mortality
+than non-COVID-19 ischemic strokes.
+Key Words: coronavirus, COVID-19, prognosis, propensity score, survivors
+
+Coronavirus disease 2019 (COVID-19), a viral disease
+caused by the severe acute respiratory syndrome
+coronavirus 2, may predispose patients to arterial
+thrombotic complications mediated by inflammation,
+endothelial dysfunction, thrombin generation, and platelet
+activation.f Three recent case-series of small size implied
+a pathophysiological association between COVID-19
+and severe large-vessel acute ischemic stroke (AIS).2–4
+Given that severe strokes are typically associated with
+poor prognosis and can be very efficiently treated with
+recanalization techniques, confirmation of this putative
+association is urgently warranted in a large representative
+patient cohort to alert stroke clinicians and inform
+pre- and in-hospital acute stroke patient pathways.
+We pooled all consecutive patients hospitalized with
+laboratory-confirmed COVID-19 and AIS in 28 sites from
+16 countries. We excluded patients who were infected
+after the onset of stroke. Nineteen (70.4%) sites were
+reference hospitals for patients with COVID-19. A prespecified
+form was used to register anonymized patient
+data. To assess whether stroke severity (estimated by the
+National Institutes of Health Stroke Scale) and outcomes
+(assessed by the modified Rankin Scale, at discharge or
+at the latest assessment for those patients still hospitalized)
+in patients with AIS are different between patients
+with and without COVID-19, we performed 1:1 propensity
+score matching analyses of our COVID-19 patients
+with non-COVID-19 patients registered in the Acute
+Stroke Registry and Analysis of Lausanne5 between
+2003 and 2019. For the propensity score matching
+analysis of stroke severity, patients were matched without
+replacement on a set of prespecified covariates,
+including demographics (age, sex), stroke risk factors,
+and comorbidities (hypertension, diabetes mellitus, atrial
+fibrillation, coronary artery disease, heart failure, cancer,
+previous stroke, smoking, obesity, dyslipidemia). For the
+propensity score matching analysis of outcomes, the
+type of intervention and main stroke symptoms (motor
+symptoms, sensory symptoms, dysarthria, and aphasia)
+were additionally matched (further details on statistical
+methods are available in the supplementary material).
+The Global COVID-19 Stroke registry was approved
+by the Institutional Review Board of the co-ordinating
+site (Larissa University Hospital). Informed consent was
+waived as this was an observational study on pseudonymized
+data. Requests to access the data set from qualified
+researchers trained in human subject confidentiality
+protocols may be sent to the first author.
+Between January 27, 2020, and May 19, 2020, 174
+patients (median age 71.2 years; 37.9% females) with
+COVID-19 and AIS were hospitalized (median of 12
+patients per site). There were 45 patients aged >80
+years and 41 aged <64 years.
+In 96% of the cases, COVID-19 was confirmed with
+PCR and in the others by serology. The most prevalent
+stroke risk factors and comorbidities were hypertension
+(68.4%), obesity (37.4%), and diabetes mellitus
+(31.03%). Previous stroke was reported in 20 (11.5%)
+patients. The median delay between the initiation of
+COVID-19 symptoms and stroke onset was 7 days
+(interquartile range [IQR]: 2–15). The most prevalent
+COVID symptoms were fever (55.2%,), cough (53.5%),
+and dyspnoea (43.7%).
+The main stroke symptoms were motor (67.8%), dysarthria
+(46%), and sensory (42%). The median National
+Institutes of Health Stroke Scale was 10 (IQR: 4–18). In
+the 1:1 matched sample of 336 patients with and without
+COVID-19, the median National Institutes of Health
+Stroke Scale was higher in patients with COVID-19 (10
+[IQR: 4–18] versus 6 [IQR: 3–14], P=0.03; odds ratio,
+1.69 [95% CI, 1.08–2.65] for higher National Institutes
+of Health Stroke Scale score; Figure).
+The vascular territory most frequently affected was
+the middle cerebral artery (in 93 out of 163 patients
+with available information). In the matched database
+(n=366), 132 of 168 patients with COVID-19 had
+a complete diagnostic workup towards stroke cause.
+Among those 132 patients, 30 (22.7%) and 10 (7.6%)
+had a large-artery or a lacunar stroke, respectively. In
+the non-COVID-19 matched cohort, we recorded 22
+(13.1%) patients with large-artery atherosclerosis and
+17 (10.2%) with lacunar stroke. Overall, we did not
+find a difference in the prevalence of large-artery and
+lacunar stroke between the 2 populations (nonparametric
+χ2 test P=0.082).
+In the overall population of the patients with COVID-
+19, alteplase was administered in 34 (19.7%) of patients
+and endovascular thrombectomy was performed in 21
+(12.1%) patients (33 and 20 among the patients with
+COVID-19who were included in the matched analysis,
+respectively). The outcomes per intervention in the
+matched cohort of patients with stroke with and without
+COVID-19 are presented in the Data Supplement. Any
+hemorrhagic transformation of the infarct was diagnosed
+in 22 patients, of whom 5 had been treated with intravenous
+alteplase. Malignant brain edema was present in 4
+(5.1%) patients and 3 of these patients were treated with
+hemicraniectomy.
+Among 112 patients who had pulmonary imaging
+with chest CT, 89.3% had lung opacities. Twentyseven
+patients (15.5%) were intubated, 40 (23%)
+were transferred to an intensive care unit, and 110
+(63.2%) were discharged from the hospital. There
+were 48 (27.6%) deaths, of which 22 were attributed
+to COVID-19 and 26 to stroke. Among 96 survivors
+with available information about disability status, 49
+(51%) had severe disability at discharge. In the propensity
+score matched population (n=330), patients
+with COVID-19 had higher risk for severe disability
+(median modified Rankin Scale 4 [IQR: 2–6] versus 2
+[IQR: 1–4], P<0.001) and death (odds ratio, 4.3 [95%
+CI, 2.22–8.30]) compared with patients with non-
+COVID-19 (Figure).
+The strengths of this analysis are the large patient
+cohort, the multicentre international design, the inclusion
+of all consecutive known COVID-19 AIS patients
+treated in each site, and the propensity score matching
+comparison with a non-COVID-19 AIS cohort. A limitation
+of the study is that the propensity score match
+cohort was from a single site; however, as described
+in the supplemental material, our sensitivity analysis
+for potential hidden bias in the matched database
+confirmed the robustness of the main findings. Even
+if this extra, unobserved indicator (ie, site of recruitment)
+could affect the odds of a patient’s conditional
+classification to the case or control group by up to
+130% and in parallel was totally unrelated to all of the
+variables taken into consideration (demographic characteristics,
+risk factors, comorbidities, stroke symptoms,
+and treatment), still our results of increased mortality
+and disability in patients with COVID-19 would not
+substantially change.
+There are several potential explanations for the relation
+between COVID-19 associated ischemic strokes
+and increased stroke severity, which may co-exist. It
+was proposed that viral infections may cause a direct
+vasculopathic effect (endotheliopathy) or potentiate
+the prothrombotic milieu via several mechanisms
+including immune-mediated platelet activation, dehydration,
+and infection-induced cardiac arrhythmias.6 It
+is unclear whether the finding of increased severity in
+COVID-19 associated ischemic strokes applies to all
+ischemic stroke types or is mainly driven by an increase
+in large-vessel occlusion strokes, as implied by recent
+findings.2 Finally, it may be possible that the stay-athome
+recommendations/orders and the general fear of
+the hospital during the COVID-19 pandemic may have
+prevented patients with acute stroke with smaller deficits
+from presenting to the hospital, although a recent
+study in Barcelona reported that initial stroke severity
+was not different between patients with stroke admitted
+in March 2019 and March 2020.7
+The increased stroke severity at admission in COVID-
+19 associated stroke patients compared with the non-
+COVID-19 cohort may explain the worse outcomes. The
+broad multi-system complications of COVID-19 including
+acute respiratory distress syndrome, cardiac arrhythmias,
+acute cardiac injury, shock, pulmonary embolism, cytokine
+release syndrome and secondary infection,8 probably
+contribute further to the worse outcomes including
+higher mortality in these patients.
+Our findings suggest that COVID-19 associated ischemic
+strokes are more severe with worse functional outcome
+and higher mortality than non-COVID-19 ischemic
+strokes. The association between COVID-19 and severe
+stroke highlights the urgent need for studies aiming to
+uncover the underlying mechanisms and is relevant for
+prehospital stroke awareness and in-hospital acute stroke
+pathways during the current and future pandemics, since
+severe strokes have typically poor prognosis and can
+potentially be treated with recanalization techniques.
+Figure. Matched populations of
+patients with coronavirus disease
+2019 (COVID-19) from the Global
+COVID-19 Stroke Registry and
+patients without COVID-19 from the
+Acute Stroke Registry and Analysis
+of Lausanne (ASTRAL) registry.
+The upper panel presents the distribution
+of the modified Rankin Scale scores. The
+lower panel presents the histogram and
+Kernel Density Estimates of the National
+Institutes of Health Stroke Scale (NIHSS)
+scores.
+ARTICLE INFORMATION
+Affiliations
+Department of Internal Medicine, Faculty of Medicine, School of Health Sciences,
+University of Thessaly, Larissa, Greece (G.N.). Stroke Center, Neurology
+Service, Department of Clinical Neurosciences, Lausanne University Hospital,
+Switzerland (P.M., E.M., D. Strambo). School of Biomedical Engineering and Imaging
+Sciences, King’s College, London, United Kingdom (G.G.). Department of
+Cardiology, Chinese PLA General Hospital, Beijing, China (Y.G.). Department of
+Urology (W.L.) and Department of Nephrology (J.X.), Union Hospital, Tongji Medical
+College, Huazhong University of Science & Technology, China. Department of
+Neurology and Stroke Center, Doce de Octubre University Hospital, Instituto de
+Investigación Hospital 12 de Octubre (i+12), Madrid, Spain (P.C., F.O., G.G.-O.).
+Department of Neurology and Stroke Center, La Paz University Hospital, IdiPAZ
+Health Research Institute, Madrid, Spain (B.F., M.A.d.L., E.D.-T.). Department of
+Neurology and Stroke Centre, Ramón y Cajal University Hospital, IRYCIS Health
+Research Institute, Madrid, Spain (S.G.-M., J.M., A.D.). Department of Neurology,
+GHU Paris Psychiatrie et Neurosciences, Université de Paris, INSERM U1266,
+and FHU Neurovasc, France (G.T., B.G., V.D.). Intensive Care Unit, Paulo Niemeyer
+State Brain Institute, Rio de Janeiro, Brazil (B.G.). Colentina University Hospital,
+Medicine Faculty, University of Medicine “Carol Davila”-Bucharest, Romania
+(G.-A.D., R.V.). Bispebjerg Hospital & University of Copenhagen, Denmark (H.C.,
+L.M.C., P.M., L.H.). Vascular Neurology Section - Stroke Center, Hospital General
+Universitario Gregorio Marañón, Madrid, Spain (A.R.L., F.D.O., A.G.P., A.G.-N.).
+Stroke Research Centre, Department of Brain Repair and Rehabilitation, UCL
+Queen Square Institute of Neurology, London, United Kingdom (D.J.W., A.C., L.B.,
+R.S., R.P., R.B.). Department of Neurological Surgery, Thomas Jefferson University
+Hospital, Philadelphia, PA (P.J., A.S., S.T.). Stroke Unit, Department of Neurology,
+Hospital del Mar (E.C.-G., A.R.C., J.R.). Neurovascular Research Group, IMIMHospital
+del Mar (Institut Hospital del Mar d’Investigacions Mèdiques), Universitat
+Autònoma de Barcelona/DCEXS-Universitat Pompeu Fabra, Barcelona, Spain
+(E.C.-G., A.R.C., J.R.). Department of Clinical Neuroscience (T.M., M.V.M.) and Department
+of Neurology (T.M., M.V.M.), Karolinska Institutet, Stockholm, Sweden.
+Department of Neurology, San Paolo Hospital, Savona, Italy (F.B.). Landesklinikum
+Mödling, Neurologische Abteilung und Donau-Universität Krems, Zentrum
+für Vaskuläre Prävention, Krems, Austria (K.M.). Stroke Centre Rigshospitalet,
+Department of Neurology, Faculty of Health and Medical Sciences, University
+of Copenhagen, Denmark (H.K.I.). Department of Neurology, Instituto Nacional
+de Ciencias Médicas y Nutrición Salvador Zubirán, a COVID Center, Mexico City
+(A.G.-D.). Carol Davila University of Medicine and Pharmacy, Bucharest, Romania
+(C.T.). University Emergency Hospital, Bucharest, Romania (C.T.). Department of
+Neurology, Krankenhaus Barmherzige Brüder, Vienna, Austria (J.F.). Department
+of Neurology 2 (M.R.V.) and Department of Pulmonary Medicine (H.J.F.S., B.L.),
+Kepler University Hospital, Linz, Austria. Department of Anesthesiology and Intensive
+Care Medicine, Johannes Kepler University, Linz, Austria (M.W.D.). Stroke
+Center EOC, Neurocenter of Southern Switzerland, Lugano (C.W.C.). Department
+of Neurology, Hospital Departamental Universitario del Quindío San Juan de
+DiosArmenia, Colombia (Á.B.C.Q.). Department of Clinical Therapeutics, National
+and Kapodistrian University of Athens, Alexandra Hospital, Greece (E.K.). Internal
+Medicine, Fundación Clínica Médica Sur, Mexico City (E.S.-N., L.E.S.-R., P.F.C.-M.,
+D.B.-S.). Stroke Clinic, Instituto Nacional de Neurologıa y Neurocirugıa Manuel
+Velasco Suarez, Mexico City (A.A., V.C.-N.). Department of Neurology, Akershus
+University Hospital, Norway (E.S.K.). Department of General Practice, HELSAM,
+University of Oslo (E.S.K.). Department of Neurology, Helsinki University Hospital,
+Finland (M.T., D. Strbian, J.P.). Liverpool Centre for Cardiovascular Science,
+University of Liverpool and Liverpool Heart & Chest Hospital, United Kingdom
+(G.Y.H.L.). Aalborg Thrombosis Research Unit, Department of Clinical Medicine,
+Aalborg University, Denmark (G.Y.H.L.).
+Sources of Funding
+None.
+Disclosures
+Dr Michel reports grants from Swiss National Science Foundation, grants
+from Swiss Heart Foundation, during the conduct of the study; grants from
+European Thrombosis Investigator-Initiated Research Program (Bristol-Myers
+Squibb/Pfizer), personal fees from Medtronic (used for research), outside the
+submitted work. Dr Gonçalves reports grants from Coordenação de Aperfeiçoamento
+de Pessoal de Nível Superior—Brasil outside the submitted work.
+Dr Dan reports personal fees from Boehringer Ingelheim, personal fees from
+Bayer, and personal fees from Pfizer outside the submitted work. Dr Strambo
+reports grants from Swiss Heart Foundation and grants from University of
+Lausanne outside the submitted work. Dr Werring reports personal fees from
+Bayer, personal fees from Alnylam, and personal fees from Portola outside
+the submitted work. Dr Simister is part funded by the UCLH/UCL Biomedical
+Research Centre. Dr Benjamin reports grants from GlaxoSmithKline outside
+the submitted work. Dr Jabbour reports grants from Medtronic, other from
+Microvention, and other from Balt outside the submitted work. Dr Korompoki
+reports personal fees from Pfizer, nonfinancial support from Bayer, and personal
+fees from Amgen outside the submitted work. Dr Lip reports other from
+Consultant for Bayer/Janssen, Bristol-Myers Squibb/Pfizer, Medtronic, Boehringer
+Ingelheim, Novartis, Verseon, and Daiichi-Sankyo. Speaker for Bayer,
+Bristol-Myers Squibb/Pfizer, Medtronic, Boehringer Ingelheim, and Daiichi-
+Sankyo. The other authors report no conflicts.

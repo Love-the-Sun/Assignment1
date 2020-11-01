@@ -1,0 +1,514 @@
+Smoking Cessation and Lung Function in Mild-to-
+Moderate Chronic Obstructive Pulmonary Disease
+The Lung Health Study
+PAUL D. SCANLON, JOHN E. CONNETT, LANCE A. WALLER, MURRAY D. ALTOSE, WILLIAM C. BAILEY,
+A. SONIA BUIST, and DONALD P. TASHKIN for the Lung Health Study Research Group
+Division of Pulmonary and Critical Care Medicine, Mayo Foundation, Rochester, Minnesota; Division of Biostatistics, School of Public
+Health, University of Minnesota, Minneapolis, Minnesota; Department of Biostatistics, Rollins School of Public Health, Emory University,
+Atlanta, Georgia; Veterans Hospital, Case Western Reserve University, Cleveland, Ohio; Division of Pulmonary and Critical Care Medicine,
+Department of Medicine, University of Alabama School of Medicine, Birmingham, Alabama; Department of Veterans Affairs Medical
+Center, Birmingham, Alabama; Department of Medicine and Physiology, Oregon Health Sciences University, Portland, Oregon; and
+Division of Pulmonary and Critical Care Medicine, Department of Medicine, UCLA School of Medicine, Los Angeles, California
+Previous studies of lung function in relation to smoking cessation have not adequately quantified the
+long-term benefit of smoking cessation, nor established the predictive value of characteristics such as
+airway hyperresponsiveness. In a prospective randomized clinical trial at 10 North American medical
+centers, we studied 3,926 smokers with mild-to-moderate airway obstruction (3,818 with analyzable
+results; mean age at entry, 48.5 yr; 36% women) randomized to one of two smoking cessation groups
+or to a nonintervention group. We measured lung function annually for 5 yr. Participants who
+stopped smoking experienced an improvement in FEV1 in the year after quitting (an average of 47 ml
+or 2%). The subsequent rate of decline in FEV1 among sustained quitters was half the rate among
+continuing smokers, 31
+6 48 versus 62
+6 55 ml (mean
+6 SD), comparable to that of never-smokers.
+Predictors of change in lung function included responsiveness to
+b-agonist, baseline FEV1, methacholine
+reactivity, age, sex, race, and baseline smoking rate. Respiratory symptoms were not predictive of
+changes in lung function. Smokers with airflow obstruction benefit from quitting despite previous
+heavy smoking, advanced age, poor baseline lung function, or airway hyperresponsiveness. Scanlon
+PD, Connett JE, Waller LA, Altose MD, Bailey WC, Buist AS, Tashkin DP, for the Lung Health
+Study Research Group. Smoking cessation and lung function in mild-to-moderate chronic obstructive
+pulmonary disease: The Lung Health Study.
+
+In 1996, 106,146 Americans died from chronic obstructive pulmonary
+disease (COPD), the fourth leading cause of death in
+the United States (1). Ten to 15% of all smokers (2) and up to
+26% of heavy smokers (3) develop COPD. As the prevalence
+of smoking has risen among women and decreased slightly
+among men, the sexual distribution of COPD deaths has
+shifted from 19% female in 1970 to 38.5% in 1993 (4).
+Factors that contribute to the development of COPD include
+tobacco smoking, particularly heavy smoking, long duration
+of smoking, and smoking of high-tar cigarettes. Other factors
+associated with the development of COPD include poor
+initial lung function, advanced age, male sex, childhood respiratory
+illness, occupational respiratory exposures, air pollution,
+low educational attainment or socioeconomic status,
+blood type A or AB,
+a1 protease deficiency, and other familial
+factors (5). With the exception of
+a1 protease deficiency, these
+factors contribute to, but do not by themselves cause, COPD.
+In general, we cannot explain why some smokers are more
+likely than others to develop impaired lung function, but it
+seems likely that differences in susceptibility are related to asyet-
+unknown genetic factors.
+The Dutch hypothesis (6) states that the risks of COPD
+and asthma are related to environmental exposures in combination
+with the genetic makeup of the individual. Bronchial
+hyperresponsiveness is one endogenous factor that may contribute
+to the development of COPD (7). Genetic factors that
+contribute to this risk are still poorly understood. We have no
+way of modifying endogenous predisposition to asthma or
+COPD. In contrast, the principal environmental factor in
+COPD is well known—exposure to cigarette smoke—and it
+can be modified. Hence, the most direct approach to reduce
+the risk of COPD is to reduce cigarette smoking.
+A low FEV1 predicts not only an increased rate of decline
+in FEV1 (3, 8), but also morbidity and mortality from smoking-
+related illnesses (COPD, lung cancer, and cardiovascular
+disease) (9–11). Since lung function declines with time, the
+best time to prevent morbidity and mortality from smokingrelated
+illness should be early in the life. Unfortunately, most
+smoking cessation intervention programs have had high relapse
+rates (12).
+In the Lung Health Study (LHS), smokers with mild-tomoderate
+COPD were recruited to determine the effectiveness
+of an intensive smoking cessation program plus maintenance
+bronchodilator therapy in reducing the rate of decline in lung
+function as well as morbidity and mortality. The intent-to-treat
+analysis showed that participants randomized to the smoking
+intervention program with or without maintenance bronchodilator
+treatment had an improvement in pulmonary function
+during the first year of the study, compared with control subjects,
+but in subsequent years the decline in lung function was
+parallel in all groups. Those who quit smoking had a greater
+benefit compared with those who continued smoking (13). This
+article reports further analysis of the effects of successful smoking
+cessation on the lung function of participants in the LHS.
+METHODS
+Study Design and Recruitment
+Recruitment was carried out from November 1986 to January 1989.
+We sought current smokers, 35 to 60 yr of age, with mild-to-moderate
+airflow obstruction who were otherwise healthy and who expressed a
+willingness to participate in a 5-yr research program (14, 15). A total
+of 5,887 participants was recruited at 10 centers in North America (16).
+Participants were randomized, on a 2:1 basis, to engage in an intensive,
+long-term smoking cessation program (special intervention, or
+SI) or to receive usual care (UC). Participants in the SI group were
+further randomized on a 1:1 basis to use either inhaled ipratropium
+bromide (Atrovent [Boehringer Ingelheim, Ridgefield, CT], 18
+mg/
+puff; SI-A group) or an identical-appearing placebo administered by
+metered-dose inhaler (2 puffs three times daily; SI-P group) for the
+duration of the study. Participants in both groups completed annual
+health questionnaires and lung function measurements. The UC group
+did not participate in the intervention program. Each participant was
+monitored for 5 yr (14, 15). The smoking cessation program was designed
+to achieve a maximal sustained smoking cessation rate. Details
+and results of the program have been reported previously (17).
+Pulmonary Function Measurement
+Spirometry was performed with a dry rolling-seal spirometer. A standardized
+spirometry protocol, which exceeded the American Thoracic
+Society (ATS) testing standards, and a strict quality control program
+were used to obtain acceptable and reproducible data (18). The quality
+control program and results of baseline pulmonary function studies
+have been reported (19).
+Screening spirometry was performed to identify smokers with an
+FEV1/FVC ratio
+< 0.75 and an FEV1 percent predicted (FEV1%
+pred) between 50 and 90% of the value predicted for their age, height,
+sex, and race (20). A second screening (Screen 2) visit confirmed eligibility
+if prebronchodilator FEV1%pred was between 55 and 90% and
+FEV1/FVC
+< 0.70. Randomization was performed at the third screening
+visit. A modified ATS-DLD-78 Respiratory Symptoms Questionnaire
+(21) was administered, and measurement of methacholine reactivity
+was performed at the third screening visit (22). Methacholine
+reactivity was calculated from the dose–response curve, using the logarithm
+of the percent decline in FEV1 between the postdiluent control
+value and the value after the highest concentration of methacholine
+administered (see Table 1 footnote) (23).
+Follow-up Visits
+Clinic visits were scheduled every 4 mo for SI participants. At these
+visits, smoking status was monitored by questionnaire and measurement
+of exhaled carbon monoxide (CO) with either a MiniCO model
+1000 (Catalyst Research, Owings Mills, MD) or Vitalograph EC50
+(Vitalograph, Buckingham, UK) (17). Inhaler canisters were exchanged
+and weighed (24), and inhaler technique checked. Additional
+smoking cessation intervention and counseling were provided as
+needed to prevent relapse (17).
+Annual clinic visits for all SI and UC participants included administration
+of respiratory questionnaires, spirometry, and a request for
+permission to obtain records of reported hospitalizations. Smoking
+status was determined by self-report (
+, 1 cigarette per week was considered
+a nonsmoker), and validated with salivary cotinine assay and
+exhaled CO measurement (25, 26).
+Statistical Methods
+We defined “sustained quitters” (Q) as those participants who were validated
+by salivary cotinine or exhaled CO as abstinent at every annual
+visit. “Continuing smokers” (S) were individuals who reported smoking
+at each annual visit. We assume in this analysis that participants who
+did not attend annual visits had continued smoking or relapsed. Those
+who were not sustained quitters or continuing smokers were called “intermittent
+quitters” (I). For the present analysis, all comparisons are between
+sustained quitters and continuing smokers from the SI-P and the
+UC groups. Members of the SI-A group (randomized to ipratropium)
+were not included in this analysis to avoid the confounding effect of
+bronchodilator therapy on the rate of decline in FEV1.
+Statistical analyses were based on counts (for categorical data) or
+means and standard deviations (for quantitative variables such as age,
+cotinine levels, or FEV1%pred). Univariate comparisons between the
+various smoking categories were assessed by
+x2 statistics (for categorical
+variables) or unpaired t tests (for quantitative variables). Comparisons
+of outcome variables, when controlling for other factors, were done by
+analysis of covariance. For univariate analyses, no adjustment was made
+for multiple comparisons; nominal p values are displayed. For analyses
+of the relationships between change in FEV1%pred and possible predictors,
+the SI-P and UC groups were pooled. Rates of decline in lung function
+within groups were calculated as the mean of individual slopes.
+Multivariate linear regression analysis of the changes in postbronchodilator
+FEV1%pred was performed using PROC GLM in the SAS
+package (SAS, Cary, NC) (27). Separate analyses were performed for
+changes from baseline to Year 1 and from Year 1 to Year 5. Variables
+were entered stepwise, and were included in the final model if they
+contributed significantly to the predictive power of the model. In
+addition to smoking status, we considered baseline characteristics,
+including treatment group (SI-P or UC), age, sex, FEV1%pred,
+bronchodilator responsiveness, methacholine reactivity, smoking rate
+(cigarettes per day), race, and respiratory symptoms. We analyzed
+these individually, and looked for nonlinear effects and interaction
+with smoking status. The results are summarized in terms of changes
+in FEV1% pred associated with specified increments in the predictors
+or the interaction terms in the models.
+TABLE 1
+BASELINE CHARACTERISTICS BY FINAL SMOKING STATUS: SI-P AND UC PARTICIPANTS
+RESULTS
+Baseline Characteristics
+The SI-P and UC groups were similar at the time of entry into
+the study (16). Table 1 shows baseline characteristics of 3,818
+SI-P and UC participants with analyzable results, classified by
+smoking status at the end of the study. Compared with continuing
+smokers, sustained quitters were older at baseline,
+smoked fewer cigarettes per day, had greater educational attainment,
+lower salivary cotinine, higher body mass index,
+higher FEV1%pred, and lower prevalence of chronic sputum
+production.
+Follow-up Rates
+At Year 1, questionnaires were completed for more than 94%
+of participants and spirometry was completed for more than
+89% of participants. At Year 5, both questionnaires and spirometry
+were completed for more than 94% of participants (13).
+Smoking Cessation Rates
+Using biochemically validated smoking cessation rates, 34.4% of
+SI-P participants were abstinent (quitters) at Year 1, 37.4% were
+abstinent at Year 5 (cross-sectional quit rate), and 22.3% remained
+abstinent without relapse from Year 1 through Year 5
+(sustained quitters). Among UC participants, 9.0% were abstinent
+at Year 1, increasing to 21.4% at Year 5; 5.3% were
+sustained quitters at Year 5 (13).
+Effects of Smoking Cessation on
+Changes in Lung Function
+Study participants in the SI-P and UC groups who stopped
+smoking in Year 1 had an average increase in FEV1 of 47 ml
+or 1.98%pred at the Year 1 visit (Figure 1; see also Figure 5 in
+Reference 13). Between Year 1 and Year 5, the sustained quitters
+had a rate of decline in FEV1 of 31 +- 48 ml/yr or 0.27%
+pred/yr.
+In contrast, continuing smokers showed a more rapid rate
+of decline in FEV1, both during the first year and between
+Year 1 and Year 5. At the Year 1 visit, FEV1 had decreased by
+49 ml or 0.74% pred. Between Year 1 and Year 5, FEV1 decreased
+by 62 +- 55 ml/yr, twice the rate observed in sustained
+quitters (p < 0.001, Table 2).
+Participants who quit during the first year and then relapsed
+after Year 1 showed a 1.59
+6 5.04% decline in FEV1%
+pred after relapsing (p < 0.001). Those participants who quit
+smoking after the first year showed a 1.61 +- 5.62% improvement
+in FEV1%pred after quitting (p < 0.001), which was also
+comparable to the benefit observed in SI-P quitters at Year 1
+(Figure 1).
+Figure 1. Lung function improved during Year 1 among quitters,
+but declined among continuing smokers. The subsequent rate of
+decline is twice as great among continuing smokers as among sustained
+quitters. Those who relapsed lost function and those who delayed
+quitting benefited regardless of when they quit.
+Effects of Baseline Lung Function
+Continuing smokers with the lowest baseline FEV1 had larger
+declines in the first year (
+20.9
+6 5.7%pred or
+249
+6 195 ml
+for the lowest quintile) compared with those with the highest
+baseline lung function (
+20.03
+6 4.91%pred or
+229
+6 172 ml
+for the highest quintile, p
+5 0.024). However, among quitters,
+baseline lung function was not predictive of the degree of improvement
+at Year 1 (p
+. 0.10, results not shown).
+Between Year 1 and Year 5, continuing smokers with the
+lowest baseline FEV1%pred had the most rapid annual declines
+in FEV1%pred:
+21.6
+6 2.1% pred/yr for the lowest
+quintile versus
+21.0
+6 1.6%pred/yr for those in the highest
+quintile (p
+, 0.001; Figure 2). This trend did not hold for FEV1
+itself: the annual rates of decline were
+263
+6 56 ml/yr for the
+continuing smokers in the lowest quintile of baseline FEV1,
+and
+261
+6 63 ml/yr for those in the highest quintile (NS). For
+sustained and intermittent quitters, baseline FEV1 was not predictive
+of Year 1 to Year 5 changes in FEV1 (ml/yr), and baseline
+FEV1%pred was not as strongly related to changes in
+FEV1%pred in quitters as in continuing smokers (p 5 0.184
+for a test for interaction of FEV1%pred with smoking status).
+Effect of Methacholine Reactivity
+The role of methacholine reactivity in predicting changes in
+lung function has been reported in detail elsewhere (23). Methacholine
+reactivity was a strong determinant of the initial benefit
+of smoking cessation: quitters with the greatest degree of
+methacholine reactivity had the largest improvement in
+FEV1%pred at Year 1. Lung function declined throughout the
+study in continuing smokers and after Year 1 in sustained
+quitters. In both groups, the rate of decline was strongly related
+to degree of methacholine reactivity (greatest among the
+most responsive).
+Effect of Bronchodilator Responsiveness
+Among LHS participants, the mean increase in FEV1 after
+isoproterenol at baseline was 4.3 6 5.1%, or 111 6 130 ml. Despite
+this modest degree of bronchodilator responsiveness,
+there was a strong relationship between the degree of bronchodilator
+responsiveness and change in FEV1%pred from
+baseline to Year 1 both for continuing smokers and for sustained
+quitters (p , 0.001; Figure 3). Bronchodilator responsiveness
+was not predictive of change in FEV1%pred from
+Year 1 to Year 5 except in the intermittent quitter group (results
+not shown).
+Effect of Age
+Among quitters, the Year 1 improvement in FEV1%pred and
+FEV1 were greater in the youngest quintile compared with the
+oldest quintile (12.53 6 5.07 versus 11.32 6 5.77%pred; or
+170.4 6 189 versus 118 6 190 ml, p , 0.02 for either comparison;
+Figure 4A). Among continuing smokers, the decline in
+lung function during the first year was not related to age.
+From Year 1 to Year 5, older subjects who were either smokers
+or intermittent smokers had a slightly more rapid annual
+decline in lung function than did younger subjects in either
+group (p 5 0.002 for smokers; p 5 0.032 for intermittent smokers).
+This was not true among quitters (p 5 0.670; Figure 4B).
+Effect of Sex
+The role of sex in predicting changes in lung function will be
+reported separately (Owens, G. R., A. S. Buist, J. E. Connett,
+R. A. Wise, W. C. Bailey, and P. A. Lindgren, for the Lung
+Health Study Research Group. 1999. Changes in smoking status
+affect women more than men: results of the Lung Health
+Study. In preparation.) Women who became sustained quitters
+had an average improvement in Year 1 in FEV1%pred
+that was 2.5 times as great as the improvement in men. In contrast,
+women who continued to smoke had a proportionately
+greater annual decline in lung function than men with comparable
+smoking rates (21.08% pred for women versus 20.77%
+pred for men). These effects were closely related to the greater
+degree of methacholine reactivity observed in women and
+may be related to airway geometry and baseline lung function.
+Figure 2. Continuing smokers with the lowest baseline lung function had more rapid declines in FEV1% pred than those with the best lung
+function at baseline (p , 0.001).
+Effect of Race
+In the multivariate analysis, nonwhite subjects (4.2% of the total
+cohort) had a greater decline in FEV1%pred during Year 1
+than did white subjects (p 5 0.024; Table 3A). There was no
+difference in the rate of change in FEV1%pred between Year
+1 and Year 5 (p 5 0.64).
+Effect of Baseline Smoking Rate
+Among sustained quitters, in both SI-P and UC groups, lung
+function improved more in the first year for formerly heavy
+smokers (13.33 6 6.22% pred or 196 6 227 ml for the heaviest
+smoking quintile) than for light smokers (10.51 6 4.54%
+pred or 216 6 148 ml for the lightest smoking quintile, p 5
+0.001; Figure 5). Among continuing smokers the heaviest
+smokers had a greater decline than light smokers (21.23 6
+5.15% pred or 267 6 191 ml versus 20.54 6 5.49% pred or
+239 6 178 ml, p 5 0.028; Figure 5). Smoking mentholated cigarettes
+did not affect the rate of decline in lung function in
+Year 1 or between Year 1 and Year 5 (p 5 0.229 and 0.64, respectively,
+data not shown).
+From Year 1 to Year 5, the predictive value of baseline smoking
+rate persisted only among continuing smokers: heavier smokers
+at baseline had a more rapid rate of decline in lung function
+than did lighter smokers (p 5 0.016). This was not true
+among sustained quitters and intermittent quitters (data not
+shown).
+Lack of Predictive Value of Baseline
+Respiratory Symptoms
+Respiratory symptoms at baseline (cough, phlegm, wheezing
+of any degree, dyspnea; Table 1) were not predictive of changes
+in lung function, either alone or in combination with smoking
+cessation, when adjusted for age, sex, baseline lung function,
+methacholine reactivity, and baseline smoking rate.
+Multivariate Analysis
+The results of the multivariate analysis of the changes in
+FEV1%pred from baseline to Year 1 are shown in Table 3A.
+The strongest predictor of lung function at Year 1 is change in
+smoking status. Other significant predictors include baseline
+FEV1%pred, bronchodilator responsiveness, race, methacholine
+reactivity, randomization group, and age. There are nonlinear
+effects of baseline FEV1%pred and bronchodilator response;
+these are represented in the model by quadratic terms
+for these two variables. There are also interaction effects of
+both sex and methacholine reactivity with change in smoking
+status.
+The results of the multivariate analysis from Year 1 to Year
+5 are shown in Table 3B. The greatest predictor of Year 1 to
+Year 5 change is final smoking status, followed by methacholine
+reactivity, age, baseline FEV1%pred, and baseline smoking
+rate (Table 3B). Randomization group, bronchodilator responsiveness,
+race, and sex are not significant independent
+predictors. There were no nonlinear effects or interactive effects
+identified. The variables included in the multivariate
+equation account for 9.9% (i.e., R2 5 0.099) of the variability
+in decline in FEV1%pred between Year 1 and Year 5.
+DISCUSSION
+The major findings of this analysis of the effects of smoking
+cessation in smokers with mild-to-moderate COPD include
+the following: (1) among those who quit smoking, the annual
+rate of decline in FEV1 over 4 yr was half that observed among
+those who continued smoking (31 versus 62 ml/yr). This rate
+among quitters was comparable to published rates for decline
+in FEV1 in healthy never-smokers (28); (2) in addition to
+change in smoking status, the determinants of the degree of
+improvement in, or stabilization of, FEV1 included baseline
+lung function, baseline bronchodilator responsiveness, race,
+methacholine reactivity, randomization group, and age; (3)
+there was a small improvement in lung function for smokers
+who quit after smoking intervention; among quitters in the SIP
+group, the increase in FEV1 in the first year was 47 6 191 ml,
+or 2.0 6 5.5%pred. This represents a 96-ml or 2.74% improvement
+compared with continuing smokers; (4) participants with
+greater airway responsiveness improved more in the first year
+after smoking cessation than did those who were less responsive.
+Methacholine reactivity and bronchodilator responsiveness
+were both independently predictive of change in the first
+year. In subsequent years, the rate of decline in lung function
+was related to methacholine reactivity, but not to bronchodilator
+responsiveness; (5) lower initial lung function was predictive
+of greater benefit from quitting during the first year and,
+to a lesser degree, during subsequent years; (6) younger quitters
+benefited more than older quitters, but the effect of age
+was small (i.e., the benefit of quitting was large, regardless of
+age); (7) women had a proportionately larger improvement in
+the first year after quitting than did men; and women who continued
+to smoke had a greater loss of function in subsequent
+years than did men with comparable smoking rates; (8) heavy
+smokers benefited from smoking cessation more than did light
+smokers. In the multivariate analysis, this effect was strongly
+related to airway hyperresponsiveness; and (9) baseline respiratory
+symptoms did not predict change in lung function in either
+quitters or continuing smokers.
+The primary objectives of the LHS were to determine the
+effect of smoking cessation intervention and bronchodilator
+ing-
+related morbidity and mortality. The current analysis was
+performed to determine the effect of smoking cessation per se
+on lung function. Randomization into the LHS was according
+to intervention group, not smoking status, and so conclusions
+regarding pulmonary function in relation to smoking status
+should be considered with caution. The small differences in
+the baseline characteristics between the continuing smokers
+and the sustained quitters must be noted, but do not appear to
+have had an impact on the outcomes reported. The effect of
+randomization group on the Year 1 improvement in lung function
+is partly explained by differences in timing of smoking
+cessation and amount smoked at baseline. A quitting effect of
+comparable magnitude was observed among delayed quitters,
+reinforcing the impression that it is likely a real phenomenon.
+The effects of smoking and smoking cessation on lung function
+have been addressed by many studies. Cross-sectional data
+indicate lower levels of lung function in smokers, and prospective
+studies have demonstrated more rapid rates of decline
+among current cigarette smokers than among never-smokers.
+The annual decline in FEV1 in prospective studies ranges from
+19 to 52 ml/yr among nonsmokers; and from 34 to 79 ml/yr
+among heavy smokers (29). Smoking cessation results in a reduced
+rate of decline in lung function, which may approach
+that of never-smokers. An improvement in lung function after
+smoking cessation, such as that experienced by LHS participants,
+has been reported by only a few studies (30, 31).
+Strengths of the LHS include the prospective, interventional
+design, the large number of participants, the large proportion
+of women, the high rate of follow-up, the high rates of
+smoking cessation, the high quality of pulmonary function data,
+and the methacholine reactivity data. Because of these strengths,
+the data from the LHS can better define the effects of smoking
+cessation on lung function and predictors of those effects.
+The results of the Lung Health Study may be applicable to
+other populations of smokers, especially those with mild-tomoderate
+airflow obstruction. Among smokers without airflow
+obstruction, the effect of smoking cessation on lung function
+would likely be smaller. The LHS intervention program is
+unlikely to be reproduced in the current practice of smoking
+intervention because of cost constraints; nonetheless, the effects
+of actual smoking cessation, as evaluated by the current
+study, should be relevant to other smoking cessation interventions.
+Baseline lung function is a predictor of changes in lung
+function. FEV1%pred is strongly associated with methacholine
+reactivity and may serve as a partial surrogate for airway
+responsiveness. Since measurement of airway responsiveness
+is expensive and is often thought (wrongly) to be hazardous in
+persons with compromised lung function, it is rarely performed
+in patients with COPD. The LHS has shown that lung
+function can predict the benefit of smoking cessation or the
+harm of continued smoking for smokers with airflow obstruction.
+This reinforces the utility of spirometry for identifying
+smokers at risk of developing severe COPD.
+Figure 3. Subjects with the greatest bronchodilator response ranked by quintiles showed the greatest decline or least improvement at Year
+1 (p , 0.001 for both quitters and continuing smokers).
+Figure 4. (A) Baseline to Year 1; (B) Year 1 to Year 5. The youngest quitters ranked by quintiles had the greatest initial improvement (p 5
+0.014). The oldest continuing smokers had the greatest functional loss (p 5 0.0021). The benefit of smoking cessation was large for all
+ages.
+TABLE 3
+ESTIMATED EFFECTS OF SPECIFIED INCREMENTS IN COVARIATES
+AND INTERACTIONS: CHANGES IN FEV1 PERCENT PREDICTED*
+Definition of abbreviations: FEV1 5 forced expiratory volume in 1 s; meth 5 methacholine; SI-P 5 smoking intervention and placebo; UC 5
+usual care.
+Significance for Smoking Intervention
+In the LHS, smoking status was the most powerful predictor
+of decline in lung function in smokers with COPD. When
+smokers are counseled to quit smoking, they may rationalize
+their unwillingness or inability to quit by claiming that they
+are too old to benefit from quitting, that they smoke too heavily
+and cannot quit, or that they have already damaged their lungs
+irreparably. Similarly, in public policy, insurance payment criteria,
+and health care guidelines or programs, a nihilistic attitude
+exists that suggests that smoking cessation intervention is
+not worthwhile for older smokers or those with established
+smoking-related disease (32). The results of the LHS provide
+a strong counterargument to such attitudes. Heavy smokers
+stand to benefit the most if they quit and to lose the most if
+they continue smoking. Older smokers benefit nearly as much,
+in terms of improved rates of decline in function, as younger
+smokers. Smokers with the worst lung function deteriorate
+most rapidly if they continue smoking; therefore they benefit
+the most from smoking cessation.
+The LHS intervention program resulted in a high rate of
+sustained smoking cessation among heavy smokers. This is
+probably because of the intensity and duration of the program,
+along with the extended use of nicotine replacement
+therapy. Such intensive programs may be necessary for heavy
+smokers with compromised lung function. Analyses of the
+costs and benefits of such interventions are needed.
+Figure 5. The heaviest smokers ranked by quintiles had the largest improvement in the first year after quitting (p 5 0.001 compared with
+the lightest smoking quintile), and the largest functional loss during the first year if they continued smoking (p 5 0.028).

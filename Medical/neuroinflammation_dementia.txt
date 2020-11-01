@@ -1,0 +1,1109 @@
+Neuroinflammation in frontotemporal
+dementia
+Fiona Bright 1, Eryn L. Werry2, Carol Dobson- Stone3,4,5, Olivier Piguet3,6,7,
+Lars M. Ittner8, Glenda M. Halliday 3,4, John R. Hodges3,4,7, Matthew C. Kiernan3,4,9,
+Clement T. Loy10, Michael Kassiou2 and Jillian J. Kril 1*
+Abstract | Frontotemporal dementia (FTD) refers to a group of progressive neurodegenerative
+disorders with different pathological signatures, genetic variability and complex disease
+mechanisms, for which no effective treatments exist. Despite advances in understanding the
+underlying pathology of FTD, sensitive and specific fluid biomarkers for this disease are lacking.
+As in other types of dementia, mounting evidence suggests that neuroinflammation is involved in
+the progression of FTD, including cortical inflammation, microglial activation, astrogliosis and
+differential expression of inflammation- related proteins in the periphery. Furthermore, an overlap
+between FTD and autoimmune disease has been identified. The most substantial evidence,
+however, comes from genetic studies, and several FTD- related genes are also implicated in
+neuroinflammation. This Review discusses specific evidence of neuroinflammatory mechanisms
+in FTD and describes how advances in our understanding of these mechanisms, in FTD as well
+as in other neurodegenerative diseases, might facilitate the development and implementation
+of diagnostic tools and disease- modifying treatments for FTD.
+Frontotemporal dementia (FTD) refers to a group of
+initially focal but rapidly progressive neurodegenerative
+disorders. These disorders have a spectrum of clinical
+manifestations and different pathological signatures,
+genetic variability and complex disease mechanisms that
+are characterized by marked and progressive behavioural
+and/or language disturbances1–3. FTD has a slow and
+insidious onset and is typically diagnosed during middle
+age. Most affected individuals are aged 45–65 years; in this
+age-group, FTD is estimated to affect 10–15 individuals
+per 100,000 of the population4–6.
+Despite major advances in understanding the pathology
+associated with the different subtypes of FTD,
+effective treatments are currently lacking. Identification
+of relevant biomarkers enabling the accurate in vivo
+diagnosis of the underlying pathology also remains a
+challenge7. In addition, direct translation of preclinical
+findings from animal models to human clinical trials is
+an important issue in FTD8,9, as it is in other neurodegenerative
+diseases9,10. A growing body of evidence supports
+an important role of chronic neuroinflammation
+in neurodegenerative diseases. Moreover, as in other
+types of dementia, neuroinflammation and immunemediated
+mechanisms have been identified as major
+contributors to the pathological process of FTD11–14.
+Whether neuroinflammation is a primary or secondary
+event in the neurodegeneration associated with FTD
+and whether it has an overall beneficial or detrimental
+effect are hotly debated topics15–17. Competing hypotheses
+suggest that immune activation is an early cause,
+rather than a late consequence, of neurodegeneration18,
+or alternatively that the initial pathological insult (that
+is, aggregation and/or accumulation of amyloid- β, tau
+or TAR- DNA binding protein 43 (TDP43)) induces
+an ongoing cytotoxic response that results in secondary
+chronic neuroinflammation and altered neuronal
+function in brain regions specific to the disease phenotype17,19,20.
+In FTD, immune activation is likely to be
+triggered by the accumulation of, or dysregulation
+caused by, abnormal conformations of tau or TDP43,
+signals released by damaged neurons16 or dysregulation
+of the mechanisms for clearing misfolded or damaged
+neuronal proteins. Ultimately, these processes lead to
+neurodegeneration15,18,21,22. Different immune mechanisms
+are likely to be involved, innate as well as adaptive,
+depending on the stage of disease and its severity.
+Therefore, investigation of neuroinflammatory and
+immune- mediated mechanisms is a promising avenue
+of research into diagnostic biomarkers, novel treatment
+targets and disease- modifying therapies for FTD.
+This Review highlights the role of microglial phenotypes,
+the neuroinflammatory milieu and age- related
+glial changes in the neurodegeneration associated
+with FTD. We present evidence for the involvement of
+neuroinflammatory mechanisms in the pathogenesis of
+FTD, including an altered microglial phenotypic landscape
+and the link with autoimmunity, and describe the
+relationship between neuroinflammation and specific
+genetic mutations in FTD. Finally, we discuss the implications
+of this understanding of the neuroinflammatory
+mechanisms associated with FTD for facilitating the
+future development and implementation of diagnostic
+biomarkers and disease- modifying therapies.
+Neuroinflammation in neurodegeneration
+Although neuroinflammation is considered a pathological
+hallmark of neurodegenerative diseases23–25 and
+in consequence has been extensively reviewed17,18,23,26,
+it is notoriously difficult to define in this setting27.
+Neuroinflammation involves a dynamic multistage
+physiological response choreographed by reactive innate
+immune resident CNS glial cells (predominantly microglia
+and astrocytes) (Fig. 1) and accompanied by a complex
+cascade of pro- inflammatory factors that modify
+the CNS microenvironment. Neuroinflammation is typically
+triggered by potentially cell- damaging processes
+such as infections, toxins, autoimmunity and alterations
+in neuronal activity. The initial CNS protective response
+to injury involves the activation of microglial pattern
+recognition
+receptors, including Toll-like receptors and
+their ligands (pathogen- associated molecular patterns
+and danger- associated molecular patterns)28,29. This
+response is tightly controlled and relatively self- limiting
+compared with inflammatory processes occurring in
+the periphery,
+owing to bidirectional communication
+between the CNS and the (central and peripheral)
+immune system, which ensures the maintenance of
+neural homeostasis22,30,31.
+However, uncontrolled or
+chronic neuroinflammation
+and prolonged activation
+of microglial cells result in excessive and dysregulated
+production of pro-inflammatory factors, including
+C-reactive protein, cytokines and chemokines32,33.
+These factors prohibit neuronal repair, resulting in
+synaptic impairment, oxidative damage and mitochondrial
+dysfunction, which in turn lead to neurodegeneration32,34–
+36. Furthermore, chronic neuroinflammation
+results in disruption of the blood–brain barrier37,38,
+which can itself initiate neurodegenerative mechanisms
+(reviewed elsewhere39,40).
+Given the absence of effective therapeutic and
+curative agents in FTD, targeting pathways such as
+neuroinflammation
+is a promising research trajectory.
+Although immune- mediated mechanisms of neuroinflammation
+have been investigated in ageing and in
+other neurodegenerative
+diseases (including Alzheimer
+disease (AD), Parkinson disease and amyotrophic lateral
+sclerosis (ALS)), they are yet to be fully explored in FTD.
+Several lines of evidence implicate these mechanisms
+in FTD- related neurodegeneration: increased microglial
+activation in frontal and temporal cortices41–43,
+astrogliosis44,45 and extensive evidence of abnormal
+expression of pro- inflammatory and anti- inflammatory
+factors in cerebrospinal fluid (CSF), blood and serum
+(Table 1); evidence of similarities between FTD and
+autoimmunity13,14,46;
+and associations between immunerelated
+gene variants and susceptibility to FTD11,12. These
+links are discussed below.
+Key points
+• Neuroinflammation is a major contributor to the pathogenic process in
+frontotemporal dementia (FTD).
+• Exploration of neuroinflammatory pathways, immune- mediated mechanisms and the
+use of immunomodulation as a disease- modification strategy are promising research
+directions in this setting.
+• Growing understanding of the complexity of microglial subpopulations provides an
+opportunity to explore the phenotypic landscape of microglia- driven
+neuroinflammation in FTD.
+• Replication and validation of previous studies in human FTD using appropriate
+controls, independent cohorts and quantitative methods is pivotal for the
+identification of new treatment targets and drug and biomarker candidates.
+• More knowledge is required on the context (cell type, timing of assessment and
+disease stage) of FTD- related gene effects on neuroinflammation.
+• A combination of clinical biomarker discovery and studies of patients with FTD
+carrying mutations that target a specific protein or underlying pathology will be
+essential in future investigations.
+Microglia
+Microglia constitute the major pool of CNS- resident
+immune cells and require continuous instructive signalling
+to maintain their phenotypes47. As microglia adapt
+quickly, heterogeneous populations of microglia inevitably
+coexist throughout the CNS. Even under steady
+state conditions, regional diversity is evident and, during
+disease, infections and ageing, this heterogeneity
+is compounded
+by the emergence of several distinct functional
+phenotypes48,49 (Fig. 1). Some microglial phenotypes
+have protective functions such as maintaining homeostasis,
+regulating synaptogenesis and refining synapses50.
+Other microglial phenotypes have potentially
+harmful (pro-inflammatory) functions, and some might
+even combine protective and harmful actions (Box 1).
+Accordingly, an in-depth understanding of the different
+microglial phenotypes in brain regions affected by
+neurodegeneration is required before treatments can be
+designed that limit any deleterious effects of microglia
+in neurodegenerative diseases without impairing their
+beneficial functions.
+Translocator protein (TSPO) is a marker for inflammatory
+glia51,52, and in vivo PET imaging with the
+TSPO ligand 11C- PK11195 identified the presence of
+inflammatory glia in frontotemporal brain regions of
+patients with FTD41. These patients had atrophy predominantly
+in the left hemisphere, but 11C- PK11195
+signals were found in the frontotemporal regions of
+both hemispheres, suggesting that this increase in
+inflammatory glia occurs before marked atrophy41. Of
+note, upregulated expression of TSPO is often (but not
+always53) observed in conjunction with increased levels
+of pro- inflammatory cytokines. Debate also continues
+about which glial phenotype(s) are identified by TSPO
+PET ligands54–56.
+Fig. 1 | Neuroinflammation and immune-mediated mechanisms in FTD.
+Several lines of evidence indicate an important role for neuroinflammation and
+immune- mediated mechanisms in the progression of frontotemporal
+dememtia (FTD). a | An altered glial phenotypic landscape, cortical
+inflammation, microglial activation and dystrophy and astrogliosis develops in
+the frontal and temporal cortices. b | Age- related glial changes result
+in upregulation of microglial regulatory genes, increased pro- inflammatory
+markers and decreased anti- inflammatory markers. c | HL A loci and immune
+system involvement are associated with the development of FTD and with
+the increased prevalence of nonthyroid autoimmune disorders in FTD, and
+highlight a shared genetic risk between FTD and immune- mediated diseases.
+d | Dysregulated expression and infiltration of key pro- inflammatory and antiinflammatory
+cytokines and chemokines occurs in the periphery in FTD.
+e | FTD- causative mutations have been identified in several genes involved in
+neuroinflammation, and might actively drive disease in FTD. f | The clinical and
+pathological spectrum of FTD subtypes, including those already identified to
+possess a potentially unique immune signature (highlighted in green) and
+those yet to be investigated. The current knowledge of neuroinflammatory
+mechanisms in FTD, as presented here, provides a basis to facilitate the
+development and implementation of diagnostic tools and disease- modifying
+treatments in FTD and highlights the need for further understanding of the
+underlying associated molecular pathomechanisms. AD, Alzheimer disease;
+BBB, blood–brain barrier ; bvFTD, behavioural variant FTD; CSF, cerebrospinal
+fluid; C9orf72, chromosome 9 open reading frame 72; FasL, Fas ligand;
+FTLD- FUS, frontotemporal lobar degeneration with fused in sarcoma;
+FTLD- ni, frontotemporal lobar degeneration with no inclusions; FTLDtau,
+frontotemporal lobar degeneration with tau inclusions; FTLD- TDP,
+frontotemporal lobar degeneration with TAR- DNA binding protein 43
+inclusions; GRN, progranulin; IP-10, interferon- γ-induced protein 10; lvPPA ,
+logopenic variant primary progressive aphasia; MAPT, microtubule- associated
+protein tau; MCP-1, monocyte chemoattractant protein 1; nfvPPA , nonfluent
+variant primary progressive aphasia; PPA , primary progressive aphasia;
+RANTES, regulated on activation, normal T cell expressed and secreted; svPPA ,
+semantic variant primary progressive aphasia; TBK1, tank binding kinase 1; TNF,
+tumour necrosis factor ; TRAILR3, TNF- related apoptosis- inducing ligand
+decoy receptor ; TREM2, triggering receptor expressed on myeloid cells 2.
+A small number of studies have used immunohistochemistry
+studies of FTD brain tissue to identify the
+presence of activated microglia in disease- relevant
+areas42,45,57–59. In addition, these studies provide evidence
+that at least some activated microglia are phagocytic, as
+indexed by CD68+ staining, a commonly used marker
+of phagocytic microglia. This marker, however, also
+identifies macrophages42,45,57–59. Immunohistochemistry
+studies revealed a subset of CD68+ cells clustered around
+blood vessels in the hippocampus in brain tissue from
+a patient with FTD associated with the P301S mutation
+of microtubule- associated protein tau (encoded by
+MAPT)58. This perivascular location suggests that some
+of these CD68+ cells were infiltrating macrophages.
+Further studies using cell markers that can distinguish
+infiltrating macrophages from microglia, such as transmembrane
+protein-119 (refs60,61), are needed to understand
+what proportion (if any) of the CD68+ cells in FTD
+brain tissue are infiltrating macrophages.
+Another immunohistochemical study of brain tissue
+from a patient with FTD caused by a mutation in
+GRN (which encodes progranulin) suggests that phenotypic
+changes in microglia might differ between brain
+regions57. As well as CD68 positivity, this study looked
+for IBA1 (ionized calcium- binding adapter molecule,
+also known as allograft inflammatory factor 1) expression,
+which is upregulated on activated microglia. More
+CD68+ cells were found in white matter than in grey
+matter in most regions, and many more IBA1+ microglia
+were found in frontal and temporal white matter
+than in grey matter. Adding to this complexity, in the
+frontal lobe, amoeboid microglia were predominantly
+found in grey matter whereas dystrophic or senescent
+microglia were predominantly found in white matter
+around hyperintensities. Although this study involved
+only one patient, the results suggest that the phenotype
+of microglia in FTD differs in white versus grey matter.
+Several studies have used ‘omic’ techniques to investigate
+whether the subpopulations of microglia associated
+with FTD differ from those linked to other neurodegenerative
+diseases. A proteomic study of frontal cortex tissue
+from patients with FTD identified an RNA- binding
+protein- related module that was enriched for microglial
+proteins and correlated with TDP43 burden in patients
+with FTD and in those with both FTD and ALS62, but not
+in patients with AD (in a previous study conducted by
+the same researchers). This observation suggests a relationship
+between FTD- related microglial phenotypes
+and RNA- binding protein dysfunction. Furthermore, a
+module enriched for inflammatory proteins was markedly
+upregulated in individuals with FTD compared
+with patients with ALS or control individuals62. These
+proteins were expressed in both microglia and astrocytes
+(Fig. 1), suggesting that these two glial subtypes contribute
+to neuroinflammation in FTD.
+A separate omics study used RNA sequencing to
+investigate the transcriptome of single cells bearing the
+myeloid marker CD11b obtained from the hippocampus
+of Mapt- transgenic mice that express P301S mutant tau,
+which is associated with FTD. These cells overexpressed
+various neurodegeneration- related genes, many of
+which were associated with the plasma membrane and
+the extracellular space63. This finding might indicate that
+microglia in this tauopathy interact with their surroundings
+differently to Mapt wild- type microglia. CD11b+
+cells from transgenic mice carrying another FTD-linked
+Mapt mutation (encoding P301L mutant tau) also showed
+upregulation of the same neurodegeneration-related
+genes, but to a lesser extent63.
+Although much remains to be learned, the above
+studies clearly show that the altered glial function in
+FTD is characterized by upregulation of heterogeneous
+populations of dystrophic and activated microglia, some
+of which express neurodegeneration-related genes and
+genes linked to dysfunction of RNA-binding proteins.
+However, these studies are also beginning to show that the
+phenotypic landscape of microglia in FTD differs from
+that in other neurodegenerative diseases, differs between
+subtypes of FTD (that is, between FTD with ALS and
+FTD alone, and between P301S- tau versus P301L-tau)
+and can even differ between white and grey matter from
+the same individual.
+Autoimmunity
+The link between autoimmunity and FTD (Fig. 1) remains
+poorly understood and is yet to be fully explored.
+However, an extensive evaluation of published data on
+immune homeostasis in FTD has expanded the range
+of potential therapeutic targets in autoimmune- related
+neurodegeneration46.
+The types of inflammatory immune responses involved
+in autoimmune disorders differ from those involved
+in neurodegenerative diseases; autoimmune disorders
+generally involve adaptive immunity, whereas neurodegenerative
+diseases primarily involve innate immunity.
+Although it is important to distinguish between these
+two types of autoimmunity, questions have arisen as
+to whether autoimmune disorders and neurodegenerative
+diseases differ in both aetiology and pathology,
+or have similar pathology (and progression) despite
+their differing aetiology64. Autoimmune and neurodegenerative
+disorders might even belong to the same
+disease spectrum, given their considerable overlap65.
+Indeed, a report from 2018 showed for the first time
+that biomarkers of neurodegeneration originating in
+the CNS mirrored the clinical (and probably also the
+neuroimmunological) course of patients with autoimmune
+encephalitis (AIE) associated with antibodies
+to extracellular epitopes66. Moreover, pathological studies
+combined with structural MRI and functional PET
+neuroimaging have shown that frontal and temporal
+cortices are specifically involved in patients with AIE67.
+A direct correlation between neurodegeneration and
+AIE was observed, with a surprising link between the
+presence of anti- IgLON5 antibodies (which are directed
+against a neural cell surface adhesion molecule) and
+widespread accumulation of hyperphosphorylated tau
+and TDP43 inclusions in two patients at postmortem
+brain examination68.
+Table 1 | Fluid biomarkers of inflammation associated with FTD
+AD, Alzheimer disease; ALS, amyotrophic lateral sclerosis; bvFTD, behavioural variant frontotemporal dementia; CSF, cerebrospinal fluid; CTL A4, cytotoxic
+T lymphocyte antigen 4; DLB, dementia with Lewy bodies; ELISA , enzyme- linked immunosorbent assay ; FasL, Fas ligand; FTD, frontotemporal dementia; FTLD,
+frontotemporal lobar degeneration; FTLD- tau, frontotemporal lobar degeneration with tau inclusions; FTLD- TDP, frontotemporal lobar degeneration with TAR- DNA
+binding protein 43 inclusions; IP-10, interferon- γ-induced protein 10; MCP-1, monocyte chemoattractant protein 1; MS, mass spectrometry ; PBMC, peripheral blood
+mononuclear cell; PD, Parkinson disease; PNFA , progressive nonfluent aphasia; RANTES, regulated on activation normal T cell expressed and secreted; SD, semantic
+dementia; SMC, subjective memory complaints; svPPA , semantic variant primary progressive aphasia; TNF, tumour necrosis factor ; TRAILR3, TNF- related
+apoptosis-inducing ligand decoy receptor.
+Similarly, one patient with early- onset FTD was
+found to have autoantibodies to glutamate receptor 3
+(GLUR3). Although this patient’s symptoms did not
+respond to steroid treatment and their CSF and serum
+both remained positive for anti- GLUR3 peptide A and
+anti- GLUR3 peptide B antibodies at 3 months follow- up,
+the patient had frontotemporal lobar atrophy on MRI
+and, therefore, might represent the first reported case of
+FTD caused by dysregulation of the immune system69.
+This finding was supported by a larger clinical
+series by
+the same investigators who reported further evidence
+of an autoimmune aetiology (that is, increased levels of
+anti-GLUR3 antibodies) in 41 of 175 (23.4%) serum
+samples from patients with FTD. The same autoantibodies
+were detected in the CSF in 15 of the 69 (21.7%)
+patients for whom CSF samples were available70.
+A report published in 2018 described a patient with
+subacute onset of behavioural variant FTD associated
+with elevated levels of antibodies targeting P/Q- type and
+N- type calcium channels71. This patient had imaging
+and neuropsychological results consistent with FTD,
+but therapeutic plasma exchange resulted in a rapid
+improvement in his FTD symptoms, suggesting that
+they had a treatable paraneoplastic antibody cause. The
+link with increased autoantibody titres might not be
+isolated to a few patients with FTD, as a broad immunological
+screen of 100 patients with sporadic FTD found a
+much higher frequency of antinuclear autoantibodies in
+these patients than in 100 healthy controls (60% versus
+13%)72. Although these findings require further investigation
+and validation, the presence of autoantibodies in
+patients with sporadic FTD seems worthy of investigation.
+Further studies are required to determine whether these
+autoantibodies contribute to the pathogenesis of FTD in
+some patients or are a secondary epiphenomenon due to
+neuronal damage.
+Parallels between FTD and autoimmune disease
+can also be drawn from genetic studies (as discussed in
+detail below), including a notable enrichment of FTDassociated
+genetic variants in multiple autoimmune
+disorders12. Furthermore, serum levels of progranulin
+are prominently upregulated in patients with various
+autoimmune diseases73–76, as reviewed elsewhere77. This
+observation is important given that mutations in GRN
+have been identified as a major cause of familial FTD.
+Genome- wide analyses conducted by an international
+consortium have strongly implicated immune pathways
+in the pathogenesis of frontotemporal lobar degeneration
+with neuronal inclusions of TDP43 (FTLD- TDP)78.
+Indeed, a correlation between autoimmune disease and
+TDP43-mediated neurodegeneration was also reported
+by another group13. In this study, a greatly increased
+risk of autoimmune disorders (especially inflammatory
+arthritides, cutaneous disorders and gastrointestinal
+conditions) was reported in patients with the semantic
+variant of FTD or with FTD and GRN mutations. These
+patients also had increased levels of tumour necrosis
+factor (TNF), which might represent a unique pattern
+of systemic inflammation in these patients. In a second
+study by these same investigators, rates of a similar
+cluster of nonthyroid autoimmune disorders79 were
+higher in patients with FTD — symptomatic carriers of
+C9orf72 (chromosome 9 open reading frame 72) repeat
+expansions and patients with combined FTD and ALS
+(FTD- ALS) — versus non- FTD controls (12% versus 4%)14.
+C9orf72 forms a heterodimer with guanine nucleotide
+exchange protein SMCR8, and ablation of SMCR8 in
+mice leads to splenomegaly and autoimmune phenotypes
+similar to those observed in mice with C9orf72
+deficiency80. This result might explain the increase in
+prevalence of autoimmune disease in patients with
+C9orf72 repeat expansions14.
+These observations provide further evidence that
+specific presentations of autoimmune inflammation are
+intrinsically linked to TDP43 pathophysiology in FTD,
+as previously suggested79. Not all studies support this
+contention, however. A study from Finland published
+in 2018 found no specific association of TDP43 pathophysiology
+with autoimmune disease81. Instead, the
+researchers described an increased prevalence of autoimmune
+diseases in patients with FTD without the
+C9orf72 expansion compared with their counterparts
+who did have the C9orf72 expansion (18.8% versus
+10.7%, respectively), which suggested that C9orf72
+expansion influences immunological pathways. Despite
+these contradictions, the results of these studies collectively
+indicate a contribution of autoimmunity to FTD,
+with the potential for the use of disease- modifying
+immunomodulatory therapies in the future82. Further
+research is required to replicate and validate these
+findings in large, well- defined cohorts of patients with
+pathologically confirmed FTD.
+Genetics
+The most substantial evidence to date for a role of immunemediated
+mechanisms in FTD comes from genetic
+studies that have identified FTD- causative mutations or
+FTD- associated polymorphisms in genes that are also
+implicated in neuroinflammation11,12. In this section we
+detail the specific genes involved in neuroinflammation
+in FTD and discuss the implications of this evidence for
+future treatment targets and disease-modifying therapies
+for patients with FTD.
+FTD has a considerable genetic component; 35–65%
+of patients with familial FTD have genetic abnormalities
+in C9orf72, MAPT or GRN83 that cause autosomal
+dominant FTD. A small proportion of people with
+familial FTD carry mutations in other genes, including
+TBK1 (which encodes serine/threonine- protein kinase
+TBK1)83–85, although the relatively small number of such
+patients means that the penetrance and mode of inheritance
+of these variants has not been fully established.
+Lastly, variants in FTD susceptibility genes, including
+TREM2 (which encodes triggering receptor expressed
+on myeloid cells 2 (TREM2))86, do not usually cause
+disease, although they increase an individual’s risk of
+developing FTD. Several of these genes have also been
+implicated in neuroinflammation (Fig. 1; Table 2), which
+indicates that neuroinflammation might contribute
+directly to the disease process in FTD rather than being
+secondary to neurodegeneration. The evidence supporting
+a neuroinflammatory role of the products of some of
+these genes is outlined below.
+Progranulin. Heterozygous mutations in GRN were identified
+as a major cause of familial FTD in 2006. Almost all
+FTD-associated GRN mutations are predicted to lead to
+nonsense-mediated decay of the progranulin transcript,
+indicating that GRN haploinsufficiency is the primary
+pathogenic mechanism87,88. Of note, homozygous GRN
+mutations cause recessive adult-onset neuronal
+ceroid
+lipofuscinosis, a lysosomal storage disease characterized
+by epilepsy, ataxia and cognitive deterioration89,90,
+in which neuroinflammation is a prominent feature91.
+Progranulin also functions as a neurotrophic factor92–94.
+These lysosomal storage and neurotrophic functions
+of progranulin might or might not be involved in the
+pathogenesis of neuroinflammation in FTD.
+Progranulin is secreted by leukocytes95 and, in the
+CNS, is significantly upregulated in microglia in diverse
+mouse models of neuronal injury96–98. Studies of Grn−/−
+mice indicate that progranulin deficiency leads to
+excessive accumulation of activated microglia at the site
+of injury98. These microglia secrete increased amounts of
+pro-inflammatory cytokines and are more neurotoxic
+than wild- type microglia99,100. Conversely, mice with
+overexpression of Grn show a reduction in microglial
+recruitment after nerve injury101. In addition to differences
+in the acute immune response to injury, Grn−/−
+mice show chronic upregulation of innate immunity and
+complement protein expression, which increases with
+age102. Deletion of C1qa (which encodes complement
+C1q subcomponent subunit A) in Grn−/− mice resulted in
+reduced behavioural deficits and neuronal cell loss and
+increased survival102. These findings indicate that aberrant
+microglial activation or phagocytosis is a primary
+driver of neurodegeneration in mice with progranulin
+deficiency, at least in this mouse model.
+Caution is needed in interpreting the results of
+Grn−/− (homozygous knockout) mouse studies, as they
+do not match the effects of GRN haploinsufficiency
+in patients with GRN mutations. Indeed, a study of
+Grn+/− (heterozygous knockout) mice found no gliosis
+or neuroinflammation, although they showed similar
+deficits in social and emotional function to their Grn−/−
+counterparts103. However, some evidence supports dysregulation
+of inflammation in patients heterozygous for
+GRN mutations, albeit in studies with small sample sizes.
+Symptomatic GRN mutation carriers show altered levels
+of pro- inflammatory cytokines in serum and CSF104,105,
+as well as increased expression of inflammatory genes in
+leukocytes106, compared to both presymptomatic GRN
+mutation carriers and mutation- negative controls.
+The role of progranulin in neuroinflammation is
+complex. The full-length protein is processed into
+seven granulin peptides, which are themselves bioactive.
+Progranulin (formerly called proepithelin) and
+its constituent peptides have long been known to have
+opposing effects on inflammation in wound repair —
+granulin B increases secretion of pro- inflammatory
+IL-8, which recruits neutrophils to wound sites,
+whereas progranulin blocks the TNF- induced respiratory
+burst in neutrophils107. In the CNS, progranulin
+acts as a chemoattractant for microglia and promotes
+the neuronal secretion of interleukins that induce differentiation
+of microglia into an anti- inflammatory
+phenotype108. In addition, inflammatory stimuli differentially
+regulate progranulin in astrocytes and microglia;
+pro- inflammatory cytokines suppress expression of
+progranulin in microglia but stimulate its production in
+astrocytes109.
+Chromosome 9 open reading frame 72. An intronic hexanucleotide
+repeat expansion in C9orf72 was identified
+in 2011 as the most common genetic cause of FTD and
+ALS110,111. Three hypotheses address how this expansion
+might cause disease: first, that downregulation of gene
+expression leads to haploinsufficiency of C9orf72; second,
+that RNA- mediated toxicity results from sequestering
+of RNA- binding proteins by sense and antisense
+RNA transcripts; and third, that dipeptide- repeat protein
+toxicity results from repeat- associated non- AUG codon
+translation of these transcripts112.
+The function of the C9orf72 protein is not yet known.
+However, a potential role of this protein in neuroinflammation
+is suggested by studies in C9orf72−/− mice.
+Unlike in Caenorhabditis elegans113 and zebrafish114,
+C9orf72 deficiency in mice does not lead to neurodegeneration.
+However, C9orf72−/− mice showed a systemic
+pro- inflammatory state that resulted in severe autoimmune
+disease in some strains115–118. These C9orf72−/− mice
+also showed mild neuroinflammation characterized by
+increased expression of pro- inflammatory IL-6 and
+IL-1β in microglia and by upregulation of inflammationrelated
+genes in the spinal cord116. Transgenic mice
+that expressed just the poly-(Gly–Ala) dipeptide
+repeat from C9orf72 showed regional microglial activation
+as well as motor deficits in the absence of overt
+neuronal loss119. Other transgenic mouse models of
+C9orf72 repeat expansion show neurodegeneration
+with variable levels of neuroinflammation120–123. Taken
+together, these results suggest that the pro- inflammatory
+sufficient
+to cause neurodegeneration but might exacerbate
+neuronal loss in the context of RNA-mediated
+(or dipeptide- mediated) toxicity.
+Few studies to date have examined neuroinflammation
+in human C9orf72 repeat expansion carriers.
+Postmortem studies of brain tissue from patients with
+ALS found more extensive microglial pathology in
+the motor cortex and medulla59 and higher expression
+of astrocytic and microglial proteins in the frontal cortex of
+C9orf72 expansion carriers than in individuals without
+the C9orf72 expansion62.
+Serine/threonine- protein kinase TBK1. TBK1 is a ubiquitously
+expressed serine/threonine kinase with an
+established role in inflammation124. This kinase activates
+the transcription factors interferon regulatory factor 3
+(IRF3) and IRF7 after infection, leading to increased
+expression of antiviral type I and type III interferons125,126.
+TBK1 can also activate nuclear factor- κB (NF- κB)
+in response to TNF127. In 2015, mutations in TBK1
+were identified as a cause of ALS and FTD84,85. Loss- offunction,
+missense and in- frame deletion variants
+have all been identified in patients with FTD and ALS
+(reviewed elsewhere128). TBK1 gene duplications are also
+linked to glaucoma129–131 and TBK1 missense mutations
+are linked to childhood herpes simplex encephalitis132,
+two diseases with a strong neuroinflammatory
+component.
+In the CNS, a kinase-inactive mutant of TBK1
+impairs Toll-like receptor 3-dependent production of
+interferons, thereby leading to development of herpes
+simplex encephalitis after viral infection132. In addition,
+TBK1 regulates T cell activation and migration into the
+CNS in a mouse model of neuroinflammation133.
+Table 2 | FTD causative and susceptibility gene variants and their influence on immune processes
+C9orf72, chromosome 9 open reading frame 72; CSF cerebrospinal fluid; FTD, frontotemporal dementia; IFN, interferon; Ikβ, nuclear factor- κB (NF- κB) inhibitor ;
+NA , not applicable; NLRP3, NOD-, LRR- and pyrin domain- containing 3; NR , not reported; TNF, tumour necrosis factor.
+TBK1 mutations might influence the pathogenesis of
+FTD principally via the involvement of TBK1 in autophagy,
+the process that targets pathogens and unwanted
+cytosolic components for lysosomal degradation.
+Mutations in OPTN (encoding optineurin) and SQSTM1
+(encoding sequestosome 1), with both proteins being
+autophagy receptors, are established causes of FTD and
+ALS134–137. TBK1 promotes autophagy via phosphorylating
+optineurin and sequestosome 1, thereby enhancing
+their ubiquitin- binding abilities138,139. A TBK1 mutation
+resulting in an in- frame 24 amino acid deletion identified
+in an extended family affected by FTD- ALS has no
+apparent effect on phosphorylation of IRF3 or induction
+of IFNβ but severely reduces the interaction of TBK1
+with optineurin, which implies that this latter effect is
+sufficient to cause disease85.
+Triggering receptor expressed on myeloid cells 2. TREM2
+is a transmembrane protein that has a secreted extracellular
+immunoglobulin-like ectodomain (sTREM2)140
+and is expressed exclusively in myeloid cells such
+as dendritic cells, macrophages and microglia141.
+Extensive literature links TREM2 polymorphisms to
+inflammation and neuroinflammation (reviewed elsewhere142,143).
+In vivo neuroinflammatory triggers, such as
+experimental traumatic brain injury and stroke, lead to
+increased expression of TREM2 (refs144–146). Interaction
+of TREM2 with its intracellular partner TYRO protein
+tyrosine kinase-binding protein (TYROBP) promotes
+microglial activation, survival, chemotaxis and
+phagocytosis144,147–150.
+TREM2 variants have been associated with several
+neurodegenerative diseases. Homozygous or compound
+heterozygous mutations in TREM2 and TYROBP were
+initially identified to cause polycystic lipomembranous
+osteodysplasia with sclerosing leukoencephalopathy
+(also known as Nasu–Hakola disease)151, which
+is characterized by early- onset adult dementia and bone
+cysts152. However, although Trem2 loss is associated
+with increased plaque burden in mouse models of AD,
+TYROBP mutation- positive patients with Nasu–Hakola
+disease do not develop AD pathology153 and the mechanisms
+by which TREM2 mutations influence amyloid- β
+deposition remain unclear154. Nonsense or missense
+mutations in one or both TREM2 alleles have been
+identified in several families with FTD without bone
+involvement155–157. Meta- analyses of gene- association
+studies in patients with sporadic disease indicate that the
+rs75932628 variant of TREM2 (which contains a R47H
+amino acid substitution) confers approximately 2.7-fold
+and 2.4-fold increases in the risk of developing AD and
+FTD, respectively86,158.
+The role of TREM2 in neuroinflammation is complex.
+Both pro- inflammatory and anti- inflammatory
+effects of TREM2 and its missense variants have been
+observed, depending on cell type, context, and the
+strength and duration of the inflammatory stimuli142.
+Lentiviral knockdown of Trem2 in the microglia of
+juvenile
+transgenic mice bearing the P301S variant
+of Mapt led to the increased production of inflammatory
+cytokines and increased cognitive deficits159, whereas
+global knockout of Trem2 in the same mouse model
+resulted in considerable reductions in brain atrophy,
+inflammatory cytokine levels, microgliosis and astrogliosis160.
+Similarly, global knock- in of a Trem2 missense
+mutation resulting in a T66M amino acid substitution,
+which can lead to FTD- like syndromes, led to hyporesponsive
+microglia, reduced phagocytosis and slowed
+resolution of neuroinflammation after intraperitoneal
+injection of lipopolysaccharide161.
+Large- scale genetic studies. Further genetic evidence
+of a link between FTD and neuroinflammation is provided
+by genome- wide association studies (GWAS).
+In 2014, a GWAS identified an association between the
+HLA locus and FTD11, which suggested that immune
+system processes are involved in the development
+of FTD. Summary data from this and other GWAS
+revealed a considerable enrichment of FTD- associated
+genetic variants in rheumatoid arthritis, ulcerative colitis,
+type I diabetes and coeliac disease, suggestive of a
+genetic overlap between FTD and these autoimmune
+diseases12. This genetic overlap included several independent
+associations within the HLA region, as well as
+single- nucleotide polymorphisms near MAPT and five
+novel loci. The HLA genes showed increased expression
+in microglia and markedly higher expression in
+FTD brain tissue than in tissue from healthy control
+individuals;
+the highest expression was seen in GRN
+mutation carriers12. In the largest cohort of unrelated
+patients with FTLD-TDP assembled to date, genomewide
+analyses identified novel risk loci that strongly
+implicated immune pathways in the pathogenesis of
+FTLD- TDP78. Taken together, these studies suggest a
+critical role for microglia- associated and inflammationassociated
+genes in the mechanisms that drive FTD
+progression.
+Inflammation- related biomarkers
+Many potential imaging and fluid biomarkers for FTD
+have been proposed35,162,163. Although neuroimaging
+studies have shown great potential164, the relatively high
+cost of these studies means that identification of fluid
+biomarkers is often preferable. Here, we focus specifically
+on potential immune- related and inflammation- related
+fluid biomarkers for FTD.
+Gene- specific biomarkers
+Measurement of serum progranulin levels shows high
+specificity and sensitivity for distinguishing patients
+with FTD associated with GRN mutations from
+those with other FTD subtypes and cognitively normal
+control individuals165–168. Furthermore, CSF progranulin
+levels might distinguish between FTD subtypes as
+lower levels are found in patients with semantic variant
+primary progressive aphasia (PPA) and patients with
+behavioural variant FTD than in those with nonfluent
+variant PPA169. Strategies that increase progranulin levels
+have also been investigated as a treatment for FTD
+(reviewed elsewhere170). Current approaches include
+increasing GRN expression171,172, inhibiting progranulin
+endocytosis173 and administration of a synthetic multigranulin
+peptide with high anti- inflammatory activity174.
+However, these approaches might only benefit patients
+with FTD and GRN haploinsufficiency.
+CSF levels of soluble TREM2 have been suggested as
+a marker of microglial activation in patients with FTD,
+although more studies are necessary to explore why
+decreased CSF levels of sTREM2 are positively correlated
+with CSF total tau levels175, particularly as sTREM2
+levels are also influenced by age and disease duration175.
+In one study, CSF levels of sTREM2 did not differ between
+patients with FTD and cognitively normal controls, or
+between clinical FTD subgroups, although GRN mutation
+carriers had higher CSF concentrations of sTREM2
+than did MAPT mutation or C9orf72 expansion carriers
+and controls57. The investigators suggested that sTREM2
+was a feasible biomarker of disease severity in longitudinal
+studies of patients with FTD175. Further investigation
+and validation of these findings in large cohorts
+of patients with pathologically confirmed disease is
+required, given the small number of individuals studied
+to date. Studies of presymptomatic individuals at risk of
+developing familial FTD would determine whether CSF
+levels of sTREM2 increase before symptom onset or only
+with disease progression.
+Potential disease subtype biomarkers
+The growing link between the systemic immune
+environment and brain function, as well as mounting
+evidence that inflammatory markers are dysregulated
+in patients with FTD, suggests that the composition of
+inflammatory markers in blood and CSF is related to
+brain health. Fluid biomarkers for regional and cellular
+pathology are being developed, and inflammatory
+and immune profiles are being investigated as potential
+therapeutic targets in FTD. Indeed, multiple studies have
+reported changes in inflammatory markers in blood,
+serum and CSF in FTD subtypes (Table 1), which suggests
+that altered inflammatory factors have an important
+role in the pathogenesis of FTD. These biomarkers
+include some of the most important pro- inflammatory
+and anti- inflammatory cytokines, chemokines and
+secondary messengers that coordinate the immune
+response through regulation of innate immune cells and
+adaptive immunocytes in the periphery30,176.
+Although many of these inflammatory markers are
+not specific to FTD (altered expression of these same
+markers is also found in other neurodegenerative
+diseases such as AD), they could provide further evidence
+of an inflammatory component to FTD and have
+the potential to inform biomarker discovery among
+FTD subtypes. For example, levels of multiple CSF
+analytes differ between FTLD- tau and FTLD- TDP,
+including Fas (also known as TNF receptor superfamily
+member 6) ligand and the pro- inflammatory chemokines
+IL-23 and IL-17 (ref.177). Increased expression of
+the apoptosis- mediating surface antigen Fas in FTLDTDP
+suggests that Fas- induced apoptosis is associated
+with TDP43 deposition. The IL-23 pathway drives differentiation
+of naive T cells into IL-17-releasing type 17
+helper T cells. Levels of both cytokines were altered
+in patients with FTD compared with healthy controls,
+and IL-23 and IL-17 levels were lower in FTLD- TDP
+than in FTLD- tau, further distinguishing these two
+subtypes. The researchers suggested that patients
+with a clinical diagnosis of TDP43 or tau proteinopathy
+could potentially be identified by CSF levels
+of these analytes, which are readily measurable177.
+In a similar study, the CSF signature of GRN mutation
+carriers included increased levels of the chemotactic
+cytokine interferon- γ-induced protein 10 (IP-10) and
+decreased levels of TNF, IL-15 and CCL5 (also known
+as regulated on activation normal T cell expressed and
+secreted (RANTES))105. Given that GRN mutations are
+associated with TDP43 deposition, the investigators
+suggested that this CSF signature could be a useful
+biomarker for predicting this type of proteinopathy
+in patients with a clinical diagnosis of FTD. However,
+the involvement of these candidate biomarkers in the
+development and progression of FTD remains to be
+determined.
+The search for feasible biomarkers of neuroinflammation
+in FTD is complicated by the variable profile of
+inflammatory factors reported across different biofluids
+(such as CSF versus blood) and by the spectrum of FTD
+subtypes. This variability could be due to a combination
+of factors, including the timing of analysis in relation to
+the disease course, differences in preanalytical handling
+of samples, variation in the type of experimental assay
+used, and the very different numbers of samples analysed
+and patients included in these studies (Table 1), which
+prevents direct extrapolation from and comparison of
+their results. For example, increased levels of TNF were
+reported in the CSF of 19 patients with FTD compared
+to levels in healthy controls. However, the patients’ CSF
+TNF levels did not correlate with their serum TNF levels,
+which suggests that increased TNF in the CSF of patients
+with FTD reflects increased intrathecal immunoreactivity178
+that is either rapidly disseminated in the blood or is
+only evident in blood at late disease stages. In other similar
+studies, increased plasma TNF levels were detected
+in 129 patients with semantic variant PPA13, perhaps
+because these individuals are often assessed at advanced
+stages of the disease. By contrast, a reduction in CSF levels
+of TNF was observed in 10 GRN mutation carriers105,
+potentially due to loss of the pro- inflammatory effects
+of granulin peptides. A further example is provided by a
+report of substantially increased serum levels of IL-6 in
+14 GRN mutation carriers104, which was contradicted by
+an overall increase in plasma levels of IL-6, irrespective
+of the clinical and genetic disease subtype, in a cohort of
+230 patients with FTD179. The timing of the assessment
+in relation to the course of disease was again likely to be
+important in this study.
+These paradoxical findings demonstrate the complex
+evolution of neuroinflammatory mechanisms over
+the course of neurodegenerative diseases like FTD and
+highlight the need not only to further understand the
+dynamics of the biochemical cascades involved, but also
+for further replication and validation of findings in large,
+independent cohorts of patients with well- characterized
+genetic and mutational status and pathological confirmation.
+A harmonized approach to biomarker discovery,
+with consistency in biomarker collection, experimental
+methodology and analysis, is necessary to determine the
+existence and extent of specific inflammatory profiles
+at different disease stages of the clinical FTD subtypes
+in the quest for informative peripheral biomarkers of
+central inflammation in FTD.
+Prevention and treatment
+Evidence suggests that the brain undergoes inflammageing
+(Fig. 1) — the progressive acquisition of a proinflammatory
+environment across the lifespan — and
+that advancing age is the primary risk factor for many
+sporadic neurodegenerative diseases, including FTD180,181.
+Several studies have provided insight into factors that contribute
+to inflammageing, which might provide an avenue
+to decrease the likelihood of developing these disorders.
+Several key immune molecules become dysregulated
+with increased ageing of the human brain. The most
+prominent changes include reduced expression of antiinflammatory
+molecules such as CX3CR1 (refs182,183)
+and increased expression of pro-inflammatory molecules,
+including cyclooxygenase-2, IL-1α, TNF and
+transforming growth factor- β1 (refs184–188). Of importance,
+these age-related inflammatory changes are
+most marked in the FTD-relevant frontal and temporal
+cortices184–188. As we discuss here, high levels of some
+pro- inflammatory cytokines are implicated in FTD,
+suggesting that this age- related pro- inflammatory environment
+might contribute to FTD risk. Understanding
+the mechanisms behind inflammageing could provide
+an opportunity to prevent or retard the progressive accumulation
+of pro-inflammatory molecules in the brain,
+thereby reducing the risk of neurodegenerative disease.
+Targeting peripheral inflammation
+Microglia are responsive to peripheral inflammation
+(Fig. 1). Prolonged treatment with low doses of intraperitoneal
+lipopolysaccharide induces a pro- inflammatory
+microglial environment and a more severe disease
+phenotype
+in the APP23 mouse model of AD and in
+wild- type mice after induction of focal brain ischaemia
+(a model of stroke), whereas prolonged high doses result
+in an anti- inflammatory microglial environment189.
+As microglia maintain their population without contribution
+from circulating precursors, and some microglia
+can live up to 20 years190,191, they are very sensitive to the
+effects of chronic peripheral inflammation192. With this
+observation in mind, it is not surprising that the risk
+of dementia late in life is increased by a high burden of
+peripheral infection throughout the lifespan193 and by
+the presence of other sources of chronic low- grade peripheral
+inflammation, such as obesity194. Furthermore, it
+is even less surprising that traumatic brain injury, a central
+source of inflammation, is a direct risk factor for the
+development of FTD195,196. Whether the effect of cumulative
+inflammation exposure on microglia is causative
+or responsive to neuronal dysfunction is unclear.
+However, the aforementioned studies suggest that limiting
+the lifetime number of stimuli (whether they be
+peripheral or central) that induce microglia to enter a
+pro- inflammatory state might reduce inflammageing
+and help to prevent FTD and other neurodegenerative
+conditions.
+Targeting microglia
+Microglia continue to change phenotype with increasing
+age and experience in humans, and are the brain
+cell type most extensively linked to ageing197. The genes
+expressed in microglia are defined more by age than by
+regional identity197. The genes most upregulated with age
+in microglia are related to pathways involved in regulation
+of the adaptive immune response, natural killer cellmediated
+cytotoxicity, cell adhesion and motion197. Key
+immune and/or inflammatory genes that are upregulated
+in aged microglia include TREM2, CD33 (encoding the
+myeloid cell surface antigen CD33), SORL1 (encoding
+sortilin- related receptor), INPP5D (encoding phosphatidylinositol
+3,4,5-trisphosphate 5-phosphatase 1), C1QA,
+C1QB and C1QC (which encode complement C1q proteins)
+187,198,199. Polymorphisms in TREM2 are associated
+with increased risks of both FTD and AD, whereas
+polymorphisms in the other genes are associated with
+an increased risk of clinical AD198. Upregulation of
+pro- inflammatory molecules in microglia gives rise to
+an increasing number of microglia having an activated
+state, as evidenced by an increase in enlarged and ameboid
+microglia in aged human brains185. Expression of
+genes associated with phagocytosis is also increased in
+aged human microglia198.
+Our current understanding of the role of microglia
+in FTD implies that a nuanced approach to the development
+of inflammation- targeting treatments will be
+necessary. As the functional phenotypes of microglia
+in FTD differ from those in other neurodegenerative
+diseases, an inflammation- targeting therapy that is successful
+in another neurodegenerative disease would not
+necessarily show the same success in FTD. Functional
+phenotypes of microglia in FTD might also be affected
+by variations in FTD- related genes (for example, TREM2
+mutations often yield hypoactive microglia, whereas
+GRN mutations yield hyperactive microglia), and the
+global disease phenotype as well as where the patient’s
+symptoms lie on the ALS–FTD spectrum. These observations
+suggest that development of a ‘one- size-fits- all’
+microglia- targeted therapy for FTD might be difficult.
+Microglia- targeting therapies might need to be developed
+independently for different clinical and molecular
+subtypes, severities, stages and familial versus sporadic
+forms of FTD.
+On the other hand, dystrophic or senescent microglia
+are also a common feature in human brain tissue from
+aged donors187 and microglial numbers do not decrease
+with advanced age197. Dystrophic, aged microglia display
+deramification of processes, spheroid formation and
+eventually process fragmentation, which might limit
+their ability to survey the brain and remove dangerous
+or aggregated molecules and debris200–202. Genes associated
+with DNA damage and telomere maintenance
+show increased expression in aged human microglia,
+which offers a potential basis for their senescence198. In
+AD, microglial dystrophy occurs before the spread of
+tau pathology or symptom onset202, suggesting that the
+accumulation of senescent microglia might promote
+the degeneration of other cell types in the brain. In one
+study in a mouse model of tauopathy, clearance of senescent
+microglia and astrocytes was sufficient to prevent
+cognitive decline, tau pathology and neuronal degeneration203.
+Collectively, the results of these studies suggest
+that age-related microglial dysfunction contributes to the
+age-related component of increased dementia risk202.
+With all this in mind, a senolytic drug has shown
+promise in preclinical studies in an FTD- like model.
+These drugs selectively induce the death of senescent
+cells, which are characterized partly by a secretory
+phenotype
+that includes high levels of pro- inflammatory
+cytokine secretion204. Senescent astrocytes and microglia
+accumulate in P301S Mapt mice. Use of the senolytic
+drug navitoclax to clear these cells was successful
+in decreasing tau phosphorylation and aggregation in
+this model203. Genetic ablation of the senolytic cells
+was also sufficient to prevent gliosis, tau pathology,
+neuronal degeneration and cognitive loss203. This exciting
+work suggests that senolytics show promise as a
+neuroinflammation- modulating treatment, at least for
+some forms of FTD.
+Targeting astrocytes
+Microglia might not be the only glial population that
+contributes to inflammageing, as astrocytes also release
+cytokines in the CNS (although the genes most upregulated
+with age in astrocytes are related to cell morphogenesis
+and cell–cell adhesion pathways, rather than
+those associated with immune or inflammatory regulation)
+197. However, the number of activated astrocytes in
+healthy human substantia nigra, hippocampus, temporal
+lobe and frontal lobe increases with age (particularly
+after 65 years), as evidenced by increased expression of
+GFAP (encoding glial fibrillary acidic protein) and the
+transformation of astrocyte processes from long and
+slender in young adult brains to small and stubby in
+aged brains205–207. The functional consequences of these
+changes in the ageing human brain are not known; however,
+animal studies of aged brains reveal that activated
+astrocytes show higher basal expression of TNF, IL-1β
+and IL-6 than do microglia208. Importantly, the astrocytederived
+factors colony- stimulating factor 1, IL-34,
+transforming growth factor- β and cholesterol prevent
+microglial death47. Studies of the interactions between
+astrocytes and microglia in the aged human brain are
+necessary to provide insight into the contribution of
+astrocytes to age- related neuroinflammation.
+A picture is emerging of an intricate interplay
+between microglial, astrocytic and neuronal dysfunction
+in FTD. For example, selective inactivation of the proinflammatory
+mediator NF- κB in microglia of Grn−/−
+mice can reverse the increased self- grooming behaviours
+seen in these mice, which are a model of obsessivecompulsive
+disorder in FTD209. Moreover, use of a viral
+vector to deliver progranulin selectively to neurons in
+Grn−/− mice is sufficient to reduce the microgliosis and
+lipofuscinosis typically seen in these animals, which
+suggests that abnormal neuronal or downstream cell
+functioning might drive the microglial activation and
+neuropathology observed in progranulin- related FTD210.
+In a different model of FTD, P301S Mapt transgenic
+mice, high levels of reactive oxygen species (which are
+seen in pro- inflammatory environments) lead to excessive
+cell surface expression of phosphatidylserine in
+neurons. In response, contacting neurons secrete lactadherin
+(also known as milk fat globule- EGF factor 8)
+and nitric oxide, which drive microglia to excessively
+phagocytose live neurons, resulting in synaptic dysfunction211.
+Further unravelling of the degree to which
+glial- related neuroinflammation is causative of neurodegeneration
+in FTD, as opposed to simply exacerbating
+pre- existing neuronal dysfunction, is necessary for
+the rational design of neuroinflammation- targeting
+treatments in FTD.
+Conclusions and future directions
+This Review discusses the extensive evidence that
+supports the involvement of neuroinflammation and
+immune- mediated mechanisms in the pathogenesis of
+FTD. However, a clear need remains for further understanding
+of the molecular mechanisms underlying FTD.
+This information will be critical to the development of
+a unified platform for accurate clinical diagnosis and
+therapeutic intervention across FTD subtypes during life.
+In the absence of disease- modifying treatments
+for FTD, the investigation of neuroinflammation and
+immune- mediated mechanisms implicated in this disorder
+is a promising research trajectory. Replication and
+validation of the results of previous studies in patients with
+FTD, using independent cohorts and quantitative methods
+(such as PET imaging, proteomics and genomics),
+is pivotal. The identification of new treatment targets
+and drug and biomarker candidates could enable
+patients with specific FTD proteinopathies to be identified
+on the basis of clinical features such as the degree of
+neuroinflammation or by associations with underlying
+autoimmune or genetic abnormalities. Accordingly, we
+suggest that a combination of clinical biomarker discovery
+and studies of groups of patients carrying mutations
+that target a specific protein or underlying aspect of FTD
+pathology will be essential in future investigations.
+Given the changing view of microglial phenotypes
+and the possibility that more microglial phenotypes are
+yet to be discovered, the characterization of microglial
+phenotypes in FTD and the investigation of their roles
+throughout the course of FTD require further investigation
+involving RNA sequencing and mass flow
+cytometry using human FTD tissues. Such studies
+might enable the identification and selective targeting
+of harmful microglial phenotypes without affecting the
+vital roles of other phenotypes.
+Furthermore, the exploration of pharmacological
+immunomodulatory agents is also important for
+approaches that aim to decrease the pro- inflammatory
+effects of cytokines by blockade of their receptors,
+interference with secondary messenger systems and
+inhibition of their biosynthesis. These studies will assist
+in identifying novel agents that can restore the normal
+function of activated microglial cells by decreasing their
+neurotoxic and pro- inflammatory effects. Finally, more
+knowledge is required on how the cell type, temporal
+course and disease stage context of FTD influence the
+effects of disease- related genes on neuroinflammation.
+For example, the factors governing processing of
+anti- inflammatory progranulin to its constituent proinflammatory
+granulin peptides, the relative contributions
+of loss- of-function and gain- of-function
+manifestations of C9orf72 repeat expansions, and the
+opposing pro- inflammatory and anti- inflammatory
+roles of TREM2 in different cell types and disease stages
+will need to be fully characterized in order to develop
+potential therapies for FTD based on modulation of the
+expression or activity of these genes.
