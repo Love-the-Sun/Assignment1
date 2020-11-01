@@ -25,7 +25,7 @@ Execution of the programs and all relative links mentioned here requires the cha
   - [Sentiment Analysis](#3-sentiment-analysis)
 
 
-## Placing dataset files (If needed)
+## Placing dataset files
 The review dataset file are omitted to save space in project directory. Please place your `CellPhoneReview.json` dataset file in the `dataset/` folder.
 
 ## Project Installation Guide
@@ -66,20 +66,6 @@ B00BT7RAPG    431
 B0015RB39O    424
 Name: asin, dtype: int64
 ```
-```
-Top 10 reviewers:
-A2NYK9KWFMJV4Y    152
-A22CW0ZHY3NJH8    138
-A1EVV74UQYVKRY    137
-A1ODOGXEYECQQ8    133
-A2NOW4U7W3F7RI    132
-A36K2N527TXXJN    124
-A1UQBFCERIP7VJ    112
-A1E1LEVQ9VQNK     109
-A18U49406IPPIJ    109
-AYB4ELCS5AM8P     107
-Name: reviewerID, dtype: int64
-```
 
 **Sample Sentence Lengths**
 ```
@@ -114,7 +100,7 @@ Execute the following command in `command prompt` to start generating the top 20
 ```
 $ python main.py nounphrase
 ``` 
-A trace sample is available [here](SourceCode/results/noun_phrase_summarizer/trace.txt). In our experiment, we ran the program using two different types of taggers. The final one used will be the RegExp Parser which is the default mode. If you wish to run it with the ConsecutiveNPChunk tagger simply uncomment the line which sets the mode to "chunktagger". Similarly, there is a set of data that was cleaned of URLs but was not uploaded due to size restrictions. The difference is minimal but the data can be cleaned by uncommenting the line "save_clean_dataset()" and the line after it.
+A trace sample is available [here](SourceCode/results/noun_phrase_summarizer/trace.txt). In our experiment, we ran the program using two different types of taggers. The final one used will be the RegExp Parser which is the default mode. If you wish to run it with the ConsecutiveNPChunk tagger simply uncomment the line which sets the mode to "chunktagger". 
 
 ### 3. Sentiment Analysis
 Execute the following command in `command prompt` to start generating the top 20 positive and negative words.
@@ -123,7 +109,7 @@ $ python main.py sentiment
 ``` 
 A trace sample and graph image of the result can be found in the folder [here](SourceCode/results/sentiment_word_detection/). Please note that for the `trace.txt` the actual console output will differ somewhat as the file does not include console output for printing progress such as `1000 of 190,000 done`.
 
-The following image shows the actual sample trace and graph output you would see when running the `sentiment word detection` algorithm. The sample trace shows the top 20 positive and negative words along with the calculation of its `adjusted sentiment` value. The graph plot the top 20 positive and negative words by their `adjusted sentiment`.
+The following image shows the actual sample trace and graph output you would see when running the `sentiment word detection` algorithm. The sample trace shows the top 20 positive and negative words along with the calculation of its `adjusted sentiment` value. 
 
 ![alt text](SourceCode/results/sentiment_word_detection/result.png)
 ``` 
