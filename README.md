@@ -2,6 +2,7 @@
 Domain Specific Text Data Analysis and Processing
 
 
+
 ### Readme Notice (See how u want to write)
 Execution of the programs and all relative links mentioned here requires the change of your current directory to the `SourceCode` folder. Do this with the following command in `command prompt`.
 ```
@@ -9,20 +10,22 @@ Execution of the programs and all relative links mentioned here requires the cha
 ```
 
 
+
 ## Version information
 - Python 3.6
+
 
 
 ## Contents
 - [Placing dataset files](#placing-dataset-files)
 - [Project Installation Guide](#project-installation-guide)
 - [Usage guide (Sample Outputs)](#usage-guide)
-  - [Choose any domain](#1-dataset-analysis)
+  - [Choose any domain](#1-choose-any-domain)
   - [Review Pair Ranker](#2-review-pair-ranker)
   - [Sentiment Analysis](#3-sentiment-analysis)
 
 
-## Placing dataset files
+## Placing dataset files (If needed)
 The review dataset file are omitted to save space in project directory. Please place your `CellPhoneReview.json` dataset file in the `dataset/` folder.
 
 ## Project Installation Guide
@@ -33,7 +36,7 @@ The following command will install the required python packages.
 $ pip install -r requirements.txt
 ```
 
-#### 2. Download NLTK models
+#### 2. Download NLTK models (Edit)
 The following NLTK models need to be downloaded to run some of the features provided by the `NLTK` i.e. `pos tagging`. Run the following codes on a python interpreter.
 ```
 >>> import nltk
@@ -43,7 +46,7 @@ The following NLTK models need to be downloaded to run some of the features prov
 ## Usage guide
 This section describes the steps or commands needed for running the code that solves the problems listed in the project assignment. Please ensure the `CellPhoneReview.json` has been placed in the `dataset/` folder before using any of the commands.
 
-### 1. Dataset Analysis
+### 1. Choose Any Domain
 Execute the following command in `command prompt` to start Dataset Analysis. A trace sample is available [here](SourceCode/results/dataset_analysis/trace.txt)
 ```
 $ python main.py analysis
@@ -106,7 +109,7 @@ In addition, the following shows the graph plot for frequency statistics of sent
 ![alt text](SourceCode/results/dataset_analysis/graph_result.png)
 
 
-### 2. Noun Phrase Summarizer
+### 2. Review Pair Ranker
 Execute the following command in `command prompt` to start generating the top 20 most frequent noun phrase.
 ```
 $ python main.py nounphrase
