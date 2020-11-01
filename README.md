@@ -1,7 +1,8 @@
-CZ4045 Natural Language Processing: Domain Specific Text Data Analysis and Processing
+# CZ4045 Natural Language Processing
+Domain Specific Text Data Analysis and Processing
 
 
-### Readme Notice
+### Readme Notice (See how u want to write)
 Execution of the programs and all relative links mentioned here requires the change of your current directory to the `SourceCode` folder. Do this with the following command in `command prompt`.
 ```
   $ cd SourceCode
@@ -15,11 +16,10 @@ Execution of the programs and all relative links mentioned here requires the cha
 ## Contents
 - [Placing dataset files](#placing-dataset-files)
 - [Project Installation Guide](#project-installation-guide)
-- [Usage guide](#usage-guide)
-  - [Dataset Analysis](#1-dataset-analysis)
-  - [Noun Phrase Summarizer](#2-noun-phrase-summarizer)
-  - [Sentiment Word Detection](#3-sentiment-word-detection)
-  - [Application](#4-application)
+- [Usage guide (Sample Outputs)](#usage-guide)
+  - [Choose any domain](#1-dataset-analysis)
+  - [Review Pair Ranker](#2-review-pair-ranker)
+  - [Sentiment Analysis](#3-sentiment-analysis)
 
 
 ## Placing dataset files
