@@ -16,6 +16,8 @@ Root folder (./)
   -softwareengineering.txt
   -sg_law_cleaned.txt
 -requirements.txt - For installation
+-Assignment 1 3.2 (Manual) (5).xlsx - Review data in excel
+-Assignment 1 3.2.csv - Review data in CSV format
 
 Medical folder (./Medical)
 -Raw data for medical

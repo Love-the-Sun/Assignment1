@@ -15,6 +15,8 @@
 	- [softwareengineering.txt](softwareengineering.txt)
 	- [sg_law_cleaned.txt](sg_law_cleaned.txt)
 - [requirements.txt](requirements.txt) - For installation
+- [Assignment 1 3.2 (Manual) (5).xlsx](Assignment%201%203.2%20(Manual)%20(5).xlsx) - Review data in excel
+- [Assignment 1 3.2.csv](Assignment%201%203.2.csv) - Review data in CSV format
 
 #### Medical folder (./Medical)
 - Raw data for medical
