@@ -55,3 +55,14 @@ python -m spacy download en_core_web_sm
 ```
 ## Running instruction
 We developed these python scripts and Jupyter Notebook on PyCharm and Visual Studio Code. Both of which also supports Jupyter Notebook. You may run the python scripts either from your preferred IDE or from command line directly. The Jupyter Notebooks (.ipynb) files can only be opened by Jupyter Notebook from Anaconda or on IDE which supports Jupyter Notebook. 
+
+## Sample Outputs
+
+![image](https://user-images.githubusercontent.com/11439405/97825541-ef2bed80-1cf9-11eb-96cd-d3a73b74b069.png)
+(Screenshot 1) - Outputs from POS Tagging for Medical Domain
+
+![image](https://user-images.githubusercontent.com/11439405/97825615-2c907b00-1cfa-11eb-8f21-ec3c41ecf438.png)
+(Screenshot 2) - Outputs from {Noun-Adjective} Pair Ranker 
+
+![image](https://user-images.githubusercontent.com/11439405/97825710-6c576280-1cfa-11eb-8928-b546a92de89c.png)
+(Screenshot 3) - Outputs from Sentiment Analysis Application
